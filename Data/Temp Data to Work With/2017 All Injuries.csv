@@ -1,0 +1,211 @@
+Label,Characteristic,Year,Characteristic_code,total_fatal_injuries,total_hours_worked,fatal_injury_rate,margin_of_error
+,Total,2017,no data,"5,147","285,977",3.5,0
+, no data,2017,no data,no data,no data,no data,no data
+,Employee status,2017,no data,no data,no data,no data,no data
+,Wage and salary workers5,2017,no data,"4,069","269,535",2.9,0
+,Self-employed6,2017,no data,"1,078","16,317",13.1,0.3
+, no data,2017,no data,no data,no data,no data,no data
+,Gender,2017,no data,no data,no data,no data,no data
+Dem,Men,2017,no data,"4,761","161,535",5.7,0
+Dem,Women,2017,no data,386,"124,442",0.6,0
+, no data,2017,no data,no data,no data,no data,no data
+,Age,2017,no data,no data,no data,no data,no data
+Dem,16 to 17 years,2017,no data,7,"1,658",0.8,0
+Dem,18 to 19 years,2017,no data,62,"4,167",2.6,0.1
+Dem,20 to 24 years,2017,no data,293,"23,734",2.2,0
+Dem,25 to 34 years,2017,no data,872,"66,241",2.5,0
+Dem,35 to 44 years,2017,no data,907,"62,511",2.9,0
+Dem,45 to 54 years,2017,no data,"1,059","63,933",3.3,0
+Dem,55 to 64 years,2017,no data,"1,155","49,347",4.6,0
+Dem,65 years and over,2017,no data,775,"14,386",10.3,0.2
+, no data,2017,no data,no data,no data,no data,no data
+,Race or ethnic origin7,2017,no data,no data,no data,no data,no data
+Dem,White (non-Hispanic),2017,no data,"3,449","181,695",3.6,0
+Dem,Black or African-American (non-Hispanic),2017,no data,530,"32,296",3.2,0
+Dem,Asian (non-Hispanic),2017,no data,144,"17,289",1.6,0
+Dem,Hispanic or Latino,2017,no data,903,"47,964",3.7,0
+, no data,2017,no data,no data,no data,no data,no data
+,Occupation8,2017,Occupation code8,no data,no data,no data,no data
+,Civilian Occupations,2017,no data,no data,no data,no data,no data
+Ind,"Management, professional, and related occupations",2017,"11, 13, 15, 17, 19, 21, 23, 25, 27, 29",654,"117,488",1.1,0
+,"Management, business, and financial operations occupations",2017,"11, 13",425,"52,207",1.6,0
+,Management occupations,2017,11-0000,396,"37,361",2.1,0
+Occ,"Farmers, ranchers, and other agricultural managers",2017,Nov-13,258,"2,153",24,2.2
+Occ,Construction managers,2017,Nov-21,12,"2,301",1,0.1
+Occ,Food service managers,2017,Nov-51,19,"2,618",1.5,0.1
+Occ,"Property, real estate, and community association managers",2017,Nov-41,16,"1,395",2.3,0.2
+Occ,Business and financial operations occupations,2017,13-0000,29,"14,846",0.4,0
+,Professional and related occupations,2017,"15, 17, 19,  21, 23, 25, 27, 29",229,"65,280",0.7,0
+Occ,Computer and mathematical occupations,2017,15-0000,11,"9,490",0.2,0
+Occ,Architecture and engineering occupations,2017,17-0000,23,"6,538",0.7,0
+Occ,"Life, physical, and social science occupations",2017,19-0000,13,"2,756",0.9,0.1
+Occ,Community and social service occupations,2017,21-0000,37,"4,872",1.4,0.1
+Occ,Legal occupations,2017,23-0000,11,"3,728",0.6,0
+Occ,"Education, training, and library occupations",2017,25-0000,30,"15,086",0.4,0
+,"Arts, design, entertainment, sports, and media occupations",2017,27-0000,47,"5,617",1.6,0.1
+Occ,"Athletes, coaches, umpires, and related workers",2017,27-2020,24,503,8.7,1.1
+,Healthcare practitioners and technical occupations,2017,29-0000,57,"17,192",0.6,0
+Occ,      Registered nurses,2017,29-1141,14,"5,698",0.5,0
+Occ,                     Emergency medical technicians and paramedics,2017,29-2041,12,515,4.3,0.5
+Ind,Service occupations,2017,"31, 33, 35, 37, 39",778,"45,191",3.3,0
+Occ,Healthcare support occupations,2017,31-0000,28,"6,085",0.9,0
+,Protective service occupations,2017,33-0000,266,"6,326",7.7,0.3
+Occ,Firefighters,2017,33-2011,34,768,3.6,0.4
+Occ,Police and sheriff's patrol officers,2017,33-3051,95,"1,476",12.9,1
+Occ,Security guards and gaming surveillance officers,2017,33-9030,63,"1,764",7.1,0.5
+,Food preparation and serving related occupations,2017,35-0000,89,"13,018",1.4,0
+Occ,Supervisors of food preparation and serving workers,2017,35-1010,38,"1,975",3.8,0.3
+,Building and grounds cleaning and maintenance occupations,2017,37-0000,326,"9,990",6.4,0.2
+Occ,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",2017,37-1012,53,504,21,2.5
+Occ,Janitors and building cleaners,2017,"37-2011, 37-2019",55,"3,876",2.8,0.1
+Occ,Grounds maintenance workers,2017,37-3010,191,"2,406",15.5,0.9
+Occ,Personal care and service occupations,2017,39-0000,69,"9,773",1.2,0
+Ind,Sales and office occupations,2017,"41, 43",333,"60,180",1.1,0
+,Sales and related occupations,2017,41-0000,232,"28,620",1.6,0
+Occ,First-line supervisors of retail sales workers,2017,41-1011,79,"6,744",2.3,0.1
+Occ,First-line supervisors of non-retail sales workers,2017,41-1012,19,"2,540",1.5,0.1
+Occ,Cashiers (including gaming change persons and booth cashiers ),2017,41-2010,42,"4,586",1.8,0.1
+Occ,Retail salespersons,2017,41-2031,43,"5,344",1.6,0.1
+Occ,Office and administrative support occupations,2017,43-0000,101,"31,560",0.6,0
+Ind,"Natural resources, construction, and maintenance occupations",2017,"45, 47, 49","1,643","28,143",11.5,0.2
+,"Farming, fishing, and forestry occupations",2017,45-0000,264,"2,387",20.9,1.9
+Occ,Miscellaneous agricultural workers,2017,45-2090,154,"1,736",16.4,1.8
+Occ,Fishers and related fishing workers,2017,45-3011,41,82,99.8,34.6
+Occ,Logging workers,2017,45-4020,55,126,84.3,20.2
+,Construction and extraction occupations,2017,47-0000,965,"15,698",12.2,0.3
+Occ,First-line supervisors of construction trades and extraction workers,2017,47-1011,121,"1,391",17.4,1.2
+Occ,Carpenters,2017,47-2031,101,"2,558",7.5,0.4
+Occ,Construction laborers,2017,47-2061,259,"3,613",14.2,0.6
+Occ,Operating engineers and other construction equipment operators,2017,47-2073,45,763,11.3,1
+Occ,Electricians,2017,47-2111,74,"1,765",8.3,0.6
+Occ,"Painters, construction and maintenance",2017,47-2141,44,986,8.9,0.8
+Occ,"Pipelayers, plumbers, pipefitters, and steamfitters",2017,47-2150,43,"1,204",7.1,0.6
+Occ,Roofers,2017,47-2181,91,403,45.2,6
+Occ,Structural iron and steel workers,2017,47-2221,14,84,33.4,9.1
+Occ,"Helpers, construction trades",2017,47-3010,11,127,15.7,3.6
+Occ,Mining machine operators,2017,47-5040,7,120,11.7,3.4
+Occ,Other extraction workers,2017,"47-5051, 47-5099",7,129,10.8,3.1
+,"Installation, maintenance, and repair occupations",2017,49-0000,414,"10,057",8.1,0.2
+Occ,"First-line supervisors of mechanics, installers, and repairers",2017,49-1011,35,533,13.1,1.7
+Occ,Automotive service technicians and mechanics,2017,49-3023,66,"1,827",7.2,0.5
+Occ,Bus and truck mechanics and diesel engine specialists,2017,49-3031,29,835,6.9,0.8
+Occ,"Heating, air conditioning, and refrigeration mechanics and installers",2017,49-9021,24,893,5.4,0.5
+Occ,"Industrial machinery installation, repair, and maintenance workers",2017,49-9040,28,"1,034",5.4,0.5
+Occ,Electrical power-line installers and repairers,2017,49-9051,26,279,18.7,3.1
+Occ,Telecommunications line installers and repairers,2017,49-9052,15,376,8,1.1
+Occ,"Maintenance and repair workers, general",2017,49-9071,87,"1,046",16.6,1.3
+Ind,"Production, transportation, and material moving occupations",2017,"51, 53","1,664","34,975",9.4,0.2
+,Production occupations,2017,51-0000,221,"16,907",2.6,0.1
+Occ,First-line supervisors of production and operating workers,2017,51-1011,31,"1,652",3.8,0.3
+Occ,"Welding, soldering, and brazing workers",2017,51-4120,37,"1,249",5.8,0.5
+,Transportation and material moving occupations,2017,53-0000,"1,443","18,068",15.9,0.4
+Occ,Aircraft pilots and flight engineers,2017,53-2010,59,230,48.6,7.6
+Occ,Driver/sales workers and truck drivers,2017,53-3030,987,"7,341",26.8,0.9
+Occ,Taxi drivers and chauffeurs,2017,53-3041,62,"1,176",10.4,0.9
+Occ,Industrial truck and tractor operators,2017,53-7051,34,"1,253",5.4,0.4
+Occ,"Laborers and freight, stock, and material movers, hand",2017,53-7062,106,"3,433",6.1,0.3
+Occ,Refuse and recyclable material collectors,2017,53-7081,30,172,35,7.5
+, no data,2017,no data,no data,no data,no data,no data
+,Industry9,2017,Industry code9,no data,no data,no data,no data
+,Private industry,2017,no data,"4,674","247,851",3.7,0
+,Goods producing,2017,"11, 21, 23, 31, 32, 33","1,967","58,315",6.7,0.1
+,Natural resources and mining10,2017,"11, 21",693,"6,665",20.3,1.4
+Ind,"Agriculture, forestry, fishing and hunting",2017,11,581,"4,923",23,1.7
+Occ,Crop production  ,2017,111000,263,"2,405",20.9,2.1
+Occ,Animal production and aquaculture,2017,112000,152,"1,816",16.4,1.7
+Occ,Logging ,2017,113300,74,207,70.6,16.1
+Occ,"Fishing, hunting and trapping ",2017,114000,40,102,78.1,29.1
+Occ,Support activities for agriculture and forestry ,2017,115000,43,367,23.4,4.9
+Ind,"Mining, quarrying, and oil and gas extraction",2017,21,112,"1,742",12.9,2.2
+Occ,Oil and gas extraction ,2017,211000,8,203,7.9,1.9
+,Mining (except oil and gas),2017,212000,31,400,15.5,3.6
+Occ,Coal mining ,2017,212100,17,112,30.3,12.1
+Occ,Nonmetallic mineral mining and quarrying,2017,212300,10,203,9.9,2
+Occ,Support activities for mining,2017,213000,73,"1,140",12.8,2.9
+Ind,Construction,2017,23,971,"20,281",9.5,0.2
+Ind,Manufacturing,2017,"31, 32, 33",303,"31,370",1.9,0
+,Food manufacturing,2017,311000,51,"3,647",2.8,0.2
+Occ,"Animal food, grain and oilseed milling ",2017,"3111, 3112",10,340,5.9,1
+Occ,Animal slaughtering and processing ,2017,311600,18,947,3.8,0.6
+Occ,Wood product manufacturing,2017,321000,24,874,5.3,0.6
+Occ,Chemical manufacturing,2017,325000,13,"2,736",1,0.1
+Occ,Plastics and rubber products manufacturing,2017,326000,15,"1,091",2.7,0.3
+,Nonmetallic mineral product manufacturing,2017,327000,35,931,7.5,0.7
+Occ,"Cement, concrete, lime, and gypsum product manufacturing ",2017,"3273, 3274",21,335,12.5,1.9
+Occ,Primary metal manufacturing,2017,331000,8,929,1.7,0.2
+Occ,Fabricated metal product manufacturing,2017,332000,50,"2,346",4.3,0.3
+Occ,Machinery manufacturing,2017,333000,20,"2,531",1.6,0.1
+Occ,Transportation equipment manufacturing,2017,336000,24,"4,949",1,0.1
+,Service providing,2017,"22, 42, 44, 45, 48, 49, 51, 52, 53, 54, 55, 56, 61, 62, 71, 72, 81, 99","2,707","189,536",2.8,0
+,"Trade, transportation, and utilities",2017,"42, 44, 45, 48, 49, 22","1,371","50,315",5.4,0.1
+Ind,Wholesale trade,2017,42,174,"7,316",4.8,0.2
+,"Merchant wholesalers, durable goods",2017,423000,85,"3,263",5.2,0.3
+Occ,"Machinery, equipment, and supplies merchant wholesalers     ",2017,423800,19,705,5.4,0.5
+Occ,Recyclable material merchant wholesalers,2017,423930,15,217,13.8,2.6
+,"Merchant wholesalers, nondurable goods",2017,424000,87,"3,726",4.7,0.2
+Occ,Grocery and related products merchant wholesalers ,2017,424400,39,"1,790",4.4,0.3
+Ind,Retail trade,2017,"44, 45",287,"29,214",2,0
+,Motor vehicle and parts dealers,2017,441000,54,"4,260",2.5,0.1
+Occ,Automobile dealers ,2017,441100,28,"3,002",1.9,0.1
+Occ,"Automotive parts, accessories, and tire stores  ",2017,441300,19,982,3.7,0.3
+Occ,Building material and garden equipment and supplies dealers,2017,444000,30,"2,819",2.1,0.1
+,Food and beverage stores,2017,445000,60,"5,267",2.3,0.1
+Occ,Grocery stores ,2017,445100,49,"4,596",2.1,0.1
+Occ,Gasoline stations ,2017,447000,37,886,8.3,0.8
+Occ,Miscellaneous store retailers,2017,453000,23,"1,849",2.5,0.1
+Occ,Nonstore retailers,2017,454000,21,"1,308",3.2,0.2
+Ind,Transportation and warehousing     ,2017,"48, 49",882,"11,636",15.1,0.5
+Occ,Air transportation ,2017,481000,21,"1,053",3.8,0.3
+Occ,Rail transportation ,2017,482000,11,440,5,0.7
+Occ,Water transportation ,2017,483000,13,154,16.9,4.1
+Occ,Truck transportation ,2017,484000,599,"4,280",28,1.5
+,Transit and ground passenger transportation,2017,485000,64,"1,593",8,0.6
+Occ,Bus service and urban transit ,2017,485000 except 485300,15,596,5,0.5
+Occ,Taxi and limousine service ,2017,485300,49,996,9.8,0.9
+Occ,Support activities for transportation ,2017,488000,90,"1,392",12.8,1
+Occ,Couriers and messengers,2017,492000,51,"1,383",7.2,0.6
+Occ,Warehousing and storage ,2017,493000,22,"1,162",3.8,0.3
+Ind,Utilities,2017,22,28,"2,150",2.6,0.2
+Ind,Information ,2017,51,43,"5,272",1.6,0.1
+,Publishing industries (except internet),2017,511000,10,958,2.1,0.2
+Occ,Newspaper publishers,2017,511110,8,331,4.8,0.7
+Ind,Financial activities,2017,"52, 53",101,"20,023",1,0
+Occ,Finance and insurance,2017,52,32,"14,213",0.5,0
+,Real estate and rental and leasing,2017,53,69,"5,809",2.4,0.1
+Occ,Real estate ,2017,531000,48,"5,025",1.9,0.1
+Occ,Rental and leasing services,2017,532000,21,784,5.4,0.6
+Ind,Professional and business services,2017,"54, 55, 56",532,"34,997",3,0
+,"Professional, scientific, and technical services",2017,54,69,"22,455",0.6,0
+Occ,"Architectural, engineering, and related services ",2017,541300,18,"3,405",1.1,0
+,"Management, administrative, and waste services",2017,"55, 56",463,"12,542",7.4,0.2
+Occ,Employment services ,2017,561300,38,"1,737",4.4,0.3
+Occ,Investigation and security services ,2017,561600,55,"1,597",6.9,0.5
+Occ,Services to buildings and dwellings (except landscaping services) ,2017,"561700, except 561730",65,"2,934",4.4,0.2
+Occ,Landscaping services,2017,561730,214,"2,515",16.9,1
+Occ,Waste management and remediation services ,2017,562000,63,917,13.7,1.4
+Ind,Educational and health services,2017,"61, 62",189,"42,908",0.8,0
+Occ,Educational services,2017,61,43,"8,118",1,0
+,Health care and social assistance,2017,62,146,"34,790",0.8,0
+Occ,Ambulatory health care services,2017,621000,65,"13,726",0.9,0
+Occ,Hospitals ,2017,622000,21,"11,884",0.3,0
+Occ,Nursing and residential care facilities,2017,623000,31,"4,360",1.4,0.1
+Occ,Social assistance,2017,624000,28,"4,820",1,0
+Ind,Leisure and hospitality,2017,"71, 72",262,"22,902",2.2,0
+,"Arts, entertainment, and recreation",2017,71,91,"5,002",3.2,0.1
+Occ,"Performing arts, spectator sports, and related industries",2017,711000,38,"1,475",4.9,0.4
+Occ,"Amusement, gambling, and recreation industries (except bowling centers)  ",2017,"713000, except 713950",48,"3,151",2.7,0.1
+,Accommodation and food services,2017,72,171,"17,900",1.9,0
+,Accommodation ,2017,721000,33,"2,685",2.4,0.1
+Occ,Traveler accommodation ,2017,721100,26,"2,526",2,0.1
+,Food services and drinking places,2017,722000,138,"15,215",1.8,0
+Occ,Restaurants and other food services ,2017,"722000, except 722400",112,"14,781",1.5,0
+Occ,Drinking places (alcoholic beverages),2017,722400,26,435,12,1.6
+Ind,"Other services, except public administration",2017,81,205,"13,119",2.9,0.1
+,Repair and maintenance,2017,811000,132,"4,143",6.3,0.3
+Occ,Automotive repair and maintenance (except car washes),2017,"811100, except 811192",86,"2,502",6.9,0.4
+Occ,Personal and laundry services,2017,812000,36,"4,469",1.4,0.1
+Occ,"Religious, grantmaking, civic, professional, and similar organizations",2017,813000,35,"3,590",1.4,0.1
+Ind,Government,2017,no data,473,"38,126",2,0
+Occ,Federal government,2017,no data,116,"7,023",1.3,0.1
+Occ,State government,2017,no data,91,"12,792",1.4,0
+Occ,Local government,2017,no data,265,"18,311",2.6,0.1

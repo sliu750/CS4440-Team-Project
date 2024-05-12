@@ -1,0 +1,228 @@
+Label,Characteristic,Year,total_fatal_injuries,total_hours_worked,fatal_injury_rate
+,Total,2014,"4,821","272,663",3.4
+,,2014,,,
+,Employee Status,2014,,,
+,Wage and salary workers4 ,2014,"3,728","256,901",2.8
+,Self-employed5,2014,"1,093","15,956",13.6
+,,2014,,,
+,Gender,2014,,,
+Dem,Men,2014,"4,454","154,791",5.6
+Dem,Women,2014,367,"118,054",0.6
+,,2014,,,
+,Age,2014,,,
+Dem,18 to 19 years,2014,42,"3,832",2.0
+Dem,20 to 24 years,2014,292,"23,070",2.3
+Dem,25 to 34 years,2014,753,"61,437",2.4
+Dem,35 to 44 years,2014,860,"60,683",2.8
+Dem,45 to 54 years,2014,"1,161","64,164",3.6
+Dem,55 to 64 years,2014,"1,007","45,965",4.3
+Dem,65 years and over,2014,684,"12,294",10.7
+,,2014,,,
+,Race or ethnic origin6,2014,,,
+Dem,White (non-Hispanic),2014,"3,332","179,238",3.6
+Dem,Black or African-American (non-Hispanic),2014,475,"29,011",3.2
+Dem,Asian (non-Hispanic),2014,137,"15,382",1.8
+Dem,Hispanic or Latino,2014,804,"43,371",3.7
+,,2014,,,
+,Occupation7,2014,,,
+,Civilian Occupations,2014,,,
+Ind,"Management, professional, and related occupations",2014,704,"108,678",1.3
+,"Management, business, and financial operations occupations",2014,468,"48,006",1.9
+,Management occupations,2014,440,"34,336",2.5
+Occ,"Farmers, ranchers, and other agricultural managers",2014,270,"2,003",26.7
+Occ,Construction managers,2014,15,"1,512",2.0
+Occ,Food service managers,2014,22,"2,400",1.8
+Occ,"Property, real estate, and community association managers",2014,20,"1,231",3.2
+Occ,Business and financial operations occupations,2014,28,"13,672",0.4
+,Professional and related occupations,2014,236,"60,781",0.7
+Occ,Computer and mathematical occupations,2014,16,"8,556",0.4
+Occ,Architecture and engineering occupations,2014,35,"5,735",1.2
+Occ,"Life, physical, and social science occupations",2014,18,"2,625",1.3
+Occ,Community and social service occupations,2014,33,"4,622",1.1
+Occ,"Education, training, and library occupations",2014,27,"14,491",0.4
+,"Arts, design, entertainment, sports, and media occupations",2014,47,"5,051",1.6
+Occ,"Athletes, coaches, umpires, and related workers",2014,19,426,7.5
+Occ,Healthcare practitioners and technical occupations,2014,53,"15,975",0.7
+Ind,Service occupations,2014,597,"43,061",2.6
+,Protective service occupations,2014,213,"6,272",6.1
+Occ,Police and sheriff's patrol officers,2014,97,"1,437",13.5
+Occ,Security guards and gaming surveillance officers,2014,40,"1,660",4.7
+,Food preparation and serving related occupations,2014,55,"12,515",0.9
+Occ,First-line supervisors of food preparation and serving workers,2014,19,"1,907",2.0
+,Building and grounds cleaning and maintenance occupations,2014,252,"9,709",5.1
+Occ,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",2014,33,403,16.4
+Occ,Janitors and building cleaners,2014,48,"3,942",2.4
+Occ,Grounds maintenance workers,2014,158,"2,374",13.1
+Occ,Personal care and service occupations,2014,63,"8,651",1.4
+Ind,Sales and office occupations,2014,339,"59,874",1.1
+,Sales and related occupations,2014,239,"28,388",1.7
+Occ,First-line supervisors of retail sales workers,2014,89,"6,800",2.6
+Occ,First-line supervisors of non-retail sales workers,2014,35,"2,580",2.7
+Occ,Cashiers,2014,35,"4,561",1.5
+Occ,Retail salespersons,2014,38,"5,483",1.3
+Occ,Office and administrative support occupations,2014,100,"31,516",0.6
+Ind,"Natural resources, construction, and maintenance occupations",2014,"1,567","26,762",11.5
+,"Farming, fishing, and forestry occupations",2014,259,"2,027",24.7
+Occ,Miscellaneous agricultural workers,2014,146,"1,480",18.9
+Occ,Fishers and related fishing workers,2014,22,52,80.8
+Occ,Logging workers,2014,78,137,110.9
+,Construction and extraction occupations,2014,902,"14,800",12.1
+Occ,First-line supervisors of construction trades and extraction workers,2014,130,"1,493",17.4
+Occ,Carpenters,2014,59,"2,393",4.8
+Occ,Construction laborers,2014,208,"3,078",13.3
+Occ,Operating engineers and other construction equipment operators,2014,28,700,8.0
+Occ,Electricians,2014,79,"1,563",10.0
+Occ,"Painters, construction and maintenance",2014,46,999,9.2
+Occ,"Pipelayers, plumbers, pipefitters, and steamfitters",2014,32,"1,143",5.6
+Occ,Roofers,2014,83,356,46.1
+Occ,Structural iron and steel workers,2014,15,106,28.3
+Occ,Other extraction workers,2014,22,232,18.1
+,"Installation, maintenance, and repair occupations",2014,406,"9,913",8.1
+Occ,"First-line supervisors of mechanics, installers, and repairers",2014,38,618,12.3
+Occ,Automotive service technicians and mechanics,2014,33,"1,770",3.7
+Occ,Bus and truck mechanics and diesel engine specialists,2014,30,688,8.4
+Occ,"Heating, air conditioning, and refrigeration mechanics and installers",2014,29,764,7.3
+Occ,"Industrial machinery installation, repair, and maintenance workers",2014,43,"1,142",7.5
+Occ,"Maintenance and repairs workers, general",2014,68,929,14.4
+Occ,Electrical power-line installers and repairers,2014,25,260,19.2
+Occ,Telecommunications line installers and repairers,2014,19,380,10.0
+Ind,"Production, transportation, and material moving occupations",2014,"1,558","34,242",9.0
+,Production occupations,2014,212,"16,893",2.5
+Occ,First-line supervisors of production and operating workers,2014,22,"1,717",2.6
+Occ,"Welding, soldering, and brazing workers",2014,39,"1,295",6.0
+,Transportation and material moving occupations,2014,"1,346","17,379",15.4
+Occ,Aircraft pilots and flight engineers,2014,82,250,64.0
+Occ,Driver/sales workers and truck drivers,2014,880,"7,123",24.7
+Occ,Taxi drivers and chauffeurs,2014,68,722,18.0
+Occ,Industrial truck and tractor operators,2014,37,"1,137",6.3
+Occ,"Laborers and freight, stock, and material movers, hand",2014,87,"3,322",5.1
+Occ,Refuse and recyclable material collectors,2014,27,151,35.8
+,,2014,,,
+,Industry8,2014,,,
+,Private industry,2014,"4,386","235,888",3.7
+,Goods producing,2014,"2,015","56,019",7.1
+,Natural resources and mining9,2014,767,"7,021",21.4
+Ind,"Agriculture, forestry, fishing and hunting",2014,584,"4,460",25.6
+Occ,Crop production  ,2014,251,"2,201",22.4
+Occ,Animal production and aquaculture  ,2014,166,"1,657",19.3
+Occ,Logging ,2014,92,180,100.0
+Occ,"Fishing, hunting, and trapping ",2014,25,70,68.6
+Occ,Support activities for agriculture and forestry ,2014,44,308,28.6
+Ind,"Mining, quarrying, and oil and gas extraction",2014,183,"2,561",14.2
+Occ,Oil and gas extraction ,2014,18,231,15.6
+,Mining (except oil and gas),2014,38,467,15.8
+Occ,Nonmetallic mineral mining and quarrying,2014,19,170,22.4
+Occ,Support activities for mining,2014,127,"1,842",13.8
+Ind,Construction,2014,899,"18,168",9.8
+Ind,Manufacturing,2014,349,"30,830",2.3
+,Food manufacturing,2014,56,"3,398",3.3
+Occ,Animal slaughtering and processing ,2014,19,996,3.8
+Occ,Wood product manufacturing,2014,42,785,10.7
+Occ,Chemical manufacturing,2014,27,"2,752",2.0
+Occ,Plastics and rubber products manufacturing,2014,15,979,3.1
+,Nonmetallic mineral product manufacturing,2014,39,857,9.1
+Occ,"Cement, concrete, lime, and gypsum product manufacturing ",2014,30,312,19.2
+Occ,Primary metal manufacturing,2014,28,"1,093",5.1
+Occ,Fabricated metal product manufacturing,2014,34,"2,315",2.9
+Occ,Machinery manufacturing,2014,24,"2,724",1.8
+Occ,Transportation equipment manufacturing,2014,32,"4,765",1.3
+,Service providing,2014,"2,371","179,797",2.6
+,"Trade, transportation, and utilities",2014,"1,246","49,281",5.0
+Ind,Wholesale trade,2014,191,"7,430",5.1
+,"Merchant wholesalers, durable goods",2014,105,"3,522",6.0
+Occ,"Machinery, equipment, and supplies, merchant wholesalers     ",2014,27,817,6.6
+Occ,Recyclable material merchant wholesalers,2014,24,221,21.7
+,"Merchant wholesalers, nondurable goods",2014,84,"3,676",4.6
+Occ,"Groceries and related products, merchant wholesalers ",2014,16,"1,718",1.9
+Ind,Retail trade,2014,272,"28,997",1.9
+,Motor vehicle and parts dealers,2014,47,"3,963",2.4
+Occ,Automobile dealers ,2014,23,"2,690",1.7
+Occ,"Automotive parts, accessories, and tire stores  ",2014,21,"1,023",4.1
+Occ,Building material and garden equipment and supplies dealers,2014,27,"2,677",1.9
+,Food and beverage stores,2014,69,"5,499",2.5
+Occ,Grocery stores ,2014,51,"4,731",2.2
+Occ,Gasoline stations ,2014,29,943,6.2
+Occ,Miscellaneous store retailers,2014,24,"1,883",2.4
+Occ,Nonstore retailers,2014,16,"1,118",2.9
+Ind,Transportation and warehousing     ,2014,766,"10,897",14.1
+Occ,Air transportation ,2014,35,949,7.4
+Occ,Truck transportation ,2014,503,"4,208",23.9
+,Transit and ground passenger transportation,2014,69,"1,202",11.5
+Occ,Taxi and limousine service ,2014,56,599,18.7
+Occ,Support activities for transportation ,2014,81,"1,426",11.4
+Occ,Couriers and messengers,2014,36,"1,360",5.3
+Occ,Warehousing and storage ,2014,16,909,3.5
+Ind,Utilities,2014,17,"1,957",1.7
+Ind,Information ,2014,35,"5,759",1.2
+Ind,Financial activities,2014,117,"18,852",1.2
+Occ,Finance and insurance,2014,29,"13,635",0.4
+,Real estate and rental and leasing,2014,88,"5,236",3.4
+Occ,Real estate ,2014,59,"4,563",2.6
+Occ,Rental and leasing services,2014,29,673,8.6
+Ind,Professional and business services,2014,425,"31,497",2.7
+,"Professional, scientific, and technical services",2014,80,"19,780",0.8
+Occ,"Architectural, engineering, and related services ",2014,31,"2,826",2.2
+,"Management, administrative, and waste services",2014,345,"11,722",5.8
+Occ,Employment services ,2014,39,"1,692",4.6
+Occ,Investigation and security services ,2014,27,"1,400",3.9
+Occ,Services to buildings and dwellings (except landscaping services) ,2014,39,"2,401",3.2
+Occ,Landscaping services,2014,162,"2,406",13.2
+Occ,Waste management and remediation services ,2014,55,989,10.9
+Ind,Educational and health services,2014,146,"40,633",0.7
+Occ,Educational services,2014,40,"7,843",1.0
+,Health care and social assistance,2014,106,"32,763",0.6
+Occ,Ambulatory health care services,2014,41,"12,691",0.6
+Occ,Hospitals ,2014,18,"11,106",0.3
+Occ,Social assistance,2014,33,"4,468",1.3
+Ind,Leisure and hospitality,2014,216,"21,334",2.0
+,"Arts, entertainment, and recreation",2014,81,"4,418",3.4
+Occ,"Performing arts, spectator sports, and related industries",2014,32,"1,313",4.6
+Occ,"Amusement, gambling, and recreation industries (except bowling centers)  ",2014,41,"2,797",2.7
+,Accommodation and food services,2014,135,"16,929",1.6
+,Accommodation ,2014,28,"2,749",2.0
+Occ,Traveler accommodation ,2014,18,"2,591",1.4
+,Food services and drinking places,2014,107,"14,172",1.5
+Occ,Restaurants and other food services ,2014,85,"13,754",1.2
+Occ,Drinking places (alcoholic beverages),2014,22,427,9.8
+Ind,Other services (except public administration),2014,186,"12,440",2.7
+,Repair and maintenance,2014,111,"4,008",5.5
+Occ,Automotive repair and maintenance (except car washes),2014,69,"2,453",5.6
+Occ,Personal and laundry services,2014,30,"3,954",1.5
+Occ,"Religious, grantmaking, civic, professional, and similar organizations",2014,43,"3,341",1.6
+Ind,Government,2014,435,"36,965",1.9
+Occ,Federal government,2014,94,"6,677",1.1
+Occ,State government,2014,72,"11,422",1.2
+Occ,Local government,2014,269,"18,903",2.6
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,

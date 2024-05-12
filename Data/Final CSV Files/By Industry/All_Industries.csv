@@ -1,0 +1,225 @@
+Label,Characteristic,Year,fatal_injury_rate
+Ind,"Agriculture, Forestry, Fishing, and Hunting",2006,29
+Ind,"Agriculture, forestry, fishing, and hunting",2007,27
+Ind,"Agriculture, Forestry, Fishing, and Hunting",2008,30.4
+Ind,"Agriculture, forestry, fishing, and hunting",2009,27.2
+Ind,"Agriculture, forestry, fishing and hunting",2010,27.9
+Ind,"Agriculture, forestry, fishing and hunting",2011,24.9
+Ind,"Agriculture, forestry, fishing and hunting",2012,22.8
+Ind,"Agriculture, forestry, fishing and hunting",2013,23.2
+Ind,"Agriculture, forestry, fishing and hunting",2014,25.6
+Ind,"Agriculture, forestry, fishing and hunting",2015,22.8
+Ind,"Agriculture, forestry, fishing and hunting",2016,23.2
+Ind,"Agriculture, forestry, fishing and hunting",2017,23
+Ind,"Agriculture, forestry, fishing and hunting",2018,23.4
+Ind,"Agriculture, forestry, fishing and hunting",2019,23.1
+Ind,"Agriculture, forestry, fishing and hunting",2020,21.5
+Ind,Construction,2006,11.2
+Ind,Construction,2007,10.8
+Ind,Construction,2008,9.7
+Ind,Construction,2009,9.9
+Ind,Construction,2010,9.8
+Ind,Construction,2011,9.1
+Ind,Construction,2012,9.9
+Ind,Construction,2013,9.7
+Ind,Construction,2014,9.8
+Ind,Construction,2015,10.1
+Ind,Construction,2016,10.1
+Ind,Construction,2017,9.5
+Ind,Construction,2018,9.5
+Ind,Construction,2019,9.7
+Ind,Construction,2020,10.2
+Ind,Educational and health services,2006,1
+Ind,Educational and health services,2007,0.8
+Ind,Educational and Health Services,2008,0.7
+Ind,Educational and health services,2009,0.8
+Ind,Educational and health services,2010,0.9
+Ind,Educational and health services,2011,0.8
+Ind,Educational and health services,2012,0.7
+Ind,Educational and health services,2013,0.7
+Ind,Educational and health services,2014,0.7
+Ind,Educational and health services,2015,0.7
+Ind,Educational and health services,2016,0.7
+Ind,Educational and health services,2017,0.8
+Ind,Educational and health services,2018,0.7
+Ind,Educational and health services,2019,0.8
+Ind,Educational and health services,2020,0.7
+Ind,Financial activities,2006,1.3
+Ind,Financial activities,2007,1.2
+Ind,Financial activities,2008,1.1
+Ind,Financial activities,2009,1.2
+Ind,Financial activities,2010,1.3
+Ind,Financial activities,2011,1.1
+Ind,Financial activities,2012,0.9
+Ind,Financial activities,2013,0.9
+Ind,Financial activities,2014,1.2
+Ind,Financial activities,2015,0.9
+Ind,Financial activities,2016,1.2
+Ind,Financial activities,2017,1
+Ind,Financial activities,2018,1.1
+Ind,Financial activities,2019,1
+Ind,Financial activities,2020,0.9
+Ind,Government,2006,2.4
+Ind,Government,2007,2.3
+Ind,Government,2008,2.4
+Ind,Government,2009,1.9
+Ind,Government,2010,2.2
+Ind,Government,2011,2.2
+Ind,Government,2012,2
+Ind,Government,2013,2
+Ind,Government,2014,1.9
+Ind,Government,2015,1.9
+Ind,Government,2016,2.2
+Ind,Government,2017,2
+Ind,Government,2018,1.8
+Ind,Government,2019,1.8
+Ind,Government,2020,1.8
+Ind,Leisure and hospitality,2006,2.6
+Ind,Leisure and hospitality,2007,2.5
+Ind,Leisure and hospitality,2008,2.2
+Ind,Leisure and hospitality,2009,2.2
+Ind,Leisure and hospitality,2010,2.3
+Ind,Leisure and hospitality,2011,2.2
+Ind,Leisure and hospitality,2012,2.2
+Ind,Leisure and hospitality,2013,1.9
+Ind,Leisure and hospitality,2014,2
+Ind,Leisure and hospitality,2015,2
+Ind,Leisure and hospitality,2016,2.6
+Ind,Leisure and hospitality,2017,2.2
+Ind,Leisure and hospitality,2018,2.2
+Ind,Leisure and hospitality,2019,2.2
+Ind,Leisure and hospitality,2020,2.5
+Ind,"Management, professional, and related occupations",2006,1.7
+Ind,"Management, professional, and related occupations",2007,1.6
+Ind,"Management, professional, and related occupations",2008,1.6
+Ind,"Management, professional, and related occupations",2009,1.6
+Ind,"Management, professional, and related occupations",2010,1.7
+Ind,"Management, professional, and related occupations",2011,1.4
+Ind,"Management, professional, and related occupations",2012,1.3
+Ind,"Management, professional, and related occupations",2013,1.2
+Ind,"Management, professional, and related occupations",2014,1.3
+Ind,"Management, professional, and related occupations",2015,1.2
+Ind,"Management, professional, and related occupations",2016,1.2
+Ind,"Management, professional, and related occupations",2017,1.1
+Ind,"Management, professional, and related occupations",2018,1.1
+Ind,"Management, professional, and related occupations",2019,1
+Ind,"Management, professional, and related occupations",2020,0.9
+Ind,Manufacturing,2006,2.7
+Ind,Manufacturing,2007,2.4
+Ind,Manufacturing,2008,2.5
+Ind,Manufacturing,2009,2.3
+Ind,Manufacturing,2010,2.3
+Ind,Manufacturing,2011,2.2
+Ind,Manufacturing,2012,2.2
+Ind,Manufacturing,2013,2.1
+Ind,Manufacturing,2014,2.3
+Ind,Manufacturing,2015,2.3
+Ind,Manufacturing,2016,2
+Ind,Manufacturing,2017,1.9
+Ind,Manufacturing,2018,2.2
+Ind,Manufacturing,2020,2.3
+Ind,Mining,2006,23.5
+Ind,Mining,2007,21.4
+Ind,Mining,2008,18.1
+Ind,"Mining, quarrying, and oil and gas extraction",2009,12.4
+Ind,"Mining, quarrying, and oil and gas extraction",2010,19.8
+Ind,"Mining, quarrying, and oil and gas extraction",2011,15.9
+Ind,"Mining, quarrying, and oil and gas extraction",2012,15.9
+Ind,"Mining, quarrying, and oil and gas extraction",2013,12.4
+Ind,"Mining, quarrying, and oil and gas extraction",2014,14.2
+Ind,"Mining, quarrying, and oil and gas extraction",2015,11.4
+Ind,"Mining, quarrying, and oil and gas extraction",2016,10.1
+Ind,"Mining, quarrying, and oil and gas extraction",2017,12.9
+Ind,"Mining, quarrying, and oil and gas extraction",2018,14.1
+Ind,"Mining, quarrying, and oil and gas extraction",2019,14.6
+Ind,"Mining, quarrying, and oil and gas extraction",2020,10.5
+Ind,Retail Trade,2006,2.4
+Ind,Retail trade,2007,2.4
+Ind,Retail Trade,2008,2
+Ind,Retail trade,2009,2.2
+Ind,Retail trade,2010,2.2
+Ind,Retail trade,2011,1.9
+Ind,Retail trade,2012,1.9
+Ind,Retail trade,2013,1.9
+Ind,Retail trade,2014,1.9
+Ind,Retail trade,2015,1.8
+Ind,Retail trade,2016,1.9
+Ind,Retail trade,2017,2
+Ind,Retail trade,2018,1.9
+Ind,Retail trade,2019,2
+Ind,Retail trade,2020,2
+Ind,Sales and office occupations,2006,1.2
+Ind,Sales and office occupations,2007,1.4
+Ind,Sales and office occupations,2008,1.1
+Ind,Sales and office occupations,2009,1.3
+Ind,Sales and office occupations,2010,1.2
+Ind,Sales and office occupations,2011,1.1
+Ind,Sales and office occupations,2012,1
+Ind,Sales and office occupations,2013,1
+Ind,Sales and office occupations,2014,1.1
+Ind,Sales and office occupations,2015,1
+Ind,Sales and office occupations,2016,1.1
+Ind,Sales and office occupations,2017,1.1
+Ind,Sales and office occupations,2018,1
+Ind,Sales and office occupations,2019,1.1
+Ind,Sales and office occupations,2020,1
+Ind,Service occupations,2006,3.5
+Ind,Service occupations,2007,3.4
+Ind,Service occupations,2008,3.2
+Ind,Service occupations,2009,3
+Ind,Service occupations,2010,3
+Ind,Service occupations,2011,3.2
+Ind,Service occupations,2012,2.8
+Ind,Service occupations,2013,2.7
+Ind,Service occupations,2014,2.6
+Ind,Service occupations,2015,2.8
+Ind,Service occupations,2016,3.4
+Ind,Service occupations,2017,3.3
+Ind,Service occupations,2018,3.4
+Ind,Service occupations,2019,3.2
+Ind,Service occupations,2020,3.8
+Ind,Transportation and Warehousing,2006,16.3
+Ind,Transportation and warehousing,2007,16.5
+Ind,Transportation and Warehousing,2008,14.9
+Ind,Transportation and warehousing,2009,13.3
+Ind,Transportation and warehousing,2010,13.7
+Ind,Transportation and warehousing,2011,15.3
+Ind,Transportation and warehousing,2012,14.6
+Ind,Transportation and warehousing,2013,14
+Ind,Transportation and warehousing,2014,14.1
+Ind,Transportation and warehousing,2015,13.8
+Ind,Transportation and warehousing,2016,14.3
+Ind,Transportation and warehousing,2017,15.1
+Ind,Transportation and warehousing,2018,14
+Ind,Transportation and warehousing,2019,13.9
+Ind,Transportation and warehousing,2020,13.4
+Ind,Utilities,2006,6
+Ind,Utilities,2007,3.8
+Ind,Utilities,2008,3.9
+Ind,Utilities,2009,1.7
+Ind,Utilities,2010,2.8
+Ind,Utilities,2011,4.2
+Ind,Utilities,2012,2.5
+Ind,Utilities,2013,2.6
+Ind,Utilities,2014,1.7
+Ind,Utilities,2015,2.2
+Ind,Utilities,2016,2.8
+Ind,Utilities,2017,2.6
+Ind,Utilities,2018,2.6
+Ind,Utilities,2019,2
+Ind,Utilities,2020,1.8
+Ind,Wholesale Trade,2006,4.7
+Ind,Wholesale trade,2007,4.5
+Ind,Wholesale Trade,2008,4.4
+Ind,Wholesale trade,2009,5
+Ind,Wholesale trade,2010,4.9
+Ind,Wholesale trade,2011,4.9
+Ind,Wholesale trade,2012,5.4
+Ind,Wholesale trade,2013,5.3
+Ind,Wholesale trade,2014,5.1
+Ind,Wholesale trade,2015,4.7
+Ind,Wholesale trade,2016,4.8
+Ind,Wholesale trade,2017,4.8
+Ind,Wholesale trade,2018,5.3
+Ind,Wholesale trade,2019,4.9
+Ind,Wholesale trade,2020,4.6

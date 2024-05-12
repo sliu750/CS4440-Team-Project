@@ -1,0 +1,1727 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20241.24.0308.0326                               -->
+<workbook original-version='18.1' source-build='2024.1.1 (20241.24.0308.0326)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.AnimationOnByDefault.true...AnimationOnByDefault />
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <_.fcp.AnimationOnByDefault.false...style>
+    <_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule element='animation'>
+      <_.fcp.AnimationOnByDefault.false...format attr='animation-on' value='ao-on' />
+    </_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule>
+  </_.fcp.AnimationOnByDefault.false...style>
+  <datasources>
+    <datasource caption='AgricultureForestryFishingHuntingInjuriesInjuries' inline='true' name='federated.0fxcujb1hmlsn61a7xfjl19vjao7' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='AgricultureForestryFishingHuntingInjuriesInjuries' name='textscan.0rd0yfx0vgk7041djwsd914gv7x0'>
+            <connection class='textscan' directory='C:/Users/gappy/Desktop/CS 4440/CS4440_Team1/Data/Final CSV Files/By Industry' filename='AgricultureForestryFishingHuntingInjuriesInjuries.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation all='true' name='Union' type='union'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='string' name='Label' />
+            <column datatype='string' name='Characteristic' />
+            <column datatype='integer' name='Year' />
+            <column datatype='real' name='fatal_injury_rate' />
+            <column datatype='string' name='Table Name' />
+          </columns>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='AgricultureForestryFishingHuntingInjuriesInjuries.csv1' table='[AgricultureForestryFishingHuntingInjuriesInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='ConstructionInjuries.csv' table='[ConstructionInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='EducationAndHealthInjuries.csv' table='[EducationAndHealthInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='FinancesInjuries.csv' table='[FinancesInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='GovernmentInjuries.csv' table='[GovernmentInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='LeisureAndHospitalityInjuries.csv' table='[LeisureAndHospitalityInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='ManagementAndProfessionalInjuries.csv' table='[ManagementAndProfessionalInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='ManufacturingInjuries.csv' table='[ManufacturingInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='MiningInjuries.csv' table='[MiningInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='RetailInjuries.csv' table='[RetailInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='SalesAndOfficeInjuries.csv' table='[SalesAndOfficeInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='ServiceInjuries.csv' table='[ServiceInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='TransportationAndWarehousingInjuries.csv' table='[TransportationAndWarehousingInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='UtilitiesInjuries.csv' table='[UtilitiesInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='WholesaleInjuries.csv' table='[WholesaleInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation all='true' name='Union' type='union'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='string' name='Label' />
+            <column datatype='string' name='Characteristic' />
+            <column datatype='integer' name='Year' />
+            <column datatype='real' name='fatal_injury_rate' />
+            <column datatype='string' name='Table Name' />
+          </columns>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='AgricultureForestryFishingHuntingInjuriesInjuries.csv1' table='[AgricultureForestryFishingHuntingInjuriesInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='ConstructionInjuries.csv' table='[ConstructionInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='EducationAndHealthInjuries.csv' table='[EducationAndHealthInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='FinancesInjuries.csv' table='[FinancesInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='GovernmentInjuries.csv' table='[GovernmentInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='LeisureAndHospitalityInjuries.csv' table='[LeisureAndHospitalityInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='ManagementAndProfessionalInjuries.csv' table='[ManagementAndProfessionalInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='ManufacturingInjuries.csv' table='[ManufacturingInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='MiningInjuries.csv' table='[MiningInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='RetailInjuries.csv' table='[RetailInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='SalesAndOfficeInjuries.csv' table='[SalesAndOfficeInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='ServiceInjuries.csv' table='[ServiceInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='TransportationAndWarehousingInjuries.csv' table='[TransportationAndWarehousingInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='UtilitiesInjuries.csv' table='[UtilitiesInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='WholesaleInjuries.csv' table='[WholesaleInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <cols>
+          <map key='[Characteristic (Union)]' value='[Union].[Characteristic]' />
+          <map key='[Label (Union)]' value='[Union].[Label]' />
+          <map key='[Table Name]' value='[Union].[Table Name]' />
+          <map key='[Year (Union)]' value='[Union].[Year]' />
+          <map key='[fatal_injury_rate (Union)]' value='[Union].[fatal_injury_rate]' />
+        </cols>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[Union]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Label</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Label (Union)]</local-name>
+            <parent-name>[Union]</parent-name>
+            <remote-alias>Label</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[_57B8D8AF7F124D4EBCE2E819750894F8]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Characteristic</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Characteristic (Union)]</local-name>
+            <parent-name>[Union]</parent-name>
+            <remote-alias>Characteristic</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[_57B8D8AF7F124D4EBCE2E819750894F8]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Year</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Year (Union)]</local-name>
+            <parent-name>[Union]</parent-name>
+            <remote-alias>Year</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[_57B8D8AF7F124D4EBCE2E819750894F8]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>fatal_injury_rate</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[fatal_injury_rate (Union)]</local-name>
+            <parent-name>[Union]</parent-name>
+            <remote-alias>fatal_injury_rate</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[_57B8D8AF7F124D4EBCE2E819750894F8]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Table Name</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Table Name]</local-name>
+            <parent-name>[Union]</parent-name>
+            <remote-alias>Table Name</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[_57B8D8AF7F124D4EBCE2E819750894F8]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Industry' datatype='string' name='[Characteristic (Union)]' role='dimension' type='nominal' />
+      <column caption='Year' datatype='integer' name='[Year (Union)]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='All Industries' datatype='table' name='[__tableau_internal_object_id__].[_57B8D8AF7F124D4EBCE2E819750894F8]' role='measure' type='quantitative' />
+      <column caption='Fatal Injury Rate' datatype='real' name='[fatal_injury_rate (Union)]' role='measure' type='quantitative' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='All Industries' id='_57B8D8AF7F124D4EBCE2E819750894F8'>
+            <properties context=''>
+              <relation all='true' name='Union' type='union'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='string' name='Label' />
+                  <column datatype='string' name='Characteristic' />
+                  <column datatype='integer' name='Year' />
+                  <column datatype='real' name='fatal_injury_rate' />
+                  <column datatype='string' name='Table Name' />
+                </columns>
+                <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='AgricultureForestryFishingHuntingInjuriesInjuries.csv1' table='[AgricultureForestryFishingHuntingInjuriesInjuries#csv]' type='table'>
+                  <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                    <column datatype='string' name='Label' ordinal='0' />
+                    <column datatype='string' name='Characteristic' ordinal='1' />
+                    <column datatype='integer' name='Year' ordinal='2' />
+                    <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+                  </columns>
+                </relation>
+                <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='ConstructionInjuries.csv' table='[ConstructionInjuries#csv]' type='table'>
+                  <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                    <column datatype='string' name='Label' ordinal='0' />
+                    <column datatype='string' name='Characteristic' ordinal='1' />
+                    <column datatype='integer' name='Year' ordinal='2' />
+                    <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+                  </columns>
+                </relation>
+                <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='EducationAndHealthInjuries.csv' table='[EducationAndHealthInjuries#csv]' type='table'>
+                  <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                    <column datatype='string' name='Label' ordinal='0' />
+                    <column datatype='string' name='Characteristic' ordinal='1' />
+                    <column datatype='integer' name='Year' ordinal='2' />
+                    <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+                  </columns>
+                </relation>
+                <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='FinancesInjuries.csv' table='[FinancesInjuries#csv]' type='table'>
+                  <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                    <column datatype='string' name='Label' ordinal='0' />
+                    <column datatype='string' name='Characteristic' ordinal='1' />
+                    <column datatype='integer' name='Year' ordinal='2' />
+                    <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+                  </columns>
+                </relation>
+                <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='GovernmentInjuries.csv' table='[GovernmentInjuries#csv]' type='table'>
+                  <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                    <column datatype='string' name='Label' ordinal='0' />
+                    <column datatype='string' name='Characteristic' ordinal='1' />
+                    <column datatype='integer' name='Year' ordinal='2' />
+                    <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+                  </columns>
+                </relation>
+                <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='LeisureAndHospitalityInjuries.csv' table='[LeisureAndHospitalityInjuries#csv]' type='table'>
+                  <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                    <column datatype='string' name='Label' ordinal='0' />
+                    <column datatype='string' name='Characteristic' ordinal='1' />
+                    <column datatype='integer' name='Year' ordinal='2' />
+                    <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+                  </columns>
+                </relation>
+                <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='ManagementAndProfessionalInjuries.csv' table='[ManagementAndProfessionalInjuries#csv]' type='table'>
+                  <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                    <column datatype='string' name='Label' ordinal='0' />
+                    <column datatype='string' name='Characteristic' ordinal='1' />
+                    <column datatype='integer' name='Year' ordinal='2' />
+                    <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+                  </columns>
+                </relation>
+                <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='ManufacturingInjuries.csv' table='[ManufacturingInjuries#csv]' type='table'>
+                  <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                    <column datatype='string' name='Label' ordinal='0' />
+                    <column datatype='string' name='Characteristic' ordinal='1' />
+                    <column datatype='integer' name='Year' ordinal='2' />
+                    <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+                  </columns>
+                </relation>
+                <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='MiningInjuries.csv' table='[MiningInjuries#csv]' type='table'>
+                  <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                    <column datatype='string' name='Label' ordinal='0' />
+                    <column datatype='string' name='Characteristic' ordinal='1' />
+                    <column datatype='integer' name='Year' ordinal='2' />
+                    <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+                  </columns>
+                </relation>
+                <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='RetailInjuries.csv' table='[RetailInjuries#csv]' type='table'>
+                  <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                    <column datatype='string' name='Label' ordinal='0' />
+                    <column datatype='string' name='Characteristic' ordinal='1' />
+                    <column datatype='integer' name='Year' ordinal='2' />
+                    <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+                  </columns>
+                </relation>
+                <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='SalesAndOfficeInjuries.csv' table='[SalesAndOfficeInjuries#csv]' type='table'>
+                  <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                    <column datatype='string' name='Label' ordinal='0' />
+                    <column datatype='string' name='Characteristic' ordinal='1' />
+                    <column datatype='integer' name='Year' ordinal='2' />
+                    <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+                  </columns>
+                </relation>
+                <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='ServiceInjuries.csv' table='[ServiceInjuries#csv]' type='table'>
+                  <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                    <column datatype='string' name='Label' ordinal='0' />
+                    <column datatype='string' name='Characteristic' ordinal='1' />
+                    <column datatype='integer' name='Year' ordinal='2' />
+                    <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+                  </columns>
+                </relation>
+                <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='TransportationAndWarehousingInjuries.csv' table='[TransportationAndWarehousingInjuries#csv]' type='table'>
+                  <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                    <column datatype='string' name='Label' ordinal='0' />
+                    <column datatype='string' name='Characteristic' ordinal='1' />
+                    <column datatype='integer' name='Year' ordinal='2' />
+                    <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+                  </columns>
+                </relation>
+                <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='UtilitiesInjuries.csv' table='[UtilitiesInjuries#csv]' type='table'>
+                  <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                    <column datatype='string' name='Label' ordinal='0' />
+                    <column datatype='string' name='Characteristic' ordinal='1' />
+                    <column datatype='integer' name='Year' ordinal='2' />
+                    <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+                  </columns>
+                </relation>
+                <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='WholesaleInjuries.csv' table='[WholesaleInjuries#csv]' type='table'>
+                  <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                    <column datatype='string' name='Label' ordinal='0' />
+                    <column datatype='string' name='Characteristic' ordinal='1' />
+                    <column datatype='integer' name='Year' ordinal='2' />
+                    <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+                  </columns>
+                </relation>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Sheet 1'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>Fatal Injury Rate by Industry&#10;</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='AgricultureForestryFishingHuntingInjuriesInjuries' name='federated.0fxcujb1hmlsn61a7xfjl19vjao7' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0fxcujb1hmlsn61a7xfjl19vjao7'>
+            <column caption='Industry' datatype='string' name='[Characteristic (Union)]' role='dimension' type='nominal' />
+            <column caption='Year' datatype='integer' name='[Year (Union)]' role='measure' type='quantitative' />
+            <column caption='Fatal Injury Rate' datatype='real' name='[fatal_injury_rate (Union)]' role='measure' type='quantitative' />
+            <column-instance column='[Characteristic (Union)]' derivation='None' name='[none:Characteristic (Union):nk]' pivot='key' type='nominal' />
+            <column-instance column='[Year (Union)]' derivation='None' name='[none:Year (Union):qk]' pivot='key' type='quantitative' />
+            <column-instance column='[fatal_injury_rate (Union)]' derivation='None' name='[none:fatal_injury_rate (Union):qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Line' />
+            <encodings>
+              <color column='[federated.0fxcujb1hmlsn61a7xfjl19vjao7].[none:Characteristic (Union):nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='false' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0fxcujb1hmlsn61a7xfjl19vjao7].[none:fatal_injury_rate (Union):qk]</rows>
+        <cols>[federated.0fxcujb1hmlsn61a7xfjl19vjao7].[none:Year (Union):qk]</cols>
+      </table>
+      <simple-id uuid='{EEC6246F-692E-4831-AF51-EB43D1646F5E}' />
+    </worksheet>
+  </worksheets>
+  <windows saved-dpi-scale-factor='1.25' source-height='37'>
+    <window class='worksheet' maximized='true' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.0fxcujb1hmlsn61a7xfjl19vjao7].[none:Characteristic (Union):nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.0fxcujb1hmlsn61a7xfjl19vjao7].[none:Characteristic (Union):nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{EA052AB4-814C-4EC9-BC47-0DDD23546BDD}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Sheet 1' width='192'>
+      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
+    </thumbnail>
+  </thumbnails>
+</workbook>
+=======
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20241.24.0308.0326                               -->
+<workbook original-version='18.1' source-build='2024.1.1 (20241.24.0308.0326)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.AnimationOnByDefault.true...AnimationOnByDefault />
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <_.fcp.AnimationOnByDefault.false...style>
+    <_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule element='animation'>
+      <_.fcp.AnimationOnByDefault.false...format attr='animation-on' value='ao-on' />
+    </_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule>
+  </_.fcp.AnimationOnByDefault.false...style>
+  <datasources>
+    <datasource caption='AgricultureForestryFishingHuntingInjuriesInjuries' inline='true' name='federated.0fxcujb1hmlsn61a7xfjl19vjao7' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='AgricultureForestryFishingHuntingInjuriesInjuries' name='textscan.0rd0yfx0vgk7041djwsd914gv7x0'>
+            <connection class='textscan' directory='C:/Users/gappy/Desktop/CS 4440/CS4440_Team1/Data/Final CSV Files/By Industry' filename='AgricultureForestryFishingHuntingInjuriesInjuries.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation all='true' name='Union' type='union'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='string' name='Label' />
+            <column datatype='string' name='Characteristic' />
+            <column datatype='integer' name='Year' />
+            <column datatype='real' name='fatal_injury_rate' />
+            <column datatype='string' name='Table Name' />
+          </columns>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='AgricultureForestryFishingHuntingInjuriesInjuries.csv1' table='[AgricultureForestryFishingHuntingInjuriesInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='ConstructionInjuries.csv' table='[ConstructionInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='EducationAndHealthInjuries.csv' table='[EducationAndHealthInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='FinancesInjuries.csv' table='[FinancesInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='GovernmentInjuries.csv' table='[GovernmentInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='LeisureAndHospitalityInjuries.csv' table='[LeisureAndHospitalityInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='ManagementAndProfessionalInjuries.csv' table='[ManagementAndProfessionalInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='ManufacturingInjuries.csv' table='[ManufacturingInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='MiningInjuries.csv' table='[MiningInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='RetailInjuries.csv' table='[RetailInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='SalesAndOfficeInjuries.csv' table='[SalesAndOfficeInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='ServiceInjuries.csv' table='[ServiceInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='TransportationAndWarehousingInjuries.csv' table='[TransportationAndWarehousingInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='UtilitiesInjuries.csv' table='[UtilitiesInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='WholesaleInjuries.csv' table='[WholesaleInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation all='true' name='Union' type='union'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='string' name='Label' />
+            <column datatype='string' name='Characteristic' />
+            <column datatype='integer' name='Year' />
+            <column datatype='real' name='fatal_injury_rate' />
+            <column datatype='string' name='Table Name' />
+          </columns>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='AgricultureForestryFishingHuntingInjuriesInjuries.csv1' table='[AgricultureForestryFishingHuntingInjuriesInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='ConstructionInjuries.csv' table='[ConstructionInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='EducationAndHealthInjuries.csv' table='[EducationAndHealthInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='FinancesInjuries.csv' table='[FinancesInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='GovernmentInjuries.csv' table='[GovernmentInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='LeisureAndHospitalityInjuries.csv' table='[LeisureAndHospitalityInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='ManagementAndProfessionalInjuries.csv' table='[ManagementAndProfessionalInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='ManufacturingInjuries.csv' table='[ManufacturingInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='MiningInjuries.csv' table='[MiningInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='RetailInjuries.csv' table='[RetailInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='SalesAndOfficeInjuries.csv' table='[SalesAndOfficeInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='ServiceInjuries.csv' table='[ServiceInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='TransportationAndWarehousingInjuries.csv' table='[TransportationAndWarehousingInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='UtilitiesInjuries.csv' table='[UtilitiesInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='WholesaleInjuries.csv' table='[WholesaleInjuries#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Label' ordinal='0' />
+              <column datatype='string' name='Characteristic' ordinal='1' />
+              <column datatype='integer' name='Year' ordinal='2' />
+              <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+            </columns>
+          </relation>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <cols>
+          <map key='[Characteristic (Union)]' value='[Union].[Characteristic]' />
+          <map key='[Label (Union)]' value='[Union].[Label]' />
+          <map key='[Table Name]' value='[Union].[Table Name]' />
+          <map key='[Year (Union)]' value='[Union].[Year]' />
+          <map key='[fatal_injury_rate (Union)]' value='[Union].[fatal_injury_rate]' />
+        </cols>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[Union]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Label</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Label (Union)]</local-name>
+            <parent-name>[Union]</parent-name>
+            <remote-alias>Label</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[_57B8D8AF7F124D4EBCE2E819750894F8]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Characteristic</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Characteristic (Union)]</local-name>
+            <parent-name>[Union]</parent-name>
+            <remote-alias>Characteristic</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[_57B8D8AF7F124D4EBCE2E819750894F8]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Year</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Year (Union)]</local-name>
+            <parent-name>[Union]</parent-name>
+            <remote-alias>Year</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[_57B8D8AF7F124D4EBCE2E819750894F8]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>fatal_injury_rate</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[fatal_injury_rate (Union)]</local-name>
+            <parent-name>[Union]</parent-name>
+            <remote-alias>fatal_injury_rate</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[_57B8D8AF7F124D4EBCE2E819750894F8]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Table Name</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Table Name]</local-name>
+            <parent-name>[Union]</parent-name>
+            <remote-alias>Table Name</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[_57B8D8AF7F124D4EBCE2E819750894F8]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Industry' datatype='string' name='[Characteristic (Union)]' role='dimension' type='nominal' />
+      <column caption='Year' datatype='integer' name='[Year (Union)]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='All Industries' datatype='table' name='[__tableau_internal_object_id__].[_57B8D8AF7F124D4EBCE2E819750894F8]' role='measure' type='quantitative' />
+      <column caption='Fatal Injury Rate' datatype='real' name='[fatal_injury_rate (Union)]' role='measure' type='quantitative' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='All Industries' id='_57B8D8AF7F124D4EBCE2E819750894F8'>
+            <properties context=''>
+              <relation all='true' name='Union' type='union'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='string' name='Label' />
+                  <column datatype='string' name='Characteristic' />
+                  <column datatype='integer' name='Year' />
+                  <column datatype='real' name='fatal_injury_rate' />
+                  <column datatype='string' name='Table Name' />
+                </columns>
+                <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='AgricultureForestryFishingHuntingInjuriesInjuries.csv1' table='[AgricultureForestryFishingHuntingInjuriesInjuries#csv]' type='table'>
+                  <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                    <column datatype='string' name='Label' ordinal='0' />
+                    <column datatype='string' name='Characteristic' ordinal='1' />
+                    <column datatype='integer' name='Year' ordinal='2' />
+                    <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+                  </columns>
+                </relation>
+                <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='ConstructionInjuries.csv' table='[ConstructionInjuries#csv]' type='table'>
+                  <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                    <column datatype='string' name='Label' ordinal='0' />
+                    <column datatype='string' name='Characteristic' ordinal='1' />
+                    <column datatype='integer' name='Year' ordinal='2' />
+                    <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+                  </columns>
+                </relation>
+                <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='EducationAndHealthInjuries.csv' table='[EducationAndHealthInjuries#csv]' type='table'>
+                  <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                    <column datatype='string' name='Label' ordinal='0' />
+                    <column datatype='string' name='Characteristic' ordinal='1' />
+                    <column datatype='integer' name='Year' ordinal='2' />
+                    <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+                  </columns>
+                </relation>
+                <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='FinancesInjuries.csv' table='[FinancesInjuries#csv]' type='table'>
+                  <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                    <column datatype='string' name='Label' ordinal='0' />
+                    <column datatype='string' name='Characteristic' ordinal='1' />
+                    <column datatype='integer' name='Year' ordinal='2' />
+                    <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+                  </columns>
+                </relation>
+                <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='GovernmentInjuries.csv' table='[GovernmentInjuries#csv]' type='table'>
+                  <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                    <column datatype='string' name='Label' ordinal='0' />
+                    <column datatype='string' name='Characteristic' ordinal='1' />
+                    <column datatype='integer' name='Year' ordinal='2' />
+                    <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+                  </columns>
+                </relation>
+                <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='LeisureAndHospitalityInjuries.csv' table='[LeisureAndHospitalityInjuries#csv]' type='table'>
+                  <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                    <column datatype='string' name='Label' ordinal='0' />
+                    <column datatype='string' name='Characteristic' ordinal='1' />
+                    <column datatype='integer' name='Year' ordinal='2' />
+                    <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+                  </columns>
+                </relation>
+                <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='ManagementAndProfessionalInjuries.csv' table='[ManagementAndProfessionalInjuries#csv]' type='table'>
+                  <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                    <column datatype='string' name='Label' ordinal='0' />
+                    <column datatype='string' name='Characteristic' ordinal='1' />
+                    <column datatype='integer' name='Year' ordinal='2' />
+                    <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+                  </columns>
+                </relation>
+                <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='ManufacturingInjuries.csv' table='[ManufacturingInjuries#csv]' type='table'>
+                  <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                    <column datatype='string' name='Label' ordinal='0' />
+                    <column datatype='string' name='Characteristic' ordinal='1' />
+                    <column datatype='integer' name='Year' ordinal='2' />
+                    <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+                  </columns>
+                </relation>
+                <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='MiningInjuries.csv' table='[MiningInjuries#csv]' type='table'>
+                  <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                    <column datatype='string' name='Label' ordinal='0' />
+                    <column datatype='string' name='Characteristic' ordinal='1' />
+                    <column datatype='integer' name='Year' ordinal='2' />
+                    <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+                  </columns>
+                </relation>
+                <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='RetailInjuries.csv' table='[RetailInjuries#csv]' type='table'>
+                  <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                    <column datatype='string' name='Label' ordinal='0' />
+                    <column datatype='string' name='Characteristic' ordinal='1' />
+                    <column datatype='integer' name='Year' ordinal='2' />
+                    <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+                  </columns>
+                </relation>
+                <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='SalesAndOfficeInjuries.csv' table='[SalesAndOfficeInjuries#csv]' type='table'>
+                  <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                    <column datatype='string' name='Label' ordinal='0' />
+                    <column datatype='string' name='Characteristic' ordinal='1' />
+                    <column datatype='integer' name='Year' ordinal='2' />
+                    <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+                  </columns>
+                </relation>
+                <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='ServiceInjuries.csv' table='[ServiceInjuries#csv]' type='table'>
+                  <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                    <column datatype='string' name='Label' ordinal='0' />
+                    <column datatype='string' name='Characteristic' ordinal='1' />
+                    <column datatype='integer' name='Year' ordinal='2' />
+                    <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+                  </columns>
+                </relation>
+                <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='TransportationAndWarehousingInjuries.csv' table='[TransportationAndWarehousingInjuries#csv]' type='table'>
+                  <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                    <column datatype='string' name='Label' ordinal='0' />
+                    <column datatype='string' name='Characteristic' ordinal='1' />
+                    <column datatype='integer' name='Year' ordinal='2' />
+                    <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+                  </columns>
+                </relation>
+                <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='UtilitiesInjuries.csv' table='[UtilitiesInjuries#csv]' type='table'>
+                  <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                    <column datatype='string' name='Label' ordinal='0' />
+                    <column datatype='string' name='Characteristic' ordinal='1' />
+                    <column datatype='integer' name='Year' ordinal='2' />
+                    <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+                  </columns>
+                </relation>
+                <relation connection='textscan.0rd0yfx0vgk7041djwsd914gv7x0' name='WholesaleInjuries.csv' table='[WholesaleInjuries#csv]' type='table'>
+                  <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                    <column datatype='string' name='Label' ordinal='0' />
+                    <column datatype='string' name='Characteristic' ordinal='1' />
+                    <column datatype='integer' name='Year' ordinal='2' />
+                    <column datatype='real' name='fatal_injury_rate' ordinal='3' />
+                  </columns>
+                </relation>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Sheet 1'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>Fatal Injury Rate by Industry&#10;</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='AgricultureForestryFishingHuntingInjuriesInjuries' name='federated.0fxcujb1hmlsn61a7xfjl19vjao7' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0fxcujb1hmlsn61a7xfjl19vjao7'>
+            <column caption='Industry' datatype='string' name='[Characteristic (Union)]' role='dimension' type='nominal' />
+            <column caption='Year' datatype='integer' name='[Year (Union)]' role='measure' type='quantitative' />
+            <column caption='Fatal Injury Rate' datatype='real' name='[fatal_injury_rate (Union)]' role='measure' type='quantitative' />
+            <column-instance column='[Characteristic (Union)]' derivation='None' name='[none:Characteristic (Union):nk]' pivot='key' type='nominal' />
+            <column-instance column='[Year (Union)]' derivation='None' name='[none:Year (Union):qk]' pivot='key' type='quantitative' />
+            <column-instance column='[fatal_injury_rate (Union)]' derivation='None' name='[none:fatal_injury_rate (Union):qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Line' />
+            <encodings>
+              <color column='[federated.0fxcujb1hmlsn61a7xfjl19vjao7].[none:Characteristic (Union):nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='false' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0fxcujb1hmlsn61a7xfjl19vjao7].[none:fatal_injury_rate (Union):qk]</rows>
+        <cols>[federated.0fxcujb1hmlsn61a7xfjl19vjao7].[none:Year (Union):qk]</cols>
+      </table>
+      <simple-id uuid='{EEC6246F-692E-4831-AF51-EB43D1646F5E}' />
+    </worksheet>
+  </worksheets>
+  <windows saved-dpi-scale-factor='1.25' source-height='37'>
+    <window class='worksheet' maximized='true' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.0fxcujb1hmlsn61a7xfjl19vjao7].[none:Characteristic (Union):nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.0fxcujb1hmlsn61a7xfjl19vjao7].[none:Characteristic (Union):nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{EA052AB4-814C-4EC9-BC47-0DDD23546BDD}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Sheet 1' width='192'>
+      iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAABJ0AAASdAHeZh94
+      AAAgAElEQVR4nO29d3Bd2X3n+TnnhpeRAwGSIJhTJ6lzllqy0tiSLQdpbGtsj1beWY/HW7X/
+      7f7lqt2q3X/2j6mtqZrdcZStYI1akiXLVkvubqlbrZY6SepudjMTIAECRHzASzedc/aP+wCC
+      TYBEeCQeifupunXj+73fufd8T77nCmOMISFhiyI324GEhM2koQJQSjWlLWNM0/rWSFuNtrcV
+      nkHT5gDNXDJrpG+NDmez+tas4WxaASQk3AwSASRsaRIBJGxpEgEkbGkSASRsaRIBJGxp7M12
+      oJkxxoDRmOoUeuI4auoUevI4FPqxn/hfNtu9hAawZgGooMapM2cxVpasFVKshhw5cgTHEjfC
+      v5uKUSG6eB49ew596R3UxLuYoISwM1g9h5E9h3H2fQhd2L7ZriY0iDULwHIzZF2LYhASYDHQ
+      laVY9ejIuiilGtZB0egeUq31Fb4Zv4QpjcF0nKrr6dOYoAyZLkT3IWTPUZw7fguRaQfpXLaz
+      4FsUNcSvrdQTvLA0gkb5JtY6GC70a5SqHkNDw2RcG8eW9OzaT0vaQSmFZVkNcSyKImx74yU0
+      oxXGLxHNDMHUcfTkCfTMGTAgWvqxeo8guw8hO/YgMm0Ief3/bJRvjbbVaHuNtLWQADVb/Fiz
+      Bdtx8GvT7D9wiJRUzNciWtLO9X94g1nQsfGKcSSfiIswem4EYacRbQNYvXfg3PGbiNbtyEz7
+      Jnuc0AysWQBC2vT171jc78o01J9VY1SIKY2hpk+jJ95FT57E1GbATiG7DmL1HsXd9SiyYzdI
+      B611w1KfhNuHpm8FMsZAWEWXL6EvHYtbYmbOYKqzyEIvsmMPsvsgzqFfRRR6wUohhLjaRkLC
+      MjStAMzEO3gnvoueOQfKQxT6kB17sXfch7z7s4hcN8La/KJXwq1N0woAaWHv/5U4hc92bLY3
+      CbcpTSsA0XWwoa0jCQnLkQyFSNjSJAJI2NIkAkjY0iQCuI2o+SE/fusCWifNvqslEcBthGNb
+      nLgwzX/55qt4QWPGKt3uJAK4jbAtyec/cQ/7trfzf3zxBabnqpvtUtOTCOA25OMP7ee3PnCE
+      //NLP+bEhenNdqep2XIN7fGQ3HhY83u3tSHerx9XxqB0vNb1bW0MYaRAhChtUPVrI21QBnT9
+      mF7cBqXj3xti+8aAIb5GAh/Y10bKbmxadM++bfS25/nPX/8pH39wH0/cveuqISIJ6xgOfS2a
+      cTg0QCVQvHC2GEdKA1KAQMRrAUIIJPG2FGJxbQmQUmAJgSUvHxMYbMvCkmDVr7fq18n6MVn/
+      Tfzb+BpB/b/q8VAK0EqRchs3pOO9961SC/h/vvEKO7pb+MxTR3Hs1T+frTAceksIwBhDECkc
+      y0LKjaeCzTrmfiV7kdJ85V/fZnRqnj/7rQfJplYnuK0ggC1TB7ClaEjkvxWxLcnnPnoXj965
+      kz//qx9ycaq02S41DVtGAAnw2J0DfOHX3s///Q8v8/OTY5vtTlOQCGALIYRg/45O/tfff4xv
+      vnic7758Cr3F35VIBLAF6WrN8r997nHOjc3yX7/1GpHSm+3SppEIYIuSdm3+42/cz46eFv73
+      L75AsexttkubQiKALYwQgk8+epBfffgA/9eXfsyZ0ZnNdumms+U6whKu5v5D/fS25/gv33yF
+      Tz12iIeP7rjtO82MMRw7N7mefgDDpYsjuIVORFBmolhhz+AubEs2dT9AI2eFuNX6AVZLqerz
+      n7/+Mw4NdPHpJw6jtbot+wHKtYC///6bTM/X1i4AFXjMVX1GL4ygoxrbduyhp6sdIUQigE22
+      1Qh7Smn+/gdx5Pj8J+6hNd+YeW+aQQDGGN44OcZXnz3GRx7Yy4fu3b12ARitOH3yOB19g2Rt
+      w8jQOTp2HaAtY6OUQsrGVCsaKSaIH0Az+tbocDbCnjHw/C+Gee71s/z+R+7k0EDXhv1amBZx
+      s55BxQv44jNvUq5F/MHH7qKnLQusow7glWaYrYQ483NUwgpVJRhI2YvONPJhNjIHEEI0pW+N
+      ttUoex+5fy/7trfzpR+8RUtumN/98B10t+XWba/ROQCsLpzGGF4/McZXnn2bf/Pwfj5wz+AV
+      IwK2zFigpAi0fluvvjvKPzx/jPsP9fMbjx/GddZ+HzejCDRb8vjiM79EKc0ffeIe2gtXF+cS
+      AayDrSYAAD+MeOZnZ3jhzWE+9ehBHr1zYE1jq26mAJTW/PTYCN988TiffuIwDx3dgVyhVSsR
+      wDrYigJYYLJY5ekfvcPEbIXPfugODuzsXJWtmyWA6bkqf/O9X+LUBwAul+ovJRHAOtjKAljg
+      xPkpvvLs2/R25PnsU0evG9FutACMMbz01gWe/tG7fOapozx4ZPuq+jISAayDRAAxxhh+/NYF
+      vv3SCR67cycfe3AfKWf562+kACaLFf7mX35ByrH5o0/cQyGbWrWdphWAKpewUmlwNv62VCKA
+      G2ur5od85ycn+cWpcT712EHuP7T9qvrBjRAAQvKjXwzx7Ovn+I0nDnPvwb4Vy/or0bQC0GfP
+      IN85BnfeBTsHYAPtx4kAbo6tidkKX332bSp+yGefOsrgtrbFYkijBVCqePzd99/CtiW/++E7
+      yWfcddlpWgFEUYTtefDGa+D7cO/90LG+WaITAdxcW+8OT/KVZ99mZ3cLn3nqDlpyqXULwPMj
+      Zko1puaqzJRqTBarzMzXOHF+ik8/cZhH79y5oXFLzS0A2467Jacm4dVXoLMT7roHMmvrnk8E
+      cPNtaWN48Zfn+c5PTvDB9w3y4Xv3YFuXOyOV0pRqAXNlj2LZY2quymSxymypxvR8jaofEkYa
+      Swo6Chm627K0FTJ0t2bpas2yvStPIZfecBibXwALaA1nz8A7x2D/gXhZ5cNJBLB5tmp+yDdf
+      OM6bZy/R31mgXAuoeCFBpMimHNoLadryaTpaMnTVI3dHS4Zs2sG1rfqMGlen8Ft3Vgjfh7ff
+      hLExeP+90Ncfz2dyDRIBbL6t6bkq0/NV2gsZcmmXTMreUNFl6wpggVIJXnslzhnuewBaW1e8
+      NBHA5ttqhtGgy3HrvhBTKMAHnoKJS/DSC9DVA3ffDamNlwsTtg639iuRQkDvNvjoJ6C9HZ75
+      Hpx4Fxr89fWE25dbWwALWFZcKf7ox6Fchn/5LoxdjFuQEhKuwa1bBFqOVCruLyjNw2uvxi1G
+      9z8AhZbN9iyhSbm9BLBAoSWuH1wahxdfgO5uuPPuNfcfJNz+3B5FoOUQArb1wcc+Dq1tyH99
+      Ji4eJSQs4fYVwAKWDQcOot9/Hzz3rzCz9ea+SViZ218AC2zrg8ceh5dejDvREhLYSgIA6OiM
+      6wavvwrDQ0krUcIWEwDEHWgf/ggcextOn0pEsMXZegIASKfhIx+F88Pw5i8325uETWRdM8Od
+      OnMGnBxZGTBbiThy5DCOdQvODKcU/PTl+GNdDz686pdumnW8TaPtbYWxQGufGc4YKnPTjE7N
+      I7Whq5AiynfSkXVvzZnhjEH84g1ktYp68OFVDbG+3WeGuxG2NntmuJVYswDC6hzvnBvn4L7d
+      nD19irQj6dq5j5aMc+vlAJcviHuNxy7CY0/ERaSb5FsjbRVnZzh98iT3PvBgQ2Z33go5wJot
+      CNulNesyU5xn755dzFVCWjKN+8znpiAEHL0jjvjP/WvcUpTNbrZXa+a5Z57hwvlhAt/nkSee
+      3Gx3bgnWnB/ZbobB3bvp7+0ilcnT09V+I/zaHPbshXveB//6fZif32xv1sTkxATF2Vm+8Kd/
+      xplTJ3nj1Vc226Vbgq3ZCrQSQkD/dnj0MfjhczA5sdkerZqXfvRDHnnySVzX5Xd+/9/xi9df
+      482fv7HZbjU9iQCWo7MLPvBB+NlPYeTCZntzXWamp5gYH2P/wUMApFIpfuf3/x2vvPwTTp88
+      ucneNTeJAFaipRWe+hC89SacOb3Z3qyIMYYfPfssjz75gSsqmPl8ns9+7g945p++w7kzZzbR
+      w+YmEcC1yObgQ78C587Asbeastd4rlhkYnyMQ0fvuOpcvlDgd//wj/iXb3+L8bGLm+Bd87Oi
+      AF778Q944+23OXWm+YsANxTXhQ9+GKam4PXX4pfwmwRjDC889yyPPvnBFZsX2zs6+J3f+xzf
+      +OpXuZQMAryKFQVQLpd57aUfMlcLb6Y/zYllweNPxj3HL/24ad45Ls7OMjY6wpE777zmdV09
+      Pfzapz/N01/9MvNzczfJu1uDFQVw6J4H+YM//AI7u9f/WZzbCinhgQehrQ3ZJE2MLz7/HI8+
+      +YFV9a7u3DXIv/n1T/Plv/krSrdYE++NZNk7Nzs+zNNPP80PfvAMc97t/b3YNSEE3HEn+t77
+      NtsTZqanGb84yuE7rp36L2VgcJAP/spH+crf/jW1avUGenfrsKwA2rft4kOPPYjRZiOTMt+e
+      CNGQKds3yks/ep4HH318TUMLhBAcPHKEh594kq996e/wPO8GenhrsGL0nirO0d6eZXpy+mb6
+      k7AK5ufmGL1wgaN33bWu39959z0cOnKU//6lv4/n2d/CLCuA+ekx5qqGlADcZKa1ZsIYw0s/
+      +iEPP/bEhgaDPfjoY+zZt49v/sNXUU1Sqd8MlhXAsXdPcv/d+3ntnVHuOjhws31KuAblUomh
+      s2c4evfdG7b1yONP0N7Zybef/jp6i4pgWQGkLcWzP3qZbFoyPHrrjIe53THG8PKLL/Dgo481
+      5mUQKXnqIx/FdV2efeZ7NHCe5FuGW3d26DVwu8wOXSrN86W/+ku+8Kd/tmJY1uObVopvff1r
+      tLV38NRHProhWyv+R5O+D7ByT/BPnuf5H77A0OhEM44AWBsGdHTrZ/Evv/ACDzzyaEPfIAOQ
+      lsUnf/O3uDQ+xis/eWlL5QQrCsBoTaVS5vyJN7k4W7mZPgGgopAo8BtiK/JCLrxwivE3hvFL
+      3i35gEvz8wydO8ud97zvhti3bYff+re/x/Fjx3jj1VduyXu0HlbMQ8pexAc/9GHSro21CZ0B
+      54+9wfGfPo+bytC+bTtdO3bTvm07hc4eLNtZ0yt/dsZh4MkDVMbmGX99CCElnYf7yHblG/Lq
+      4M3glZd/wn0PPIRzA/sgHMfht3//c3zpr/6CfD7P3gMHb9h/NQsr1gFee+k5RqfK3HHvQ+zd
+      0bMqY42uA1iWRa08T/HSKNOjw0yNnKNcjKc27OjbSdf2XXT076Kttx/HXfnjyEvrAMYYatMV
+      Zk5dIqz6tO/ppmWgE2mtXuQ3uw5QKZf54l/8f3z+T/4U173250Ab4Vu1WuVLf/WXPP7UUxw6
+      cnRDthZo1jrAigL42Qvf5+LkNNv23s/D9+xblbGbUQk2WhMGPsWJi0yPDjE9ep7ixEWM1rR0
+      9dK5fRed23fR2rWNTKEVIcSylWBjDFE1YObMBOWLRQo7OujY14Odvn4Ke7MF8Pz3nyGXz/PA
+      I4/eNN+Ks7N846tfwavVNmwLQBvN3v0H+Oiv/lpDZoa4OQKYKjFw8B7uPbp3VcY2qxXIGEPg
+      VSnPTjM7PsLUyBBzU+OEXo10voXO/oF6jjFIOl/Asq+M5CqImL8wQ3FoGjfn0nlwG6m27IrF
+      o5spAM+r8Tf/73/l8//Tf8S5TurfaN/CMGzoFCvf+84/IoTk45/81Ibt3lABXLxwjtniPOWq
+      h+VmufuuozirKCI0WzNoFAaUpicpTlxkamSI4sQoXqVMJl+Ii07dfXTtGCTX1gnEY2Uql0rM
+      npnAKE3nwW1ke1oQ7/lU580SgDGGF59/DsdxePjxJzZsby0YY4jCCNvZ2NccF9Bao7Xm+e8/
+      Q7Va5ROf+vUN1WdueA7w0nP/zMScz+E77mbnzp3kFooGxjB09iQ9O/dTHB+mWIs4sG8vtiWb
+      TgALLFcECrwas+MjFC+NMjU6zOz4KAD59s7FHMPRBSqjVeyURfveHnLb4iLVzRLA9NQU3/za
+      V/n8f/gTxE2ctc4rVpl6dwx/roqwJE7GJdWaIdORI9Waxcm5axbF0jrAqRPH+f53v8vv/uEf
+      0t7RuS4fb/i8QOVqje7uXvKt7ZcjP6BVBDqkGmimpqfItHQjhFhUeKNaVRYibSNtLfXNdlN0
+      D+yle2Av+++Pr1FhwPz0BFOjQ4ycfJuZsQuEnoctMuTe3Ebf4GG6D+4k29/asBnOrhXOH//w
+      OR55/AkMcd1no/au+TulqU6UmDl1CSOgY18v6a6dSCkJqwHedJnyxDzTpy4ReSFuNkWqNUO6
+      PUu6NYuVda7ZkLD0Gezdf4CPf9Liq1/8W3779z5HR+faRdCo+LFsDlApzTE2NoYfKnq376Kr
+      LX/F+cmRU4i2QVpcmBo5h9M9QGfOXXn6wXXQLFMGqjCgVppjanSI8tQMdlDAFa3k+1pp39uD
+      k71+uXw9fs1MT/Gtr32NP/jj/3FNfq81nDpUFIemmBuaJtuVp31vD25L+pq2jDYoL8IrVvGL
+      VWqzFcJagLQtUi1p0h050q0Z3Hwa6cS/X25qxLHRUf7x61/j13/7M2zr71+1z+sJ50osK4DR
+      oZOcH4uHQe/ad5j+7rbFc5Ff5cSJk1j5DlodzZyn2b93N5a8BSfHXSeBH1AZKcaV5nyKjgO9
+      pK9Rab4WK4XzO994mt1793HHGge9rea+GWMIyz4zpyeoTs7TMtBJ22DXVS1ga22IiLyQYL5G
+      bSYWRVTxMUC6NUuqLRMXo9pySDd+DkIILo6O8PRXvsJvfvbf0r9jR0PDuRqSsUDrYME3YwyV
+      S/NMnxgHY2jf10Ohv23V5fWltpYyVyzyD3//Rf79f/iTNd+Da1aqtaE2U2H6+BgqiGjf20PL
+      zvYV/W3EM9CRwp+rUZupUJutEJQ8TKQRtiTVEoui5Jf47r98i09+5nfYuWvXquzeUAG888ZP
+      ePPkeQDueehJDg32rcrYVhPAUvtByWPm9ATeTIXCjnba93Rjudf3fzlb//TNbzAwOMjd7793
+      w74BqFBRGp1l9vREnGPt7yXdnkPIa+dYN2IwnJQSow06VPjzNYJ5D2+uyszkFM//4jnuO3A/
+      AzsHSbVmYoEU0ljpq+sXN7QSfOT9j1AqlzkzPIIfbo0xIRtBCEGqJUPf+3cReSGzZyc5/6MT
+      pDvzdB7oxcmlVl08mp8rcmF4iE988lMb8mmhSDI3NMXc+Rnyfa1sf3APbmFzX3ASQiAsgbQk
+      dtoh1xN/w7mPQbY/uJcv/eVfkunJM2Dtojw2x/SJcVQQIaXEbUmTKqRxWzLItEUkJFobjDYY
+      pTFKo5WO97XBaI1R8TmtlxxXGhUpRmZGVm4FstI5shmHyvwcsLYKylbGTjt0H+mn8+A2SqOz
+      jL02hLAkXYf7yHRef+zRSy+8wCOPP4m1gdStNlth9vQEtZkKHft6GHzqMJbT2BGkN4K29nY+
+      94Uv8A9/90VSHVkOvS8ehmGMQfkRQdnDn/eoXJonrPpISyIsGffTWBIpJcISCLnkmCORaWfx
+      uMHwzttv8trrP2Pw0L7li0BGa06eOsHgwA7OXZjg0IHm7gm+Hpv5PsDSsUdB2aNjfy+F7e2L
+      EXKprblikS//7V/zx9cY779oV2tUoFB+RFgLiKoBYTWgMlVCCEHngW3keluuW8xpVDivx1rG
+      AtWqVb78N3/NfQ89xF3ve/+yicZafQvDkLd+/nNe/enLDAwO8uiTH6DQ0rK8AIoT5/nWPz/L
+      tr5+3v/g4/S0rW6u/EQA1/YhrAQUz01SGi3SMtBB22AXwpWLtv752/9IX/927r7nfehQoQJF
+      WPUJqwFhLSCsBCg/QoURRmksx8ZK2dgZByebws44uC1p0q3ra5FqRDhXYq2D4aqVCl/+27/m
+      fffdz/vvf+Cq8KzWt8D3efPnP+f1V37Krt17eOSJJ2lpbV08v2Ir0Csv/oAzwyMceehj3L0v
+      qQQvZaO+LYw9mj07iVtI42ZTzBWL/POPvsPH7/04tuMgbQs7ZeNkXexsCifjYGdd7LSD5VhI
+      x2pIyngtNvuNMM/z+PqX/56Dh49y30MPrWk4ShgE/Pz113jtpz9lz759PPLEE7S0tl113YoW
+      ZCpLNuNSnZsFVieAhNVhuTbte3to291N+dIcaMPLb73EY7/yQfY/cPeGii23E+l0ms987g/4
+      71/6O2q1Kk889aHr/iYKQ9547VVe+clL7Dt4iM99/n+g0NKy4vXL5gAjIxdocQ1BppeOvItc
+      ZXaa5ADrs1WrVvniX/w3/vg//dmGX3i5nXKABcIw5Btf/QpdPT089ZGPLjseKwgCfvn667zy
+      8kscOHSYhx9/gnyhcF3bywrgh9//R2YmL6Fa9/LAvfewq291YzUSAazP1vPff4aOri7ufeDB
+      hti73QSw4Ms/ffMb5AsFnvrIR9FaY9s2ge/z89de5Revv14v6jxJLp+/vsE6ywqgWp6nUovf
+      x80VWsmmVzfeJRHA2inNz/N3f/nf+OP/9D83xObtKoAFG//0jaexbJsPfezjHD/2Nj976ccc
+      PHKU+x9+hFxu7RM5J0Mh1kEjfXv5xRdwXJf7HnyoIfZuZwEs2Pned77NiXfe4Y577uHxDz5F
+      +jqftb0WiQDWQSN982o1Uul0w4aR3+4CgPrH2isVcrnchu9bMvfzJmM7a5vhIiEeTpFuUKKR
+      CCBhS5MIIGFLkwggYUvTmBrODUB4RdAepFrBckHaIGT8hZaEhAbRvALwZ2HyHQhKEPmgI5AW
+      uPlYFKlWSLdAqgXcAqRbY4EkJKyBphWAbt2N7Nx/5cepdQT+PHhFCMpQm4XiUHzML8W5g7TB
+      TkO6LRZHqiUWi9sK2asHQyVsbZpWAIssLfJYDmQ74+W9GANGxSIJq7Eg/Ll4PXcBUb4Uf+q0
+      Yz+074Vcd5yjJGxpml8Aq0UIEPblHCDTcfmcMRilQFVh5iwM/zDOQQrbofMAtA7E4krYcmzd
+      nmAVxsWnqRNQHovrEJ0HoXM/ONd+AahZe1sbba9Ze4LhJswMtxI6Cnj9lZ+w+67HmB4+RslT
+      HL3zbjLuLVacsJw4snfuB6OhfAmmT8LbXwNMnDN07IuLSknl+rZlXTlAPDPcLopjI3TlU4S5
+      djpyKZRSTTsz3OpnrTPgzSHmhpGzpxD+PLplJ7p9PxT6wXJX75tRoHW8NgpUBDqIW7UiDyIf
+      E9UQworrI0LGRTjp1NcWCKu+bV++BlEv8i00C1/eVpqGzui8YVtGgV+G8hgm8hCWGxdRF9Z2
+      qu67HdfRhLWqBOeGzgx3LSK/yhuvvozdtZecmqfkRYs5wC1VBFotYQ1Ko3GTbGkMct2o/A4s
+      Sy5GYiIPdAgquHJBLInE9YhsuWClFh++ki6WIK68GwW6XpHX0eXthcq9VnFuhYnXxtRbyczi
+      cWNA5Hsg1wuFPsj1xP+1jlxszc/AmPg+VCaheC6+X94s2BlMoR9jp5E6iu+X8uN7p/wrEwqt
+      4vBYqfp9cuv3bGFJg5NGGYklzJJ7FS1zr+r2TBTb11F8n5bc661bB1ifISiPo2fPIS17SUqW
+      ec9DcuMi1ioiXcPrAH4NO5iNI195PK7fQNxXUuiLK/7Zzrhp+Dqditf1zei4Kbp0EeZH4rUx
+      kO+J/6d1IP4vIddWB9Dq6sREBZdFE3noKEDabnyPrWVyzMW1XLK/ZKmfTwSwDpq1ormsvYXm
+      YW8ujqDlujDCWtypmO+FfB/kt8V9Jktaw66wZQyElTh1nzsf2worcSLQOgAtO2MbdnpZYTVr
+      JTgRwDq4pQSwEiqMI3D5Ul0Ul+IORjsdV/wL/Si3DcufjVP3ykSccubqqXvLjrjlTK7O92YV
+      wO3TD5CwNiwHrLa4x7yr/jVIo+P+keoUlMcRs0NxcWbbPXFR5jrNw7ciiQASLiPk5eEj7XvQ
+      UYRsYO7UjCQN3AlbmkQACVuaRAAJW5pEAAlbmkQACVuaRAAJW5pEAAlbmkQACVuaRAAJW5pE
+      AAlbmkQACVuaRAAJW5pEAAlbmkQACVuaphVA+dIIpfERGvi+TkLCVTStADLt3ZQnRhl940X8
+      UnGz3Um4TWnatx0sN8W2Ox+gNjvJ+LHXyHb00LnnMNJOZnBLaBy3xDvBRitmz59mfnSYzr1H
+      yPduX9PncZJ3gm+uLWMMBqh6IRenSoxNlxmfKeGHCse2cG1ZX1tIKXBtC9uSpFwL24rP21a8
+      OLaFs+T6+JgEDPZ7nud6Ppm0IQGMXRhithpyYN9ebEve8JfiI7/G5IlfEvk+vUfej5u7/oeQ
+      IRHAjbLlhxGzJY/JYoXx6TLjM/FSLHsEkSblWPR1FujrzNPTliXt2mgDQagII0UQaZTWi9th
+      pAjr60hpInXlsSC6fCxSGsuSWFIghVgUUibtkE055NIO2bRDJuWQTdnxun4u5dpkXBvXsTYm
+      gF++8Qq5tl52Dw4gMGuYfe36rCwmQ3VmkqmTb5Lv7qdt1/7rFosaLYC1Cj1SmiBSBGG8rnoh
+      FS+gVA2Yr3gIIXGdyymebUkc6z2pniOxpUTK+GFb9YcuhIgjQT0iNFrooTIUyz4TxQpj02Um
+      ZstcmqkwX/VRWtOeT9PVml0S0XN0tGZI2VY8eVgdYwzGmIbFjyhSIARaG5SOn28QaWp+SNUP
+      qdTi9cJ+zY+oeiFVL8QPI2pBRBBuaGIsQxgqJi+cxekeoDPnNlQAkVJXZXFX/LtWzF04y9zF
+      YTp2HyTfu2PFLHCjAjAmvskLN7pSC/BCxXzFp1wLKNcCKl5IqepTqgbxjfZDvCCi5odIKUk5
+      Fq5jk3ategrlks+65FI2lmUR1FO1cHG9fKq34EPsj8YYUCpOSSMVzxInaMxXdAyGbNqlLZ+m
+      tyPPto78YiTPpuNUdLXFjkYLYNOmRryM4eL5IeY8zYF9e7CkaGgR6PRklRNTNSwhsKXAtuKU
+      zpH1fRnvE3rUzr1NX07gDN6FcbNYkiuusQVIYXDq2Xmk4pSi4oWUqwGlmk+lFjJf9al68bpS
+      CyjVAiq1OMVYSGktKXAdi3wmRUsuRTbl0JJ1yaQdWrMpchk3zmrTDhnXJpt2sJj13zMAABWO
+      SURBVK7x0G/lItBaaNZ5gZq6EiylhTKGSBtCZVAGImUItUZpiHR8TmlDujaDGnmHUdOG3bcP
+      Iy3C+rly1ef7L7yJBdgSQmUQUiJtC2nb2LaN7di4blx2bMunaMul6CikacumyKXtuBhSF2LG
+      ho5cqmHhTASwdraEANYaQK0UxeFTzI+fp2vfUXLd/QghMMZQqvq4ThyRqR8zXJ5fdkFMC4IK
+      tSFSl/eXns85gkO9+U0L582wZ4zBr5ZJZXOIBkwPnwhgjWwkgGGtwuTxX2IwdB+4CyebT1qB
+      VoExBhUGlMaGKY2PoJVC2jYdgwfIdfUhNlB+TwSwRhoRwMrUOFMn3yLbvY2W7buRUmK0Bq3R
+      WoPRaK0wWseLUhit4txBRfExEx9fvM5ohLToGDyInUo3RTg3as9oRXV6grnRIcJamXzvDlr6
+      diEcFx14zA6dpDY7SdvAPlr6B5HreMaJANZIowKolaJ4/jTlyYtxuV9aIES8lnLxmKhvi8Xt
+      K49Jy4qLAlISVCvMnT9F647dtO7Yu64I0ehwrtWeMYawVmFu5ByVqTFShTbadu4l3dqx2LKz
+      YMsYg/I9ZodPUp2eoNA/QEv/ILa7+npQIoA1MnVunLmLM0hLYjk2woorrZYtkfVtuXgsjqDS
+      thD1tvGFNTJ+mAaD4zrr6i18L1EUIYxh+uw7eMVpuvbdQaaje122b7YAVBhQmRpnbuQsAIW+
+      AQrbdmIt05eynC0VhsyNnmV+dIhcVx/tu/ZjpdLXDXsigDVSHJumNF5ERQodKbTS8VLfVqHC
+      KH3FeRUpjI5rtUbH7c5aaYB6MccgLInt2tgpZ3FtuQ5OysFOOTgZN17X9+2Ug52O94WUIOJw
+      Ltz8oDzPxIlfYKfSdB+8Z02pItwcARhj8OdnKY6cxStOk+vuo6V/EDdXWDbiLkSJBVvLXaOj
+      kPnxC8xdOEuq0Er74MEV7UEigDVzo74PoEJFFIREfkgURPF6YfFCwiAkqgVXnAu9gMgP488P
+      CTDE406EENgpGzvt4s9NAorO3XtxMmmcjBsLK+3gpF0sx8Z2bawF0dlWw8P5XntBrcbcyDCz
+      w+cw2pDr3omb70CFKg6TVw9bPawL22EtiO+b1kjbIl3IkC5kyLTmSLdkybTmSOXTpAsZpG1R
+      mbzIzNnj2OksHXsOkSq0XSWERABrpNk+kGGMiT/FZQxRFGFJidGGsB5xlB9HovlLY8ycO0Wm
+      ox8n07oYsRaEp4KIyI8r2NKSsFBUaxBaKSKvho4UdjoT52ZpF9tdkqO59uWc7r3n0vF5WR/b
+      JYTEm69Sm6vgzVfxSjVqc1X8UhW/4mGUiXPItIMOK+hgjpa+XroPHCDX2baYqy7cw2aLH00r
+      gGBmBuH7yFwe4dgIywJnfWX4mzkYzhgTF4uO/xwnk6Nr3x3Y6czyPkWKMAg37JeOImrFKSqT
+      Y9TmZsh1dtO2czfplvYNNV1eL5ItFDEXRO7N16gWy/ilGuXJGYqjF9FKYDlZ7HouaNXradKW
+      cb3Niut0wpJxXa5et7Mc6/Ixa8lxW8ZxQYCTcrAce7EuuFj/q9f94m1ALDkurhw12rQCeO65
+      Z3nupR/jAG4qjZNySWWzuNksTi5HKp8nXSiQymaxLDseNCYtXMuKB5FZNraU2NLCsSQZ26Y9
+      l8exrOuPlFl6S7TGRAoTBpgwhCgiCkPsTBaZSSNS9TL/0pu60Pk2dp6ZoRO0bt9N28C+ZcW7
+      rmZLY9BhQHnyIpXJcYLKPOnWDvK9O0i1dOCkmqOXOqxWFluOMl07cHOt9XpbhA4jVBjGuWIY
+      osMoLpoGASoMUX64eF5H0eWPYtbXWoO0HNx8O9JyUFHclE19zFF8XfwcF+uFS8YjiQXhNasA
+      5qdeY2r8J4RaEmqIjCQ0kkgLFJJAC0IFgRZEFQ+/UiOshfiVGoEfxdcaQWQEoZHULIty2kFk
+      07Tn0nRlUrShaatVaPWqdPg1WmtlnCgAEwIKo0MQGmEJqH9oEEuABF3U6KLBlCRYBaTbjrCc
+      uGnVdZCZDCKTAcdmfuoiTls7rbsPIrNZZC4bn0+l0baF7azuJR8dRZSnxqhMXCSoVUh1bSOz
+      bQdOawdKCJQURIBrO9iWVU8AJLZlITexhSryPYrnTxNUSoh6c7K0lmtulgjLRoh607OUi9cj
+      46brhf3Q9/GLU5QnL2K0IpVvJdPRQ6a9CyeTu2ZJIW5MiVCe37wCiPw5CGfQvocOPEwUoIMa
+      JgoxoY9aOObXMFGACX106IFRGBOCjjAqAiKEjEdJGi0xRgIWViqNzGSxslmsTA6ZSiGcNGUF
+      00HATKiYqvpM1zxKfsS8H+FHGqkFaSlJ2zVydo2elM+2VEiXo3GxsHWaiucwMS+YLAmmK5Jq
+      TeN5BhlGCKMvB1IIhJQoKVFCEEpJKCXKkhghUFKiF85bFkqAEQZjG4QDaUtRcBQtTkTeiSg4
+      ioyt4uyeeHi0qGf5lojF4NZzR8eysKTEteo5p23hWPE5KUS8lpLQWNSURUVZ+EpSVRa1xbUV
+      JzBa1teCyKxQ5DIGF2jXhrwQ5IGCgQLgSklKCFLSQrgOwnFjMbgOwokXHAchrbhZW0qU1lha
+      o2seqlKiOjZK5eIFgpkpXDtFttCBpQ3a99HlMkYpCENMGGGiCJSKi9ZNK4B19WiauDc3iptI
+      dRhhwgjlBURVH8IIVfPRQX3tBSg/RHtBfG2k6r+PfyssiXQdjC3xhSGQAl9C2JGj7b6DV/y3
+      FJC14shYkBW0P4n2J4j8SUrVWeaqc5RVmihKEXiSbM9hUm2DGNmCbUmkriGjMlJVISziz15A
+      +3PYVohjg22FuLbBtl1cJ4OTyiPtHMIuIOwcwm5F2AWUtomikDAICDyPMArxax5RGBD4PkHg
+      x0McrDjnsR2HVCqNm0rhuG68dlzcVBpjFBKFUVWMrmGUB6qK0T5GeWhVJVIhQegRRQFB5OGF
+      Ab6CwNgIK4W00ggrBTKNp2C2WmXe96gFIQCWMTha4ypNSinyUUghiJdcGOFqtXiPlwoABMYL
+      IdSAhcjkkdkCVr4Vmc0jMnmCMGRmrognLejsQ3T2E9hpKkh8JJE2t5cAVmK9lWAdKnQYYoII
+      HYToIEL7Abg2uZ29a/NBh5hwDh3OoP1JwtIFymPHcDMC0AS1CGNSOLkusl17sDIdSLuAsAtg
+      pZFWHqzMdQemrabiqlRc3g7DkCgM8X2PwPdj0fgeYV0sRusV7ayMxugQYQKkUEipsITCEiFC
+      6DW/q+AbTU0bPK2p1pea1oRGk5KQsQwZaXAlZKQhtbhAWhpsqREYhNCxP0Kjgyoq9NA0sQDe
+      HhvljdHzCEDWH3pciV94C0rW34qSi2Vdq17ptRbO149LIeOb0KCXMbSqN2FuBAN+qUjxwhm0
+      UjiFVtJdfeCmUFqjja6PQlVEuv7CS32tFyp0mLhiiEHXH6PWZrF4k3Ecsq5L1nHJOC55N0XW
+      dUnZNmnHIW07OCs8r1gojXuezfZCjF8qUp2eaF4BhFGEkGLxARvDFQ9daY0yC29GKUKlUJFC
+      qXiJwggVRfVWhgildb1MaYEl46Xes7tWGvnmm9YaS1pLRGxhy1jYC+X2pRVZW1qXy/b1xCBu
+      6YuPRZFCSEmoFH4UUgkCqmFAdcnai0K8MMSPIiKt4/K/tEjZNhnHIeO4ZF2XtGXj2nb8nzL+
+      b/uKhCX+f/meOocUctG/hWuSjrA1cuGdp7l4+rtIy0VKB2k5CGnH+8IGBVLbSC0QSiCNjTAS
+      aex4QSLtNNJJIVMZpKwfVxbCgJQu0kohHRcrlUG4qbhS5Djg2IiUE+/bNrgLwyAuD4VYDGe9
+      bc7U2+aMUrBYl4ggitBRiI4CdOijIw8dBnEWHAboyEebECMiFBFGaIzQaBGhidBCYYRCmwit
+      A7QO0SrA6AitArSO0CrEqDBeA7abwXayWG4e28liu3lsJxcvbj5ul3dy2G4O2y2gZRqFxFeK
+      WqjwlaIShlR9Hw1X5ECRVuh6zqTrCZI29UXXc6Elx+PodfkdZltal3PvJTm1VRf8wrnF3PyK
+      3P3yNVorkJJIqXpiGPuk6r4u7EdqIaGMc9VIRWitUCrARLXmFcDs6DAzl4ZJpeKKWTqdQVgC
+      YxsMKn7wkb8YIeJ1iFb+kv0Ao0KU8lFRgNHxeWMUKgribR2iIq/ehqxBm8X2ZOrjh+IxEIAl
+      kY4Llh23MmkFi2OP6uVbudC7Ky9vS7suYndxsawUwrIBC9vJYFkppB2LfVHoC9dJOxassOpC
+      t5BYCCMRWiKNhSBe60hhTEAU1VCqShTViKIKKqoSRVVCVUFFNaKoGh9XVcKogkFTz0ouh9VK
+      4Th5LDuDY8dr285hW9lYWFYW28ljyRSWncWy0rGwrHQ9d407pLQgFpJSGGJBaWNQJh6WroxZ
+      FJg2+qoi30Juv3RfG4OFwBECCRhVw+gqSpXQqoyKShhdIQpm0X4RFcyj/HksbcggSQsHV2aa
+      VwCvDL/Maxd+hhfW8CKPalDFGI1jOVjSwhIWtmXjWikyTpaMkyHr5ha3M26WtJ0m6+bIOlkE
+      8prv5kJc1FrYijcXjpjFzjGtI1QUYNsuQtrEXYvAYvXu8v7SoyuhlAIJoQrRRhOqgECFRDoi
+      VAFKR0QqItABoQoJVUCkIkId1ot+IUHkE+mISEcoHeFYLo7l4FoulrRxLAdb2jiWi1vfXno8
+      vs7CkU59bWMLCxV5CONDFKeWOqphohomrIIOMZGHCsuo0CMKy6igShRWUGENocUSgcpYtKJx
+      Y540cQ6prBBjge3mcNJtOOkWUplO3EwHTqqVlNuB4+RxnTYcuyXuR6j3PSCauCNs2aG4WsWL
+      iVBaEemIIPKphTVqYY1KUKYW1vDCGtWwGq+DCtWwSqSihoy5KYfzXKyeZyC/l7R19RCHtWKM
+      xrZsHOkg65HQsdz4mOViS7seeZ3FCGwtOWZLh5SdWozURhuMMIQqFsyCkOJ1uLi9sH/l+YBI
+      q7rIQkIVYTAoHdXve3zP41Q7PmaMiRMkaSHFwlogEUgTt8BIDMJohDE04BEAIISN5aSxrDTS
+      ctf9bJt2asTlWLjR4K7pd40cC1SNKvx88qfc3/M4rrU2P5ajGd4I24iteMqYWBxaK6L6+nJC
+      peNcrC64ZmkFWuCWygHWSzIz3ObbatZWoA3I0XDy2Ju8/vob1EJ1/csTEpqQDUjIIN08eztS
+      lGs+rkwRhiG+72OMiduHpVxU/vX2ASzLWtzXWuM4zornV7u/YGvB3sL+e88Di9nz9fbDMB7C
+      vNrrr7Ufj7kXi/tCxBOMrWZ/4R4u3TfG4Pv+iudXs7/SM1jrM33vvjEG27Y3/Ey11iilcF0X
+      pdSGfNuAAATKL3F6rsiRu7YtZm3NlsVB44tAjuM0ZTGj0fa2QhFoQwI4eMfdG3YgIWEzadov
+      xCQk3Awa2gy6UM5rpL1G2WlW3xptq9H2bnffGt4PsFDB2yhLK6eNohl9a3Q4E9/WRkMFIKVs
+      WEfHQi29ETR6KG4jfWukrUbb2wrPoKEdYQkJtxrWn//5n/95Iw2eO/UuY1NzpETIidNDFNpa
+      OXPyOLVIUJoeY+TSNG1t7fHHLZYwev4swyPj5DMOJ06ewsm0MHb+NDMln5QIOXVmiHxbB84q
+      XkSZnRzj7LkhnHSO4dMn8bSkWpxk+OIkrtScPTdEsezT2d56XVtGR5w+eZzpuSoEFc4Mj9Le
+      VuDdY8fQVobJi8OMXpqhu6tjVeNRRoZOMzQ6QT5jceLkaVK5FkbPnaJYDQkrs5wdGqGtqxtb
+      Xt+WX5nj5OkzBNpi9tIFJopVCinJu6fP093Zysl336EaQmshd11bWoWcOnmCmZKH9uY5d2Gc
+      trZW3j72Dj09PUyODjFTg9b86sY/TU9c5Ny5IVLZPGdPniDEIarOMj5TJiUjTp4+i5Yu+ez1
+      JxiulYucPHUGJRymLg4zXaqRdWB6Yhx0xKkzZ8FOk8tcfzYMHfmcPHGSuapPWJltfCvQwO69
+      aN/j4vQ8dx7ZxfFfHKNt2yBeqUipVAJtlo0ofTsGSRFxYWSc/UcOMX3pLMoUkEGNd0+fQRJ/
+      Kmg1tHb20tOZY2zoAu3b91Cbn6ZUDelrSRM5eXZ0tZJrbV9dgITFnj178KtVpuer7NvZxVuv
+      vcXOI3dRmhmnXKpQK5VZbV94/87dOCpgZGySg0cOMHb+DMLtAK/CpWKZvTtaGb4wsypbTqbA
+      rh3bqFRmCFSGVOTjSQdLRFSKUxR6BvDLc6sLprTZs2c3XrXCbMljV28LE9Pz2I6NMZDP56nV
+      qqsMJbR3baOrLcPI6SF6dx+kUpwmk2/Hr86TzrUy0N9FpbI6e6lsC7u291CpTBOZHHbgEVop
+      2tKabL4Fx4JazV9dOC2XPbt3UatUmK8EjRaA4eTxE+w9dAipImq1Gk46hed7REoxsOcAHRnB
+      dKl21e+GTh+nZ9d+8q7Eq3koYxNFPmEUkUpl2LN3F2MjY6vyYvLieQKrjV3b2/A8L/7iYBTi
+      BQGWFFycqdDXsboPXBgd8u6JMxw6egijIjyvRirjUq3WiKIQbaVpy1j4q9Km4eyp42zfd5C0
+      MHg1D6RNWA/nzr5uTpwZJpNZ3SA7rzTDhckK+3fvIop8gigik45TVMuy8Ov3fVWeRT7HTw1x
+      +PBBtIrwfB8nlcGx4sQqlV7bXEOXRobQ6S52bitQq9WIlF60USlOcmk+Ys9A36psVeemGCv6
+      7N2186pwRkqzfXs/8/OrE7oOa5w4O8KhQ/tRUdRoASikEJwfPs/A7p2MXCpz5M7D2P48vdt3
+      4pXnqJCmu/W92ahBCIuxC+fp2jHA1Ng4g4P76GxzaenZxqF9exg+P87uPTtW5YURgvnpS4Ru
+      K9KbZduOXezo78a3MrSmLfq371j1m5BGaySG4eERdu7oY6YCR+6+E29ihB2D++nrKmC1dJFd
+      1Z2Mwzk6PMy2XbuYGJtkz979tGahvbcftKa1e5AdPav7/KtSGuVXGJ8s092RJdfZQ3lynCiM
+      KCsXJyrT279zVba01kijOX/hIju391IKbVqcEN8PGRkb58KFiwSVOfzVZnVCUJwcg0IPan6S
+      /p0DjA6fIwwCyp4iqMwzMTO/unBqQ1gtcWm6Rld7ikL3NuYmLnLmUoVypcqF0UkGd60unEpp
+      pIlLGjv6e5JKcMLWJukJTtjSJAJI2NLcUm+EJWxNjI4/GG6hwXZX1US8WpIcIKHp0crnX773
+      A154/lmq1TK/fPNtPK/KL986Rq1c5PzQeebrH/VYK0kOkND0WE6Ww70pzqoefvbsP+NJl3LV
+      Y/jtl5mcuZOJGcOnf7V/XbYTASTcEvT09lIKusi62xmrCgpWDSfbRtpNceToHtLO+qJy0gya
+      sKVJ6gAJW5r/H+rRLityMmbFAAAAAElFTkSuQmCC
+    </thumbnail>
+  </thumbnails>
+</workbook>

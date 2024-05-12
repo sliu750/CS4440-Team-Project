@@ -1,0 +1,193 @@
+Label,Characteristic,Year,total_fatal_injuries,total_hours_worked,fatal_injury_rate
+,Total,2012,"4,628","264,374",3.4
+,,2012,,,
+,Employee Status,2012,,,
+,Wage and salary workers4 ,2012,"3,571","247,667",2.8
+,Self-employed5,2012,"1,057","16,246",12.8
+,,2012,,,
+,Gender,2012,,,
+Dem,Men,2012,"4,277","149,610",5.5
+Dem,Women,2012,351,"114,558",0.6
+,,2012,,,
+,Age,2012,,,
+Dem,18 to 19 years,2012,59,"3,735",2.9
+Dem,20 to 24 years,2012,287,"21,964",2.4
+Dem,25 to 34 years,2012,736,"58,613",2.4
+Dem,35 to 44 years,2012,829,"59,567",2.7
+Dem,45 to 54 years,2012,"1,161","64,325",3.5
+Dem,55 to 64 years,2012,936,"43,619",4.2
+Dem,65 years and over,2012,588,"10,951",10.3
+,,2012,,,
+,Race or ethnic origin6,2012,,,
+Dem,White (non-Hispanic),2012,"3,177","177,029",3.5
+Dem,Black or African-American (non-Hispanic),2012,486,"27,220",3.5
+Dem,Asian (non-Hispanic),2012,147,"14,131",2
+Dem,Hispanic or Latino,2012,748,"39,894",3.7
+,,2012,,,
+,Occupation7,2012,,,
+,Civilian Occupations,2012,,,
+Ind,"Management, professional, and related occupations",2012,694,"104,536",1.3
+,"Management, business, and financial operations occupations",2012,467,"46,920",2
+,Management occupations,2012,445,"33,843",2.6
+Occ,"Farmers, ranchers, and other agricultural managers",2012,232,"2,024",22.8
+Occ,Construction managers,2012,24,"2,002",2.4
+Occ,Food service managers,2012,27,"2,394",2.3
+Occ,"Property, real estate, and community association managers",2012,30,"1,171",5
+Occ,Business and financial operations occupations,2012,22,"12,996",0.3
+,Professional and related occupations,2012,227,"57,615",0.7
+Occ,Architecture and engineering occupations,2012,35,"5,838",1.2
+Occ,"Life, physical, and social science occupations",2012,21,"2,536",1.7
+Occ,Community and social service occupations,2012,39,"4,215",1.5
+Occ,"Education, training, and library occupations",2012,25,"14,046",0.4
+,"Arts, design, entertainment, sports, and media occupations",2012,43,"4,773",1.8
+Occ,"Athletes, coaches, umpires, and related workers",2012,23,354,13
+Occ,Healthcare practitioners and technical occupations,2012,48,"14,829",0.6
+Ind,Service occupations,2012,620,"42,391",2.8
+,Protective service occupations,2012,231,"6,205",6.7
+Occ,Police and sheriff's patrol officers,2012,105,"1,384",15
+Occ,Security guards and gaming surveillance officers,2012,51,"1,666",6.1
+Occ,Food preparation and serving related occupations,2012,57,"12,414",0.9
+,Building and grounds cleaning and maintenance occupations,2012,255,"9,268",5.4
+Occ,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",2012,40,530,14.7
+Occ,Janitors and building cleaners,2012,35,"3,705",1.8
+Occ,Grounds maintenance workers,2012,159,"2,194",14.2
+Occ,Personal care and service occupations,2012,65,"8,546",1.5
+Ind,Sales and office occupations,2012,314,"59,216",1
+,Sales and related occupations,2012,225,"27,907",1.6
+Occ,First-line supervisors of retail sales workers,2012,98,"6,762",2.9
+Occ,Cashiers,2012,34,"4,649",1.4
+Occ,Retail salespersons,2012,28,"5,399",1
+Occ,Office and administrative support occupations,2012,89,"31,263",0.6
+Ind,"Natural resources, construction, and maintenance occupations",2012,"1,478","25,069",11.6
+,"Farming, fishing, and forestry occupations",2012,260,"1,949",24.8
+Occ,Miscellaneous agricultural workers,2012,146,"1,406",18.3
+Occ,Fishers and related fishing workers,2012,33,53,120.8
+Occ,Logging workers,2012,63,97,129.9
+,Construction and extraction occupations,2012,870,"13,399",12.9
+Occ,First-line supervisors of construction trades and extraction workers,2012,121,"1,359",17.7
+Occ,Carpenters,2012,56,"2,234",4.9
+Occ,Construction laborers,2012,214,"2,471",17.3
+Occ,Operating engineers and other construction equipment operators,2012,45,731,12.3
+Occ,Electricians,2012,69,"1,388",9.7
+Occ,"Painters, construction and maintenance",2012,34,830,8.2
+Occ,"Pipelayers, plumbers, pipefitters, and steamfitters",2012,35,"1,052",6.5
+Occ,Roofers,2012,73,339,43.1
+Occ,Structural iron and steel workers,2012,22,127,34.6
+Occ,Other extraction workers,2012,19,180,21.1
+,"Installation, maintenance, and repair occupations",2012,348,"9,717",7.1
+Occ,"First-line supervisors of mechanics, installers, and repairers",2012,33,644,10.2
+Occ,Automotive service technicians and mechanics,2012,30,"1,740",3.4
+Occ,Bus and truck mechanics and diesel engine specialists,2012,26,651,8
+Occ,"Heating, air conditioning, and refrigeration mechanics and installers",2012,20,657,6.1
+Occ,"Industrial machinery installation, repair, and maintenance workers",2012,32,"1,114",5.7
+Occ,"Maintenance and repairs workers, general",2012,69,881,15.7
+Occ,Electrical power-line installers and repairers,2012,27,226,23.9
+Ind,"Production, transportation, and material moving occupations",2012,"1,468","32,976",8.8
+,Production occupations,2012,221,"16,733",2.6
+Occ,First-line supervisors of production and operating workers,2012,25,"1,738",2.9
+Occ,"Welding, soldering, and brazing workers",2012,47,"1,239",7.6
+,Transportation and material moving occupations,2012,"1,247","16,244",15.2
+Occ,Aircraft pilots and flight engineers,2012,72,232,54.3
+Occ,Driver/sales workers and truck drivers,2012,813,"6,703",24.3
+Occ,Taxi drivers and chauffeurs,2012,50,616,16.2
+Occ,Industrial truck and tractor operators,2012,30,"1,075",5.6
+Occ,"Laborers and freight, stock, and material movers, hand",2012,108,"3,222",6.5
+Occ,Refuse and recyclable material collectors,2012,31,192,32.3
+,,2012,,,
+,Industry8,2012,,,
+,Private industry,2012,"4,175","226,848",3.6
+,Goods producing,2012,"1,823","52,629",6.8
+,Natural resources and mining9,2012,690,"6,599",20.4
+Ind,"Agriculture, forestry, fishing and hunting",2012,509,"4,327",22.8
+Occ,Crop production  ,2012,224,"1,817",23.7
+Occ,Animal production  ,2012,150,"1,960",14.8
+Occ,Logging ,2012,61,170,71.8
+Occ,"Fishing, hunting, and trapping ",2012,36,66,106.1
+Occ,Support activities for agriculture and forestry ,2012,32,313,19.8
+Ind,"Mining, quarrying, and oil and gas extraction",2012,181,"2,272",15.9
+Occ,Oil and gas extraction ,2012,26,207,25.1
+,Mining (except oil and gas),2012,38,502,15.1
+Occ,Coal mining ,2012,20,222,18
+Occ,Nonmetallic mineral mining and quarrying,2012,16,186,17.2
+Occ,Support activities for mining,2012,117,"1,530",15.3
+Ind,Construction,2012,806,"16,199",9.9
+Ind,Manufacturing,2012,327,"29,831",2.2
+,Food manufacturing,2012,43,"3,341",2.6
+Occ,Animal slaughtering and processing ,2012,18,932,3.9
+Occ,Wood product manufacturing,2012,24,774,5.7
+Occ,Chemical manufacturing,2012,24,"2,665",1.8
+,Nonmetallic mineral product manufacturing,2012,32,814,7.9
+Occ,"Cement, concrete, lime, and gypsum product manufacturing ",2012,22,274,16.1
+Occ,Primary metal manufacturing,2012,24,"1,078",4.5
+Occ,Fabricated metal product manufacturing,2012,43,"2,349",3.7
+Occ,Machinery manufacturing,2012,21,"2,690",1.6
+Occ,Transportation equipment manufacturing,2012,27,"4,226",1.3
+,Service providing,2012,"2,352","174,253",2.7
+,"Trade, transportation, and utilities",2012,"1,241","47,565",5.2
+Ind,Wholesale trade,2012,204,"7,583",5.4
+,"Merchant wholesalers, durable goods",2012,109,"3,665",5.9
+Occ,"Machinery, equipment, and supplies, merchant wholesalers     ",2012,36,789,9.1
+Occ,Recyclable material merchant wholesalers,2012,21,240,17.5
+,"Merchant wholesalers, nondurable goods",2012,89,"3,670",4.9
+Occ,"Groceries and related products, merchant wholesalers ",2012,27,"1,740",3.1
+Ind,Retail trade,2012,273,"28,091",1.9
+,Motor vehicle and parts dealers,2012,44,"3,817",2.3
+Occ,Automobile dealers ,2012,19,"2,599",1.5
+Occ,"Automotive parts, accessories, and tire stores  ",2012,22,955,4.6
+Occ,Building material and garden equipment and supplies dealers,2012,33,"2,664",2.5
+,Food and beverage stores,2012,67,"5,370",2.5
+Occ,Grocery stores ,2012,58,"4,586",2.5
+Occ,Gasoline stations ,2012,30,882,6.8
+Occ,Miscellaneous store retailers,2012,15,"1,839",1.6
+Occ,Nonstore retailers,2012,21,998,4
+Ind,Transportation and warehousing     ,2012,741,"10,155",14.6
+Occ,Air transportation ,2012,32,"1,000",6.2
+Occ,Rail transportation ,2012,16,497,6.4
+Occ,Truck transportation ,2012,500,"3,911",25.6
+,Transit and ground passenger transportation,2012,60,935,12.8
+Occ,Taxi and limousine service ,2012,47,446,21.1
+Occ,Support activities for transportation ,2012,73,"1,446",10.1
+Occ,Couriers and messengers,2012,28,"1,238",4.5
+Ind,Utilities,2012,23,"1,737",2.5
+Ind,Information ,2012,42,"5,472",1.5
+,"Publishing industries, except Internet",2012,18,"1,126",3.2
+Occ,Newspaper publishers,2012,18,477,7.5
+Ind,Financial activities,2012,85,"18,294",0.9
+Occ,Finance and insurance,2012,21,"13,253",0.3
+,Real estate and rental and leasing,2012,64,"5,056",2.5
+Occ,Real estate ,2012,50,"4,306",2.3
+Ind,Professional and business services,2012,409,"30,334",2.7
+,"Professional, scientific, and technical services",2012,57,"18,852",0.6
+Occ,"Architectural, engineering, and related services ",2012,22,"2,969",1.5
+,"Management, administrative, and waste services",2012,352,"11,480",6.1
+Occ,Employment services ,2012,34,"1,748",3.9
+Occ,Investigation and security services ,2012,31,"1,461",4.2
+Occ,Services to buildings and dwellings (except landscaping services) ,2012,42,"2,272",3.7
+Occ,Landscaping services,2012,171,"2,263",15
+Occ,Waste management and remediation services ,2012,57,861,13.2
+Ind,Educational and health services,2012,141,"39,179",0.7
+Occ,Educational services,2012,34,"7,336",0.9
+,Health care and social assistance,2012,107,"31,784",0.7
+Occ,Ambulatory health care services,2012,46,"13,084",0.7
+Occ,Hospitals ,2012,15,"9,948",0.3
+Occ,Nursing and residential care facilities,2012,23,"4,146",1.1
+Occ,Social assistance,2012,23,"4,593",1
+Ind,Leisure and hospitality,2012,232,"20,904",2.2
+,"Arts, entertainment, and recreation",2012,80,"4,291",3.5
+Occ,"Performing arts, spectator sports, and related industries",2012,39,"1,303",5.8
+Occ,"Amusement, gambling, and recreation industries (except bowling centers)  ",2012,38,"2,699",2.7
+,Accommodation and food services,2012,152,"16,636",1.8
+,Accommodation ,2012,32,"2,569",2.5
+Occ,Traveler accommodation ,2012,25,"2,415",2.1
+,Food services and drinking places,2012,120,"14,060",1.7
+Occ,Restaurants and other food services ,2012,93,"13,640",1.4
+Occ,Drinking places (alcoholic beverages),2012,27,415,13
+Ind,Other services (except public administration),2012,199,"12,503",2.7
+,Repair and maintenance,2012,105,"4,129",5
+Occ,Automotive repair and maintenance (except car washes),2012,66,"2,460",5.3
+Occ,Personal and laundry services,2012,40,"4,034",1.9
+Occ,"Religious, grantmaking, civic, professional, and similar organizations",2012,52,"3,312",1.6
+Ind,Government,2012,453,"37,225",2
+Occ,Federal government,2012,104,"6,886",1.5
+Occ,State government,2012,90,"11,392",1.6
+Occ,Local government,2012,256,"18,904",2.4

@@ -1,0 +1,208 @@
+Label,Characteristic,Year,total_fatal_injuries,total_hours_worked,fatal_injury_rate
+,Total,2008,"5,214","271,958",3.7
+,,2008,,,
+,Employee Status,2008,,,
+,Wage and salary workers4 ,2008,"4,183","254,085",3.2
+,Self-employed5,2008,"1,031","17,676",11.6
+,,2008,,,
+,Gender,2008,,,
+Dem,Men,2008,"4,827","155,020",6.1
+Dem,Women,2008,387,"116,881",0.6
+,,2008,,,
+,Age,2008,,,
+Dem,16 to 17 years,2008,23,"1,714",2.5
+Dem,18 to 19 years,2008,66,"4,754",2.4
+Dem,20 to 24 years,2008,353,"23,250",2.8
+Dem,25 to 34 years,2008,850,"60,610",2.8
+Dem,35 to 44 years,2008,"1,113","65,657",3.3
+Dem,45 to 54 years,2008,"1,292","68,046",3.8
+Dem,55 to 64 years,2008,920,"38,942",4.7
+Dem,65 years and over,2008,580,"8,939",12.7
+,,2008,,,
+,Race or ethnic origin6,2008,,,
+Dem,White (non-Hispanic),2008,"3,663","187,407",3.8
+Dem,Black or African-American (non-Hispanic),2008,533,"28,733",3.7
+Dem,Hispanic or Latino,2008,804,"37,978",4.2
+,,2008,,,
+,Occupation7,2008,,,
+,Civilian Occupations,2008,,,
+Ind,"Management, professional, and related occupations",2008,844,"102,703",1.6
+,"Management, business, and financial operations occupations",2008,577,"46,080",2.5
+,Management occupations,2008,553,"33,845",3.3
+Occ,Farmers and ranchers,2008,324,"1,601",40.3
+Occ,Construction managers,2008,55,"2,575",4.3
+Occ,Food service managers,2008,28,"2,355",2.4
+Occ,Business and financial operations occupations,2008,24,"12,212",0.4
+,Professional and related occupations,2008,267,"56,710",0.9
+Occ,Architecture and engineering occupations,2008,42,"6,054",1.4
+Occ,"Education, training, and library occupations",2008,27,"14,202",0.4
+Occ,"Arts, design, entertainment, sports, and media occupations",2008,57,"4,927",2.3
+Occ,Healthcare practitioner and technical occupations,2008,61,"13,880",0.9
+Ind,Service occupations,2008,681,"41,383",3.2
+,Protective service occupations,2008,306,"6,220",9.1
+Occ,Fire fighters,2008,44,806,6.9
+Occ,Police and sheriff's patrol officers,2008,112,"1,426",15.7
+Occ,Security guards and gaming surveillance officers,2008,70,"1,642",8.5
+Occ,Food preparation and serving related occupations,2008,65,"12,168",1.1
+,Building and grounds cleaning and maintenance occupations,2008,234,"9,229",5.1
+Occ,Janitors and building cleaners,2008,57,"3,628",3.1
+Occ,Grounds maintenance workers,2008,131,"2,152",12.2
+Occ,Personal care and service occupations,2008,57,"8,187",1.3
+Ind,Sales and office occupations,2008,364,"64,173",1.1
+,Sales and related occupations,2008,275,"29,961",1.8
+Occ,First-line supervisors/managers of retail sales workers,2008,113,"7,378",3.1
+Occ,First-line supervisors/managers of non-retail sales workers,2008,17,"2,759",1.2
+Occ,Cashiers,2008,43,"4,392",1.9
+Occ,Retail salespersons,2008,44,"5,637",1.5
+Occ,Office and administrative support occupations,2008,89,"34,185",0.5
+Ind,"Natural resources, construction, and maintenance occupations",2008,"1,617","28,869",11.1
+,"Farming, fishing, and forestry occupations",2008,286,"1,957",28.4
+Occ,Miscellaneous agricultural workers,2008,141,"1,407",18.9
+Occ,Fishers and related fishing workers,2008,50,78,128.2
+Occ,Logging workers,2008,85,142,119.7
+,Construction and extraction occupations,2008,977,"16,481",11.7
+Occ,Carpenters,2008,70,"2,868",4.8
+Occ,Construction laborers,2008,241,"2,934",16.2
+Occ,Operating engineers and other construction equipment operators,2008,66,824,16.0
+Occ,Electricians,2008,74,"1,763",8.4
+Occ,"Painters, construction and maintenance",2008,50,"1,141",8.6
+Occ,"Pipelayers, plumbers, pipefitters, and steamfitters",2008,39,"1,210",6.4
+Occ,Roofers,2008,69,401,34.4
+Occ,Structural iron and steel workers,2008,36,156,46.2
+Occ,"Helpers, construction trades",2008,15,207,14.5
+,"Installation, maintenance, and repair occupations",2008,354,"10,432",6.7
+Occ,"First-line supervisors/managers of mechanics, installers, and repair",2008,26,648,7.7
+Occ,Automotive service technicians and mechanics,2008,44,"1,705",5.0
+Occ,"Heating, air conditioning, and refrigeration mechanics and installer",2008,19,795,4.8
+Occ,Electrical power-line installers and repairers,2008,35,235,29.8
+Ind,"Production, transportation, and material moving occupations",2008,"1,643","34,667",9.4
+,Production occupations,2008,267,"17,656",3.0
+Occ,First-line supervisors/managers of production and operating workers,2008,36,"1,854",3.8
+Occ,"Welding, soldering, and brazing workers",2008,65,"1,235",10.5
+,Transportation and material moving occupations,2008,"1,376","17,016",16.1
+Occ,Aircraft pilots and flight engineers,2008,91,246,73.2
+Occ,Driver/sales workers and truck drivers,2008,856,"7,113",24.0
+Occ,Taxi drivers and chauffeurs,2008,69,715,19.3
+Occ,Industrial truck and tractor operators,2008,50,"1,132",8.8
+Occ,"Laborers and freight, stock, and material movers, hand",2008,113,"3,293",6.7
+Occ,Refuse and recyclable material collectors,2008,30,169,35.5
+,,2008,,,
+,Industry8,2008,,,
+,Private industry,2008,"4,670","233,054",4.0
+,Goods producing,2008,"2,234","58,620",7.6
+,Natural resources and mining9,2008,848,"6,301",26.6
+Ind,"Agriculture, Forestry, Fishing, and Hunting",2008,672,"4,355",30.4
+Occ,Crop production  ,2008,314,"1,887",32.5
+Occ,Animal production  ,2008,161,"1,886",16.8
+Occ,Logging ,2008,96,172,111.6
+Occ,"Fishing, hunting, and trapping ",2008,46,99,92.9
+Occ,Support activities for agriculture and forestry ,2008,48,281,34.2
+Ind,Mining,2008,176,"1,946",18.1
+Occ,Oil and gas extraction ,2008,21,176,23.9
+Occ,Coal mining ,2008,26,237,21.9
+Occ,Support activities for mining,2008,104,"1,216",17.1
+Ind,Construction,2008,975,"19,999",9.7
+Ind,Manufacturing,2008,411,"32,320",2.5
+,Food manufacturing,2008,70,"3,180",4.4
+Occ,"Animal food, grain and oilseed milling ",2008,19,308,12.3
+Occ,Chemical manufacturing,2008,18,"2,666",1.4
+Occ,Plastics and rubber products manufacturing,2008,21,"1,125",3.7
+,Nonmetallic mineral product manufacturing,2008,40,"1,071",7.5
+Occ,"Cement, concrete, lime, and gypsum product manufacturing ",2008,29,424,13.7
+Occ,Primary metal manufacturing,2008,41,"1,131",7.3
+Occ,Fabricated metal product manufacturing,2008,51,"2,576",4.0
+Occ,Machinery manufacturing,2008,27,"2,714",2.0
+Occ,Transportation equipment manufacturing,2008,29,"4,688",1.2
+Occ,Wood product manufacturing,2008,27,965,5.6
+,Service providing,2008,"2,436","174,410",2.8
+,"Trade, transportation, and utilities",2008,"1,314","50,071",5.2
+Ind,Wholesale Trade,2008,180,"8,266",4.4
+,"Merchant wholesalers, durable goods",2008,91,"4,101",4.4
+Occ,"Machinery, equipment, and supplies, merchant wholesalers     ",2008,27,869,6.2
+,"Merchant wholesalers, nondurable goods",2008,78,"3,866",4.0
+Occ,"Groceries and related products, merchant wholesalers ",2008,27,"1,723",3.1
+Ind,Retail Trade,2008,301,"29,271",2.0
+,Motor vehicle and parts dealers,2008,59,"4,183",2.8
+Occ,Automobile dealers ,2008,31,"2,808",2.2
+Occ,"Automotive parts, accessories, and tire stores  ",2008,21,"1,022",4.1
+Occ,Building material and garden equipment and supplies dealers,2008,37,"2,826",2.6
+,Food and beverage stores,2008,55,"5,152",2.1
+Occ,Grocery stores ,2008,47,"4,436",2.1
+Occ,Gasoline stations ,2008,38,955,7.7
+Occ,Nonstore retailers,2008,26,"1,045",5.0
+Ind,Transportation and Warehousing     ,2008,796,"10,670",14.9
+Occ,Air transportation ,2008,38,"1,000",7.6
+Occ,Rail transportation ,2008,23,548,8.4
+Occ,Water transportation ,2008,18,158,22.8
+Occ,Truck transportation ,2008,498,"4,301",23.1
+,Transit and ground passenger transportation,2008,78,"1,196",13.0
+Occ,Bus service and urban transit ,2008,20,641,6.2
+Occ,Taxi and limousine service ,2008,58,555,20.9
+Occ,Services incidental to transportation ,2008,89,"1,278",13.9
+Ind,Utilities,2008,37,"1,864",3.9
+Ind,Information ,2008,47,"6,386",1.5
+,"Publishing industries, except Internet",2008,20,"1,457",2.7
+Occ,Newspaper publishers,2008,18,708,5.1
+Ind,Financial activities,2008,106,"19,489",1.1
+Occ,Finance and Insurance,2008,24,"14,109",0.3
+,Real Estate and Rental and Leasing,2008,82,"5,376",3.1
+Occ,Real estate ,2008,54,"4,443",2.4
+Ind,Professional and business services,2008,403,"28,862",2.8
+Occ,Professional and Technical Services,2008,69,"17,899",0.8
+,"Management, administrative, and waste services",2008,334,"10,956",6.1
+Occ,Employment services ,2008,36,"1,687",4.3
+Occ,Investigation and security services ,2008,35,"1,578",4.4
+Occ,Services to buildings and dwellings (except landscaping services) ,2008,49,"2,266",4.3
+Occ,Landscaping services,2008,123,"2,166",11.4
+Occ,Waste management and remediation services ,2008,73,728,20.1
+Ind,Educational and Health Services,2008,141,"36,572",0.7
+Occ,Educational Services,2008,28,"6,496",0.9
+,Health Care and Social Assistance,2008,113,"30,025",0.7
+Occ,Ambulatory health care services,2008,55,"11,164",1.0
+Occ,Hospitals ,2008,23,"10,159",0.5
+Occ,Nursing and residential care facilities,2008,17,"4,185",0.8
+Occ,Social assistance,2008,18,"4,554",0.7
+Ind,Leisure and hospitality,2008,238,"20,617",2.2
+,"Arts, Entertainment, and Recreation",2008,92,"4,265",4.0
+Occ,"Independent artists, performing arts, spectator sports, and related industries",2008,44,"1,309",6.6
+Occ,"Amusement, gambling, and recreation industries (except bowling centers)  ",2008,41,"2,638",2.8
+,Accommodation and Food Services,2008,146,"16,315",1.8
+,Accommodation ,2008,26,"2,826",1.8
+Occ,Traveler accommodation ,2008,23,"2,657",1.7
+,Food services and drinking places,2008,120,"13,503",1.8
+Occ,Restaurants and other food services ,2008,85,"13,114",1.3
+Occ,Drinking places (alcoholic beverages),2008,35,412,17.0
+Ind,Other Services (Except Public Administration),2008,178,"12,413",2.6
+Occ,Automotive repair and maintenance ,2008,69,"2,416",5.7
+Occ,Personal and laundry services,2008,29,"3,804",1.5
+Occ,"Religious, grantmaking, civic, professional, and similar organizations",2008,36,"3,399",1.4
+Ind,Government,2008,544,"38,904",2.4
+Occ,Federal government,2008,108,"6,885",1.5
+Occ,State government,2008,118,"11,242",2.1
+Occ,Local government,2008,317,"20,816",2.8
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,

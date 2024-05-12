@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html data-theme="sunset" lang="en" class="bg-neutral">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="app.css" rel="stylesheet">
+    <title>Group 1 Visualization</title>
+</head>
+<body class="text-primary">
+    <header class="text-center text-3xl font-bold">
+        BLS Visualization Dashboard
+    </header>
+
+    <h3 class="intro-text text-center">
+        This site is a visualization of fatal injury rates across the US
+        over the past several years. Each section contains an interactive graph
+        and general analysis of the results found after collecting this data from
+        the Bureau of Labor Statistics. If you want to analyze the data for yourself,
+        you can view the raw data <a href="https://www.bls.gov/iif/fatal-injuries-tables/archive.htm#RATES" class="link text-sky-400">here.</a>
+    </h3>
+
+    <div class="collapse bg-primary text-primary-content">
+        <input type="radio" name="my-accordion-1"/> 
+        <div class="collapse-title text-xl text-center font-large font-bold">
+          Injuries by Industry
+        </div>
+        <div class="collapse-content"> 
+            <div class='tableauPlaceholder' id='viz1713735058900'>
+                <!-- Industry Workbook --><div class='tableauPlaceholder' id='viz1713735058900'><noscript><a href='#'><img alt='Fatal Injury Rate by Industry ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;In&#47;IndustryWorkbook&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='IndustryWorkbook&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;In&#47;IndustryWorkbook&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1713735058900');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+            </div>
+            <h4 class="text-medium">
+                One of the immediately notable observations is the significant variance in fatal injury rates between industries.
+                Agricultural, transportation, warehousing, mining, extraction, and construction industries consistently show higher
+                fatal injury rates over the years. These "blue-collar" industries are known for their hazardous working conditions (especially
+                compared to the lower-risk "white-collar" industries seen far below on the graph), but despite improvements in technology 
+                and greater cultural awareness of working conditions in the US, these industries continue to lead the US in fatalities on the job.
+                <br><br>
+                There are some visible fluctuations within these high-risk industries, which could be indicative of industry-shaping
+                events, disasters, or regulatory policies that may have occurred within those timeframes. Investigating these fluctuations
+                could be a potential research topic for future labor data analysts. Generally, these high-risk industries have still
+                seen a decline over the 14 years of data. However, the gradual rate of improvement does not dismiss the abnormally
+                high fatality rates present in these industries. Workers, industry officials, and US regulators should seek to enact &
+                enforce regulations and standards so that these industries are more comparable to their white-collar counterparts.
+            </h4>
+        </div>
+      </div>
+      <div class="collapse bg-accent text-primary-content">
+        <input type="radio" name="my-accordion-1" /> 
+        <div class="collapse-title text-xl text-center font-large font-bold">
+          Injuries by Occupation
+        </div>
+        <div class="collapse-content"> 
+            <div class='tableauPlaceholder' id='viz1713734961524'>
+                <!-- Occupation Workbook --><div class='tableauPlaceholder' id='viz1713734961524' style='position: relative'><noscript><a href='#'><img alt='Fatal Injury Rate by Occupation ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Oc&#47;OccupationWorkbook&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='OccupationWorkbook&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Oc&#47;OccupationWorkbook&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1713734961524');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+            </div>
+            <h4 class="text-medium">
+                Roofing, logging, fishing, trapping, and hunting jobs have had significantly higher fatal injury
+                rates compared to other occupations. This is despite a sharp decline in fatal injury rates for the
+                logging industry, and is even significantly higher than other traditional blue-collar occupations
+                like transportation or electricians. This suggests future research into why the aforementioned occupations
+                are so notoriously dangerous even amongst other blue-collar work.
+            </h4>
+        </div>
+      </div>
+      <div class="collapse bg-tertiary text-primary-content">
+        <input type="radio" name="my-accordion-1" /> 
+        <div class="collapse-title text-xl text-center font-large font-bold">
+          Injuries by Demographic
+        </div>
+        <div class="collapse-content py-0 my-0"> 
+            <div class='tableauPlaceholder' id='viz1713735029963' style='position: relative'>
+                <!-- Demographic Workbook --><div class='tableauPlaceholder m-0 p-0' id='viz1713735029963'><noscript><a href='#'><img alt='Fatal Injury Rate by Demographic ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;De&#47;DemographicWorkbook_17137344701970&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='DemographicWorkbook_17137344701970&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;De&#47;DemographicWorkbook_17137344701970&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1713735029963');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+            </div>
+            <h4 class="text-medium m-0 p-0">
+                Workers aged 65 and older have a significantly higher fatal injury rate than other ages. In fact,
+                fatal injury rates generally tend to correlate higher with age regardless of year. This could
+                provide some economic rationale as to why some employers may engage in age discrimination against
+                hiring older employees due to the higher risk of injury - this issue should be explored in future
+                research.
+                <br><br>
+                With respect to gender, men have a significantly higher fatal injury rate than women (who had the
+                lowest fatal injury rate). Many of the high-risk industries and occupations graphed in previous
+                sections are culturally known as male-dominated fields, which could be a potential (albeit unexplored)
+                explanation as to why men have a higher fatal injury rate than women. Most races had similar fatal injury
+                rates with the exception of Asians, who had the second-lowest fatal injury rate by demographic
+                (women having the lowest). This phenomenon could have many explanations, none of which immediately stand
+                out as a potential justification. Thus, more research should be done as to what occupations, industries,
+                and other contributing factors have led to such an abnormally low fatal injury rate.
+            </h4>
+        </div>
+      </div>
+</body>
+</html>

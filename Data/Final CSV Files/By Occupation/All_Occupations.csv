@@ -1,0 +1,647 @@
+Label,Characteristic,Year,fatal_injury_rate
+Occ,Air transportation,2006,10.5
+Occ,Air transportation,2007,8.4
+Occ,Air transportation,2008,7.6
+Occ,Air transportation,2009,6
+Occ,Air transportation,2010,6.5
+Occ,Air transportation,2011,5.8
+Occ,Air transportation,2012,6.2
+Occ,Air transportation,2013,4.7
+Occ,Air transportation,2014,7.4
+Occ,Air transportation,2015,4.4
+Occ,Air transportation,2016,4.3
+Occ,Air transportation,2017,3.8
+Occ,Air transportation,2018,3.9
+Occ,Air transportation,2019,5.4
+Occ,Air transportation,2020,4.3
+Occ,Animal production,2006,14.8
+Occ,Animal production,2007,16.9
+Occ,Animal production,2008,16.8
+Occ,Animal production,2009,15.1
+Occ,Animal production,2010,16.9
+Occ,Animal production,2011,14.8
+Occ,Animal production,2012,14.8
+Occ,Animal production,2013,15.6
+Occ,Animal production and aquaculture,2014,19.3
+Occ,Animal production and aquaculture,2015,17.8
+Occ,Animal production and aquaculture,2016,15.4
+Occ,Animal production and aquaculture,2017,16.4
+Occ,Animal production and aquaculture,2018,18.6
+Occ,Animal production and aquaculture,2019,22.2
+Occ,Animal production and aquaculture,2020,12.8
+Occ,"Athletes, coaches, umpires, and related workers",2009,9.2
+Occ,"Athletes, coaches, umpires, and related workers",2010,11.3
+Occ,"Athletes, coaches, umpires, and related workers",2011,10.3
+Occ,"Athletes, coaches, umpires, and related workers",2012,13
+Occ,"Athletes, coaches, umpires, and related workers",2013,8.9
+Occ,"Athletes, coaches, umpires, and related workers",2014,7.5
+Occ,"Athletes, coaches, umpires, and related workers",2015,10.2
+Occ,"Athletes, coaches, umpires, and related workers",2016,11.7
+Occ,"Athletes, coaches, umpires, and related workers",2017,8.7
+Occ,"Athletes, coaches, umpires, and related workers",2018,7.6
+Occ,"Athletes, coaches, umpires, and related workers",2019,6.5
+Occ,"Athletes, coaches, umpires, and related workers",2020,6.2
+Occ,Automotive repair and maintenance (except car washes),2006,5.7
+Occ,Automotive repair and maintenance (except car washes),2007,4.3
+Occ,Automotive repair and maintenance,2008,5.7
+Occ,Automotive repair and maintenance (except car washes),2009,6.4
+Occ,Automotive repair and maintenance (except car washes),2010,6
+Occ,Automotive repair and maintenance (except car washes),2011,5.4
+Occ,Automotive repair and maintenance (except car washes),2012,5.3
+Occ,Automotive repair and maintenance (except car washes),2013,4.9
+Occ,Automotive repair and maintenance (except car washes),2014,5.6
+Occ,Automotive repair and maintenance (except car washes),2015,5.9
+Occ,Automotive repair and maintenance (except car washes),2016,7.9
+Occ,Automotive repair and maintenance (except car washes),2017,6.9
+Occ,Automotive repair and maintenance (except car washes),2018,6.5
+Occ,Automotive repair and maintenance (except car washes),2019,7.5
+Occ,Automotive repair and maintenance (except car washes),2020,7.2
+Occ,Drinking places (alcoholic beverages),2006,13.8
+Occ,Drinking places (alcoholic beverages),2007,11.8
+Occ,Drinking places (alcoholic beverages),2008,17
+Occ,Drinking places (alcoholic beverages),2009,15.5
+Occ,Drinking places (alcoholic beverages),2010,13.8
+Occ,Drinking places (alcoholic beverages),2011,18
+Occ,Drinking places (alcoholic beverages),2012,13
+Occ,Drinking places (alcoholic beverages),2013,16.4
+Occ,Drinking places (alcoholic beverages),2014,9.8
+Occ,Drinking places (alcoholic beverages),2015,9.4
+Occ,Drinking places (alcoholic beverages),2016,12
+Occ,Drinking places (alcoholic beverages),2017,12
+Occ,Drinking places (alcoholic beverages),2018,15.4
+Occ,Drinking places (alcoholic beverages),2019,8.5
+Occ,Drinking places (alcoholic beverages),2020,15.2
+Occ,Business and financial operations occupations,2006,0.7
+Occ,Business and financial operations occupations,2007,0.5
+Occ,Business and financial operations occupations,2008,0.4
+Occ,Business and financial operations occupations,2009,0.4
+Occ,Business and financial operations occupations,2010,0.4
+Occ,Business and financial operations occupations,2011,0.5
+Occ,Business and financial operations occupations,2012,0.3
+Occ,Business and financial operations occupations,2013,0.3
+Occ,Business and financial operations occupations,2014,0.4
+Occ,Business and financial operations occupations,2015,0.4
+Occ,Business and financial operations occupations,2016,0.4
+Occ,Business and financial operations occupations,2017,0.4
+Occ,Business and financial operations occupations,2018,0.5
+Occ,Business and financial operations occupations,2019,0.4
+Occ,Business and financial operations occupations,2020,0.3
+Occ,Automobile dealers,2006,2.8
+Occ,Automobile dealers,2007,1.9
+Occ,Automobile dealers,2008,2.2
+Occ,Automobile dealers,2009,2.5
+Occ,Automobile dealers,2010,2.3
+Occ,Automobile dealers,2011,1.6
+Occ,Automobile dealers,2012,1.5
+Occ,Automobile dealers,2013,1.9
+Occ,Automobile dealers,2014,1.7
+Occ,Automobile dealers,2015,2.2
+Occ,Automobile dealers,2016,1.4
+Occ,Automobile dealers,2017,1.9
+Occ,Automobile dealers,2018,1.8
+Occ,Automobile dealers,2019,1.8
+Occ,Automobile dealers,2020,2.2
+Occ,Carpenters,2006,6.6
+Occ,Carpenters,2007,6.3
+Occ,Carpenters,2008,4.8
+Occ,Carpenters,2009,7.7
+Occ,Carpenters,2010,5.3
+Occ,Carpenters,2011,3.7
+Occ,Carpenters,2012,4.9
+Occ,Carpenters,2013,7
+Occ,Carpenters,2014,4.8
+Occ,Carpenters,2015,6.7
+Occ,Carpenters,2016,7.6
+Occ,Carpenters,2017,7.5
+Occ,Carpenters,2018,6.6
+Occ,Carpenters,2019,7.9
+Occ,Carpenters,2020,7.8
+Occ,Cashiers,2006,2.6
+Occ,Cashiers,2007,2
+Occ,Cashiers,2008,1.9
+Occ,Cashiers,2009,2
+Occ,Cashiers,2010,2.1
+Occ,Cashiers,2011,1.5
+Occ,Cashiers,2012,1.4
+Occ,Cashiers,2013,1.5
+Occ,Cashiers,2014,1.5
+Occ,Cashiers,2015,1.9
+Occ,Cashiers (including gaming change persons and booth cashiers ),2016,2.7
+Occ,Cashiers (including gaming change persons and booth cashiers ),2017,1.8
+Occ,Cashiers (including gaming change persons and booth cashiers ),2018,2.1
+Occ,Cashiers (including gambling change persons and booth cashiers ),2019,2.2
+Occ,Cashiers (including gambling change persons and booth cashiers ),2020,3
+Occ,"Cement, concrete, lime, and gypsum product manufacturing",2006,17.9
+Occ,"Cement, concrete, lime, and gypsum product manufacturing",2007,12.8
+Occ,"Cement, concrete, lime, and gypsum product manufacturing",2008,13.7
+Occ,"Cement, concrete, lime, and gypsum product manufacturing",2009,8.2
+Occ,"Cement, concrete, lime, and gypsum product manufacturing",2011,17.5
+Occ,"Cement, concrete, lime, and gypsum product manufacturing",2012,16.1
+Occ,"Cement, concrete, lime, and gypsum product manufacturing",2013,17
+Occ,"Cement, concrete, lime, and gypsum product manufacturing",2014,19.2
+Occ,"Cement, concrete, lime, and gypsum product manufacturing",2015,13.5
+Occ,"Cement, concrete, lime, and gypsum product manufacturing",2016,15.1
+Occ,"Cement, concrete, lime, and gypsum product manufacturing",2017,12.5
+Occ,"Cement, concrete, lime, and gypsum product manufacturing",2018,10
+Occ,"Cement, concrete, lime, and gypsum product manufacturing",2020,18.7
+Occ,Construction laborers,2006,22.9
+Occ,Construction laborers,2007,20.8
+Occ,Construction laborers,2008,16.2
+Occ,Construction laborers,2009,18.8
+Occ,Construction laborers,2010,18.2
+Occ,Construction laborers,2011,17.3
+Occ,Construction laborers,2012,17.3
+Occ,Construction laborers,2013,15.8
+Occ,Construction laborers,2014,13.3
+Occ,Construction laborers,2015,15.6
+Occ,Construction laborers,2016,15.1
+Occ,Construction laborers,2017,14.2
+Occ,Construction laborers,2018,13
+Occ,Construction laborers,2019,15
+Occ,Construction laborers,2020,18.1
+Occ,Electricians,2006,13.3
+Occ,Electricians,2007,10.1
+Occ,Electricians,2008,8.4
+Occ,Electricians,2009,11.2
+Occ,Electricians,2010,9.4
+Occ,Electricians,2011,9.1
+Occ,Electricians,2012,9.7
+Occ,Electricians,2013,8.6
+Occ,Electricians,2014,10
+Occ,Electricians,2015,10.7
+Occ,Electricians,2016,10
+Occ,Electricians,2017,8.3
+Occ,Electricians,2018,8.8
+Occ,Electricians,2019,7.2
+Occ,Electricians,2020,8
+Occ,Employment services,2006,3.3
+Occ,Employment services,2007,6.1
+Occ,Employment services,2008,4.3
+Occ,Employment services,2009,3.7
+Occ,Employment services,2010,2.3
+Occ,Employment services,2011,4.4
+Occ,Employment services,2012,3.9
+Occ,Employment services,2013,4.9
+Occ,Employment services,2014,4.6
+Occ,Employment services,2015,4.6
+Occ,Employment services,2016,5.6
+Occ,Employment services,2017,4.4
+Occ,Employment services,2018,6.5
+Occ,Employment services,2019,8.1
+Occ,Employment services,2020,4.2
+Occ,"Architectural, engineering and related services",2009,2.1
+Occ,"Architectural, engineering, and related services",2010,2.1
+Occ,"Architectural, engineering, and related services",2011,1.6
+Occ,"Architectural, engineering, and related services",2012,1.5
+Occ,"Architectural, engineering, and related services",2013,2.3
+Occ,"Architectural, engineering, and related services",2014,2.2
+Occ,"Architectural, engineering, and related services",2015,1.7
+Occ,"Architectural, engineering, and related services",2016,2.7
+Occ,"Architectural, engineering, and related services",2017,1.1
+Occ,"Architectural, engineering, and related services",2018,1.6
+Occ,"Architectural, engineering, and related services",2019,1.9
+Occ,"Architectural, engineering, and related services",2020,1.5
+Occ,Farmers and ranchers,2006,35.5
+Occ,Farmers and ranchers,2007,36
+Occ,Farmers and ranchers,2008,40.3
+Occ,Farmers and ranchers,2009,39.7
+Occ,Farmers and ranchers,2010,42.5
+Occ,"Farmers, ranchers, and other agricultural managers",2011,26.1
+Occ,"Farmers, ranchers, and other agricultural managers",2012,22.8
+Occ,"Farmers, ranchers, and other agricultural managers",2013,22.9
+Occ,"Farmers, ranchers, and other agricultural managers",2014,26.7
+Occ,"Farmers, ranchers, and other agricultural managers",2015,22
+Occ,"Farmers, ranchers, and other agricultural managers",2016,23.1
+Occ,"Farmers, ranchers, and other agricultural managers",2017,24
+Occ,"Farmers, ranchers, and other agricultural managers",2018,24.7
+Occ,"Farmers, ranchers, and other agricultural managers",2019,23.2
+Occ,"Farmers, ranchers, and other agricultural managers",2020,20.9
+Occ,Federal government,2006,2.1
+Occ,Federal government,2007,1.4
+Occ,Federal government,2008,1.5
+Occ,Federal government,2009,1.4
+Occ,Federal government,2010,1.6
+Occ,Federal government,2011,1.2
+Occ,Federal government,2012,1.5
+Occ,Federal government,2013,1.7
+Occ,Federal government,2014,1.1
+Occ,Federal government,2015,1.3
+Occ,Federal government,2016,1.2
+Occ,Federal government,2017,1.3
+Occ,Federal government,2018,1.2
+Occ,Federal government,2019,1.2
+Occ,Federal government,2020,0.9
+Occ,Fire fighters,2006,6.7
+Occ,Fire fighters,2007,7
+Occ,Fire fighters,2008,6.9
+Occ,Fire fighters,2009,4.4
+Occ,Fire fighters,2010,3.2
+Occ,Fire fighters,2011,2.5
+Occ,Fire fighters,2013,8.2
+Occ,Fire fighters,2015,4.3
+Occ,Fire fighters,2016,6.1
+Occ,Firefighters,2017,3.6
+Occ,Firefighters,2018,3.4
+Occ,"Fishing, hunting, and trapping",2006,98.5
+Occ,"Fishing, hunting, and trapping",2007,82.2
+Occ,"Fishing, hunting, and trapping",2008,92.9
+Occ,"Fishing, hunting, and trapping",2009,142.2
+Occ,"Fishing, hunting, and trapping",2010,97.4
+Occ,"Fishing, hunting, and trapping",2011,101.2
+Occ,"Fishing, hunting, and trapping",2012,106.1
+Occ,"Fishing, hunting, and trapping",2013,63.4
+Occ,"Fishing, hunting, and trapping",2014,68.6
+Occ,"Fishing, hunting, and trapping",2015,42.6
+Occ,"Fishing, hunting, and trapping",2016,69.1
+Occ,"Fishing, hunting and trapping",2017,78.1
+Occ,"Fishing, hunting and trapping",2018,67.5
+Occ,Fishing and hunting workers,2019,145
+Occ,"Fishing, hunting, and trapping",2019,83.7
+Occ,Fishing and hunting workers,2020,132.1
+Occ,"Fishing, hunting, and trapping",2020,121.1
+Occ,Food service managers,2006,2.7
+Occ,Food service managers,2007,1.6
+Occ,Food service managers,2008,2.4
+Occ,Food service managers,2009,2.2
+Occ,Food service managers,2010,2.4
+Occ,Food service managers,2011,2.4
+Occ,Food service managers,2012,2.3
+Occ,Food service managers,2013,3
+Occ,Food service managers,2014,1.8
+Occ,Food service managers,2015,1.7
+Occ,Food service managers,2016,1.8
+Occ,Food service managers,2017,1.5
+Occ,Food service managers,2018,1.2
+Occ,Food service managers,2019,1.8
+Occ,Food service managers,2020,1.1
+Occ,Gasoline stations,2006,10.4
+Occ,Gasoline stations,2007,9.2
+Occ,Gasoline stations,2008,7.7
+Occ,Gasoline stations,2009,8.3
+Occ,Gasoline stations,2010,12.9
+Occ,Gasoline stations,2011,5.1
+Occ,Gasoline stations,2012,6.8
+Occ,Gasoline stations,2013,7.4
+Occ,Gasoline stations,2014,6.2
+Occ,Gasoline stations,2015,8.1
+Occ,Gasoline stations,2016,9.4
+Occ,Gasoline stations,2017,8.3
+Occ,Gasoline stations,2018,10.5
+Occ,Gasoline stations,2019,10.5
+Occ,Gasoline stations,2020,9.2
+Occ,Grocery stores,2006,2.6
+Occ,Grocery stores,2007,3.3
+Occ,Grocery stores,2008,2.1
+Occ,Grocery stores,2009,2.9
+Occ,Grocery stores,2010,2.7
+Occ,Grocery stores,2011,3
+Occ,Grocery stores,2012,2.5
+Occ,Grocery stores,2013,1.8
+Occ,Grocery stores,2014,2.2
+Occ,Grocery stores,2015,1.9
+Occ,Grocery stores,2016,2.6
+Occ,Grocery stores,2017,2.1
+Occ,Grocery stores,2018,1.6
+Occ,Grocery stores,2019,1.8
+Occ,Grocery stores,2020,2.4
+Occ,"Heating, air conditioning, and refrigeration mechanics and installer",2006,6.8
+Occ,"Heating, air conditioning, and refrigeration mechanics and installer",2007,8.1
+Occ,"Heating, air conditioning, and refrigeration mechanics and installer",2008,4.8
+Occ,"Heating, air conditioning, and refrigeration mechanics and installers",2009,5.5
+Occ,"Heating, air conditioning, and refrigeration mechanics and installers",2010,6.5
+Occ,"Heating, air conditioning, and refrigeration mechanics and installers",2011,5.5
+Occ,"Heating, air conditioning, and refrigeration mechanics and installers",2012,6.1
+Occ,"Heating, air conditioning, and refrigeration mechanics and installers",2013,7.6
+Occ,"Heating, air conditioning, and refrigeration mechanics and installers",2014,7.3
+Occ,"Heating, air conditioning, and refrigeration mechanics and installers",2015,7.1
+Occ,"Heating, air conditioning, and refrigeration mechanics and installers",2016,8.4
+Occ,"Heating, air conditioning, and refrigeration mechanics and installers",2017,5.4
+Occ,"Heating, air conditioning, and refrigeration mechanics and installers",2018,8.5
+Occ,"Heating, air conditioning, and refrigeration mechanics and installers",2019,6.8
+Occ,"Heating, air conditioning, and refrigeration mechanics and installers",2020,5.1
+Occ,Janitors and building cleaners,2006,3.4
+Occ,Janitors and building cleaners,2007,2.5
+Occ,Janitors and building cleaners,2008,3.1
+Occ,Janitors and building cleaners,2009,2.2
+Occ,"Janitors and building cleaners, except maids and housekeeping cleaners",2010,2
+Occ,Janitors and building cleaners,2011,2.3
+Occ,Janitors and building cleaners,2012,1.8
+Occ,Janitors and building cleaners,2013,2.2
+Occ,Janitors and building cleaners,2014,2.4
+Occ,Janitors and building cleaners,2015,2.1
+Occ,Janitors and building cleaners,2016,2.6
+Occ,Janitors and building cleaners,2017,2.8
+Occ,Janitors and building cleaners,2018,2.5
+Occ,Janitors and building cleaners,2019,2.4
+Occ,Janitors and building cleaners,2020,2.7
+Occ,Landscaping services,2006,15.6
+Occ,Landscaping services,2007,13.4
+Occ,Landscaping services,2008,11.4
+Occ,Landscaping services,2009,16.6
+Occ,Landscaping services,2010,13.1
+Occ,Landscaping services,2011,15.6
+Occ,Landscaping services,2012,15
+Occ,Landscaping services,2013,13.2
+Occ,Landscaping services,2014,13.2
+Occ,Landscaping services,2015,15.6
+Occ,Landscaping services,2016,16.5
+Occ,Landscaping services,2017,16.9
+Occ,Landscaping services,2018,18.8
+Occ,Landscaping services,2020,17.9
+Occ,Local government,2006,2.6
+Occ,Local government,2007,2.8
+Occ,Local government,2008,2.8
+Occ,Local government,2009,2.4
+Occ,Local government,2010,2.5
+Occ,Local government,2011,2.8
+Occ,Local government,2012,2.4
+Occ,Local government,2013,2.6
+Occ,Local government,2014,2.6
+Occ,Local government,2015,2.6
+Occ,Local government,2016,3
+Occ,Local government,2017,2.6
+Occ,Local government,2018,2.7
+Occ,Local government,2019,2.4
+Occ,Local government,2020,2.7
+Occ,Logging,2006,89.3
+Occ,Logging,2007,90.8
+Occ,Logging,2008,111.6
+Occ,Logging,2009,58.5
+Occ,Logging,2010,74.5
+Occ,Logging,2011,77.2
+Occ,Logging,2012,71.8
+Occ,Logging,2013,86.5
+Occ,Logging,2014,100
+Occ,Logging,2015,98.8
+Occ,Logging,2016,100.1
+Occ,Logging,2017,70.6
+Occ,Logging,2018,64
+Occ,Logging,2019,47.6
+Occ,Primary metal manufacturing,2006,6.6
+Occ,Primary metal manufacturing,2007,3.6
+Occ,Primary metal manufacturing,2008,7.3
+Occ,Primary metal manufacturing,2009,3.5
+Occ,Primary metal manufacturing,2010,3.6
+Occ,Primary metal manufacturing,2011,4.5
+Occ,Primary metal manufacturing,2012,4.5
+Occ,Primary metal manufacturing,2013,3.2
+Occ,Primary metal manufacturing,2014,5.1
+Occ,Primary metal manufacturing,2015,3.1
+Occ,Primary metal manufacturing,2016,5.2
+Occ,Primary metal manufacturing,2017,1.7
+Occ,Primary metal manufacturing,2018,3.7
+Occ,Primary metal manufacturing,2020,3.5
+Occ,Nursing and residential care facilities,2006,1
+Occ,Nursing and residential care facilities,2007,0.9
+Occ,Nursing and residential care facilities,2008,0.8
+Occ,Nursing and residential care facilities,2009,1.1
+Occ,Nursing and residential care facilities,2010,1
+Occ,Nursing and residential care facilities,2011,0.9
+Occ,Nursing and residential care facilities,2012,1.1
+Occ,Nursing and residential care facilities,2015,1.1
+Occ,Nursing and residential care facilities,2016,1.3
+Occ,Nursing and residential care facilities,2017,1.4
+Occ,Nursing and residential care facilities,2018,1.4
+Occ,Nursing and residential care facilities,2019,1.3
+Occ,Nursing and residential care facilities,2020,1.2
+Occ,"Painters, construction and maintenance",2006,8.2
+Occ,"Painters, construction and maintenance",2007,6.6
+Occ,"Painters, construction and maintenance",2008,8.6
+Occ,"Painters, construction and maintenance",2009,6.1
+Occ,"Painters, construction and maintenance",2010,7.1
+Occ,"Painters, construction and maintenance",2011,7.7
+Occ,"Painters, construction and maintenance",2012,8.2
+Occ,"Painters, construction and maintenance",2013,8.7
+Occ,"Painters, construction and maintenance",2014,9.2
+Occ,"Painters, construction and maintenance",2015,7.6
+Occ,"Painters, construction and maintenance",2016,8.6
+Occ,"Painters, construction and maintenance",2017,8.9
+Occ,"Painters, construction and maintenance",2018,5.3
+Occ,"Painters, construction and maintenance",2019,7.5
+Occ,Painters and paperhangers,2020,11.6
+Occ,"Performing arts, spectator sports, and related industries",2009,6.5
+Occ,"Performing arts, spectator sports, and related industries",2010,6.5
+Occ,"Performing arts, spectator sports, and related industries",2011,6.5
+Occ,"Performing arts, spectator sports, and related industries",2012,5.8
+Occ,"Performing arts, spectator sports, and related industries",2013,4.9
+Occ,"Performing arts, spectator sports, and related industries",2014,4.6
+Occ,"Performing arts, spectator sports, and related industries",2015,6.4
+Occ,"Performing arts, spectator sports, and related industries",2016,7.2
+Occ,"Performing arts, spectator sports, and related industries",2017,4.9
+Occ,"Performing arts, spectator sports, and related industries",2018,5.6
+Occ,"Performing arts, spectator sports, and related industries",2019,4.4
+Occ,"Performing arts, spectator sports, and related industries",2020,4.4
+Occ,Plastics and rubber products manufacturing,2006,1.8
+Occ,Plastics and rubber products manufacturing,2007,2.7
+Occ,Plastics and rubber products manufacturing,2008,3.7
+Occ,Plastics and rubber products manufacturing,2009,4.3
+Occ,Plastics and rubber products manufacturing,2014,3.1
+Occ,Plastics and rubber products manufacturing,2015,3.3
+Occ,Plastics and rubber products manufacturing,2016,2.8
+Occ,Plastics and rubber products manufacturing,2017,2.7
+Occ,Plastics and rubber products manufacturing,2018,2.2
+Occ,Plastics and rubber products manufacturing,2020,2.9
+Occ,Police and sheriff's patrol officers,2006,15.6
+Occ,Police and sheriff's patrol officers,2007,19.8
+Occ,Police and sheriff's patrol officers,2008,15.7
+Occ,Police and sheriff's patrol officers,2009,12.9
+Occ,Police and sheriff's patrol officers,2010,18.1
+Occ,Police and sheriff's patrol officers,2011,18.6
+Occ,Police and sheriff's patrol officers,2012,15
+Occ,Police and sheriff's patrol officers,2013,10.6
+Occ,Police and sheriff's patrol officers,2014,13.5
+Occ,Police and sheriff's patrol officers,2015,11.7
+Occ,Police and sheriff's patrol officers,2016,14.6
+Occ,Police and sheriff's patrol officers,2017,12.9
+Occ,Police and sheriff's patrol officers,2018,13.7
+Occ,Police and sheriff's patrol officers,2019,11.1
+Occ,Police officers,2020,13.4
+Occ,Real estate,2006,2.4
+Occ,Real estate,2007,2.1
+Occ,Real estate,2008,2.4
+Occ,Real estate,2009,2.4
+Occ,Real estate,2010,3.1
+Occ,Real estate,2011,2
+Occ,Real estate,2012,2.3
+Occ,Real estate,2013,2.2
+Occ,Real estate,2014,2.6
+Occ,Real estate,2015,1.7
+Occ,Real estate,2016,2.6
+Occ,Real estate,2017,1.9
+Occ,Real estate,2018,1.9
+Occ,Real estate,2019,2.3
+Occ,Real estate,2020,2.3
+Occ,"Amusement, gambling, and recreation industries (except bowling centers)",2006,2.5
+Occ,"Amusement, gambling, and recreation industries (except bowling centers)",2007,3.6
+Occ,"Amusement, gambling, and recreation industries (except bowling centers)",2008,2.8
+Occ,"Amusement, gambling, and recreation industries (except bowling centers)",2009,2.5
+Occ,"Amusement, gambling, and recreation industries (except bowling centers)",2010,2.6
+Occ,"Amusement, gambling, and recreation industries (except bowling centers)",2011,2.7
+Occ,"Amusement, gambling, and recreation industries (except bowling centers)",2012,2.7
+Occ,"Amusement, gambling, and recreation industries (except bowling centers)",2013,1.8
+Occ,"Amusement, gambling, and recreation industries (except bowling centers)",2014,2.7
+Occ,"Amusement, gambling, and recreation industries (except bowling centers)",2015,1.9
+Occ,"Amusement, gambling, and recreation industries (except bowling centers)",2016,2.5
+Occ,"Amusement, gambling, and recreation industries (except bowling centers)",2017,2.7
+Occ,"Amusement, gambling, and recreation industries (except bowling centers)",2018,1.8
+Occ,"Amusement, gambling, and recreation industries (except bowling centers)",2020,3.1
+Occ,"Religious, grantmaking, civic, professional, and similar organizations",2006,1.7
+Occ,"Religious, grantmaking, civic, professional, and similar organizations",2007,1.9
+Occ,"Religious, grantmaking, civic, professional, and similar organizations",2008,1.4
+Occ,"Religious, grantmaking, civic, professional, and similar organizations",2009,1.5
+Occ,"Religious, grantmaking, civic, professional, and similar organizations",2010,1.5
+Occ,"Religious, grantmaking, civic, professional, and similar organizations",2011,1.5
+Occ,"Religious, grantmaking, civic, professional, and similar organizations",2012,1.6
+Occ,"Religious, grantmaking, civic, professional, and similar organizations",2013,1.4
+Occ,"Religious, grantmaking, civic, professional, and similar organizations",2014,1.6
+Occ,"Religious, grantmaking, civic, professional, and similar organizations",2015,1.3
+Occ,"Religious, grantmaking, civic, professional, and similar organizations",2016,1.6
+Occ,"Religious, grantmaking, civic, professional, and similar organizations",2017,1.4
+Occ,"Religious, grantmaking, civic, professional, and similar organizations",2018,1.1
+Occ,"Religious, grantmaking, civic, professional, and similar organizations",2019,1
+Occ,"Religious, grantmaking, civic, professional, and similar organizations",2020,1.1
+Occ,Restaurants and other food services,2006,1.8
+Occ,Restaurants and other food services,2007,1.6
+Occ,Restaurants and other food services,2008,1.3
+Occ,Restaurants and other food services,2009,1.3
+Occ,Restaurants and other food services,2010,1.5
+Occ,Restaurants and other food services,2011,1.1
+Occ,Restaurants and other food services,2012,1.4
+Occ,Restaurants and other food services,2013,1.2
+Occ,Restaurants and other food services,2014,1.2
+Occ,Restaurants and other food services,2015,1.4
+Occ,Restaurants and other food services,2016,1.9
+Occ,Restaurants and other food services,2017,1.5
+Occ,Restaurants and other food services,2018,1.3
+Occ,Restaurants and other food services,2019,1.7
+Occ,Restaurants and other food services,2020,1.9
+Occ,Roofers,2006,37.2
+Occ,Roofers,2007,33.4
+Occ,Roofers,2008,34.4
+Occ,Roofers,2009,34.7
+Occ,Roofers,2010,30.6
+Occ,Roofers,2011,32
+Occ,Roofers,2012,43.1
+Occ,Roofers,2013,38.9
+Occ,Roofers,2014,46.1
+Occ,Roofers,2015,39.7
+Occ,Roofers,2016,48.6
+Occ,Roofers,2017,45.2
+Occ,Roofers,2018,51.5
+Occ,Roofers,2019,54
+Occ,Roofers,2020,47
+Occ,Security guards and gaming surveillance officers,2006,9.1
+Occ,Security guards and gaming surveillance officers,2007,9.9
+Occ,Security guards and gaming surveillance officers,2008,8.5
+Occ,Security guards and gaming surveillance officers,2009,7.4
+Occ,Security guards and gaming surveillance officers,2010,5.7
+Occ,Security guards and gaming surveillance officers,2011,7.2
+Occ,Security guards and gaming surveillance officers,2012,6.1
+Occ,Security guards and gaming surveillance officers,2013,7.1
+Occ,Security guards and gaming surveillance officers,2014,4.7
+Occ,Security guards and gaming surveillance officers,2015,6.9
+Occ,Security guards and gaming surveillance officers,2016,6.2
+Occ,Security guards and gaming surveillance officers,2017,7.1
+Occ,Security guards and gaming surveillance officers,2018,6.4
+Occ,Security guards and gambling surveillance officers,2019,6.8
+Occ,Security guards and gambling surveillance officers,2020,8.3
+Occ,Social assistance,2006,1
+Occ,Social assistance,2007,0.7
+Occ,Social assistance,2008,0.7
+Occ,Social assistance,2010,1.2
+Occ,Social assistance,2011,0.9
+Occ,Social assistance,2012,1
+Occ,Social assistance,2013,0.9
+Occ,Social assistance,2014,1.3
+Occ,Social assistance,2016,0.7
+Occ,Social assistance,2017,1
+Occ,Social assistance,2018,0.6
+Occ,State government,2006,2
+Occ,State government,2007,1.9
+Occ,State government,2008,2.1
+Occ,State government,2009,1.3
+Occ,State government,2010,1.9
+Occ,State government,2011,1.9
+Occ,State government,2012,1.6
+Occ,State government,2013,1.3
+Occ,State government,2014,1.2
+Occ,State government,2015,1.3
+Occ,State government,2016,1.5
+Occ,State government,2017,1.4
+Occ,State government,2018,1.1
+Occ,State government,2019,1.1
+Occ,State government,2020,1.1
+Occ,Taxi and limousine service,2006,21.1
+Occ,Taxi and limousine service,2007,20.7
+Occ,Taxi and limousine service,2008,20.9
+Occ,Taxi and limousine service,2009,15.7
+Occ,Taxi and limousine service,2010,16.8
+Occ,Taxi and limousine service,2011,22.1
+Occ,Taxi and limousine service,2012,21.1
+Occ,Taxi and limousine service,2013,19.1
+Occ,Taxi and limousine service,2014,18.7
+Occ,Taxi and limousine service,2015,12.9
+Occ,Taxi and limousine service,2016,13
+Occ,Taxi and limousine service,2017,9.8
+Occ,Taxi and limousine service,2018,5.5
+Occ,Taxi and limousine service,2019,6.9
+Occ,Taxi and limousine service,2020,7
+Occ,Truck transportation,2006,24.6
+Occ,Truck transportation,2007,26
+Occ,Truck transportation,2008,23.1
+Occ,Truck transportation,2009,21.6
+Occ,Truck transportation,2010,23.2
+Occ,Truck transportation,2011,25.9
+Occ,Truck transportation,2012,25.6
+Occ,Truck transportation,2013,25.7
+Occ,Truck transportation,2014,23.9
+Occ,Truck transportation,2015,25.2
+Occ,Truck transportation,2016,25.6
+Occ,Truck transportation,2017,28
+Occ,Truck transportation,2018,28.3
+Occ,Truck transportation,2019,27.2
+Occ,Truck transportation,2020,26.3
+Occ,Waste management and remediation services,2006,22
+Occ,Waste management and remediation services,2007,20.1
+Occ,Waste management and remediation services,2008,20.1
+Occ,Waste management and remediation services,2009,12.7
+Occ,Waste management and remediation services,2010,12.8
+Occ,Waste management and remediation services,2011,16.8
+Occ,Waste management and remediation services,2012,13.2
+Occ,Waste management and remediation services,2013,11.2
+Occ,Waste management and remediation services,2014,10.9
+Occ,Waste management and remediation services,2015,13.7
+Occ,Waste management and remediation services,2016,12.7
+Occ,Waste management and remediation services,2017,13.7
+Occ,Waste management and remediation services,2018,21.3
+Occ,Waste management and remediation services,2019,15.1
+Occ,Waste management and remediation services,2020,15
+Occ,"Welding, soldering, and brazing workers",2006,9.5
+Occ,"Welding, soldering, and brazing workers",2007,6.9
+Occ,"Welding, soldering, and brazing workers",2008,10.5
+Occ,"Welding, soldering, and brazing workers",2009,8.8
+Occ,"Welding, soldering, and brazing workers",2010,8.2
+Occ,"Welding, soldering, and brazing workers",2011,8.5
+Occ,"Welding, soldering, and brazing workers",2012,7.6
+Occ,"Welding, soldering, and brazing workers",2013,7.8
+Occ,"Welding, soldering, and brazing workers",2014,6
+Occ,"Welding, soldering, and brazing workers",2015,8.4
+Occ,"Welding, soldering, and brazing workers",2016,6.4
+Occ,"Welding, soldering, and brazing workers",2017,5.8
+Occ,"Welding, soldering, and brazing workers",2018,6.2
+Occ,"Welding, soldering, and brazing workers",2019,8.1
+Occ,"Welding, soldering, and brazing workers",2020,9.2
+Occ,Wood product manufacturing,2006,6.6
+Occ,Wood product manufacturing,2007,7.6
+Occ,Wood product manufacturing,2008,5.6
+Occ,Wood product manufacturing,2009,5.4
+Occ,Wood product manufacturing,2010,8.2
+Occ,Wood product manufacturing,2011,6.6
+Occ,Wood product manufacturing,2012,5.7
+Occ,Wood product manufacturing,2013,7.2
+Occ,Wood product manufacturing,2014,10.7
+Occ,Wood product manufacturing,2015,6.5
+Occ,Wood product manufacturing,2016,6.6
+Occ,Wood product manufacturing,2017,5.3
+Occ,Wood product manufacturing,2018,10.4
+Occ,Wood product manufacturing,2020,8.1

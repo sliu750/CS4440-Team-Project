@@ -1,0 +1,195 @@
+Label,Characteristic,Year,total_fatal_injuries,total_hours_worked,fatal_injury_rate,margin_of_error
+,Total,2016,"5,190","283,101",3.6,0
+, no data,2016, no data, no data, no data, no data
+,Employee Status,2016, no data, no data, no data, no data
+,Wage and salary workers5,2016,"4,098","266,442",3,0
+,Self-employed6,2016,"1,092","16,520",13.1,0.3
+, no data,2016, no data, no data, no data, no data
+,Gender,2016, no data, no data, no data, no data
+Dem,Men,2016,"4,803","160,312",5.8,0
+Dem,Women,2016,387,"122,789",0.6,0
+, no data,2016, no data, no data, no data, no data
+,Age,2016, no data, no data, no data, no data
+Dem,16 to 17 years,2016,17,"1,539",2.1,0.1
+Dem,18 to 19 years,2016,43,"4,196",1.9,0.1
+Dem,20 to 24 years,2016,310,"23,593",2.4,0
+Dem,25 to 34 years,2016,834,"65,094",2.5,0
+Dem,35 to 44 years,2016,979,"61,892",3.1,0
+Dem,45 to 54 years,2016,"1,145","64,588",3.5,0
+Dem,55 to 64 years,2016,"1,160","48,324",4.7,0
+Dem,65 years and over,2016,688,"13,874",9.6,0.2
+, no data,2016, no data, no data, no data, no data
+,Race or ethnic origin7,2016, no data, no data, no data, no data
+Dem,White (non-Hispanic),2016,"3,481","181,673",3.7,0
+Dem,Black or African-American (non-Hispanic),2016,587,"31,329",3.6,0
+Dem,Asian (non-Hispanic),2016,160,"16,896",1.8,0
+Dem,Hispanic or Latino,2016,879,"46,831",3.7,0
+, no data,2016, no data, no data, no data, no data
+,Occupation8,2016, no data, no data, no data, no data
+,Civilian Occupations,2016, no data, no data, no data, no data
+Ind,"Management, professional, and related occupations",2016,672,"115,487",1.2,0
+,"Management, business, and financial operations occupations",2016,404,"51,562",1.6,0
+,Management occupations,2016,377,"36,787",2,0
+Occ,"Farmers, ranchers, and other agricultural managers",2016,260,"2,239",23.1,1.8
+Occ,Food service managers,2016,23,"2,499",1.8,0.1
+Occ,"Property, real estate, and community association managers",2016,23,"1,323",3.5,0.2
+Occ,Business and financial operations occupations,2016,27,"14,774",0.4,0
+,Professional and related occupations,2016,268,"63,925",0.8,0
+Occ,Computer and mathematical occupations,2016,16,"9,156",0.3,0
+Occ,Architecture and engineering occupations,2016,41,"6,355",1.3,0
+Occ,"Life, physical, and social science occupations",2016,15,"2,628",1.1,0.1
+Occ,Community and social service occupations,2016,27,"4,924",1,0
+Occ,"Education, training, and library occupations",2016,32,"14,930",0.4,0
+,"Arts, design, entertainment, sports, and media occupations",2016,64,"5,372",2.3,0.1
+Occ,"Athletes, coaches, umpires, and related workers",2016,29,463,11.7,1.5
+Occ,Healthcare practitioners and technical occupations,2016,60,"16,884",0.7,0
+Ind,Service occupations,2016,787,"45,189",3.4,0
+Occ,Healthcare support occupations,2016,30,"6,183",1,0
+,Protective service occupations,2016,281,"6,210",8.4,0.3
+Occ,Fire fighters,2016,35,660,6.1,0.8
+Occ,Police and sheriff's patrol officers,2016,108,"1,476",14.6,0.9
+Occ,Security guards and gaming surveillance officers,2016,54,"1,741",6.2,0.4
+,Food preparation and serving related occupations,2016,92,"13,468",1.3,0
+Occ,Supervisors of food preparation and serving workers,2016,21,"1,998",2.1,0.1
+,Building and grounds cleaning and maintenance occupations,2016,329,"9,834",6.6,0.2
+Occ,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",2016,30,454,13.2,1.6
+Occ,Janitors and building cleaners,2016,51,"3,850",2.6,0.1
+Occ,Grounds maintenance workers,2016,217,"2,475",17.4,1
+Occ,Personal care and service occupations,2016,55,"9,494",1.1,0
+Ind,Sales and office occupations,2016,332,"60,238",1.1,0
+,Sales and related occupations,2016,254,"28,706",1.8,0
+Occ,First-line supervisors of retail sales workers,2016,89,"6,740",2.6,0.1
+Occ,First-line supervisors of non-retail sales workers,2016,15,"2,519",1.2,0.1
+Occ,Cashiers (including gaming change persons and booth cashiers ),2016,63,"4,623",2.7,0.1
+Occ,Retail salespersons,2016,33,"5,482",1.2,0
+Occ,Office and administrative support occupations,2016,78,"31,532",0.5,0
+Ind,"Natural resources, construction, and maintenance occupations",2016,"1,730","27,556",12.3,0.2
+,"Farming, fishing, and forestry occupations",2016,290,"2,226",24.9,2
+Occ,Miscellaneous agricultural workers,2016,156,"1,666",17.4,1.7
+Occ,Fishers and related fishing workers,2016,24,56,86,31.5
+Occ,Logging workers,2016,91,131,135.9,32.2
+,Construction and extraction occupations,2016,970,"15,441",12.4,0.3
+Occ,First-line supervisors of construction trades and extraction workers,2016,134,"1,478",18,1.2
+Occ,Carpenters,2016,99,"2,568",7.6,0.4
+Occ,Construction laborers,2016,254,"3,347",15.1,0.6
+Occ,Operating engineers and other construction equipment operators,2016,39,734,10.6,1
+Occ,Electricians,2016,79,"1,578",10,0.7
+Occ,"Painters, construction and maintenance",2016,50,"1,099",8.6,0.7
+Occ,"Pipelayers, plumbers, pipefitters, and steamfitters",2016,24,"1,176",4.1,0.3
+Occ,Roofers,2016,101,416,48.6,5.6
+Occ,Structural iron and steel workers,2016,16,127,25.1,6.6
+,"Installation, maintenance, and repair occupations",2016,470,"9,888",9.4,0.2
+Occ,"First-line supervisors of mechanics, installers, and repairers",2016,44,562,15.7,1.7
+Occ,Automotive service technicians and mechanics,2016,64,"1,780",7.2,0.4
+Occ,Bus and truck mechanics and diesel engine specialists,2016,29,714,8.1,0.8
+Occ,"Heating, air conditioning, and refrigeration mechanics and installers",2016,37,856,8.4,0.8
+Occ,"Industrial machinery installation, repair, and maintenance workers",2016,45,966,9.3,0.8
+Occ,"Maintenance and repair workers, general",2016,75,"1,092",13.4,1
+Occ,Electrical power-line installers and repairers,2016,21,288,14.6,2.1
+Occ,Telecommunications line installers and repairers,2016,21,346,12.1,1.6
+Ind,"Production, transportation, and material moving occupations",2016,"1,604","34,632",9.2,0.1
+,Production occupations,2016,216,"16,766",2.6,0.1
+Occ,First-line supervisors of production and operating workers,2016,31,"1,641",3.8,0.2
+Occ,"Welding, soldering, and brazing workers",2016,40,"1,254",6.4,0.5
+,Transportation and material moving occupations,2016,"1,388","17,866",15.4,0.3
+Occ,Aircraft pilots and flight engineers,2016,75,263,55.5,9.2
+Occ,Driver/sales workers and truck drivers,2016,918,"7,431",24.7,0.8
+Occ,Taxi drivers and chauffeurs,2016,60,896,13.2,1.2
+Occ,Industrial truck and tractor operators,2016,37,"1,220",6.1,0.5
+Occ,"Laborers and freight, stock, and material movers, hand",2016,92,"3,401",5.2,0.2
+Occ,Refuse and recyclable material collectors,2016,31,182,34.1,6.8
+, no data,2016, no data, no data, no data, no data
+,Industry9,2016, no data, no data, no data, no data
+,Private industry,2016,"4,693","245,136",3.8,0
+,Goods producing,2016,"1,991","57,594",6.8,0.1
+,Natural resources and mining,2016,682,"6,752",19.8,1.2
+Ind,"Agriculture, forestry, fishing and hunting",2016,593,"4,983",23.2,1.5
+Occ,Crop production  ,2016,261,"2,416",20.9,2
+Occ,Animal production and aquaculture,2016,151,"1,892",15.4,1.4
+Occ,Logging ,2016,105,208,100.1,21.7
+Occ,"Fishing, hunting, and trapping ",2016,26,75,69.1,23.3
+Occ,Support activities for agriculture and forestry ,2016,48,354,27.1,4.2
+Ind,"Mining, quarrying, and oil and gas extraction",2016,89,"1,769",10.1,1.5
+Occ,Mining (except oil and gas),2016,22,440,10,2.1
+Occ,Support activities for mining,2016,56,"1,114",10.1,2.1
+Ind,Construction,2016,991,"19,530",10.1,0.2
+Ind,Manufacturing,2016,318,"31,312",2,0
+Occ,Food manufacturing,2016,40,"3,506",2.3,0.1
+Occ,Wood product manufacturing,2016,28,853,6.6,0.8
+Occ,Chemical manufacturing,2016,15,"2,698",1.1,0.1
+Occ,Plastics and rubber products manufacturing,2016,16,"1,145",2.8,0.2
+,Nonmetallic mineral product manufacturing,2016,32,920,7,0.7
+Occ,"Cement, concrete, lime, and gypsum product manufacturing ",2016,24,317,15.1,2.2
+Occ,Primary metal manufacturing,2016,25,959,5.2,0.5
+Occ,Fabricated metal product manufacturing,2016,41,"2,418",3.4,0.2
+Occ,Machinery manufacturing,2016,24,"2,484",1.9,0.1
+Occ,Transportation equipment manufacturing,2016,29,"4,990",1.2,0.1
+,Service providing,2016,"2,702","187,542",2.8,0
+,"Trade, transportation, and utilities",2016,"1,316","50,093",5.2,0.1
+Ind,Wholesale trade,2016,179,"7,425",4.8,0.2
+,"Merchant wholesalers, durable goods",2016,91,"3,501",5.2,0.2
+Occ,"Machinery, equipment, and supplies, merchant wholesalers     ",2016,26,765,6.8,0.7
+Occ,Recyclable material merchant wholesalers,2016,17,170,20,4.4
+,"Merchant wholesalers, nondurable goods",2016,86,"3,650",4.7,0.2
+Occ,"Groceries and related products, merchant wholesalers ",2016,30,"1,642",3.7,0.3
+Ind,Retail trade,2016,282,"29,037",1.9,0
+,Motor vehicle and parts dealers,2016,42,"4,316",1.9,0.1
+Occ,Automobile dealers ,2016,21,"2,942",1.4,0.1
+Occ,"Auto parts, accessories, and tire stores  ",2016,15,"1,039",2.9,0.2
+Occ,Building material and garden equipment and supplies dealers,2016,19,"2,708",1.4,0.1
+,Food and beverage stores,2016,71,"5,147",2.7,0.1
+Occ,Grocery stores ,2016,59,"4,474",2.6,0.1
+Occ,Gasoline stations ,2016,44,941,9.4,0.7
+Occ,Miscellaneous store retailers,2016,21,"1,877",2.2,0.1
+Occ,Non-store retailers,2016,15,"1,276",2.4,0.2
+Ind,Transportation and warehousing     ,2016,825,"11,510",14.3,0.4
+Occ,Air transportation ,2016,22,"1,031",4.3,0.4
+Occ,Truck transportation ,2016,570,"4,442",25.6,1
+,Transit and ground passenger transportation,2016,71,"1,381",10.3,0.7
+Occ,Bus service and urban transit ,2016,21,610,6.9,0.7
+Occ,Taxi and limousine service ,2016,50,771,13,1.2
+Occ,Support activities for transportation ,2016,73,"1,333",11,0.8
+Occ,Couriers and messengers,2016,30,"1,462",4.1,0.2
+Occ,Warehousing and storage,2016,16,"1,111",2.9,0.2
+Ind,Utilities,2016,30,"2,121",2.8,0.2
+Ind,Information ,2016,46,"5,323",1.7,0.1
+Ind,Financial activities,2016,117,"19,822",1.2,0
+Occ,Finance and insurance,2016,26,"14,109",0.4,0
+,Real estate and rental and leasing,2016,91,"5,713",3.2,0.1
+Occ,Real estate ,2016,64,"4,938",2.6,0.1
+Occ,Rental and leasing services,2016,26,776,6.7,0.6
+Ind,Professional and business services,2016,540,"34,110",3.1,0
+,"Professional, scientific, and technical services",2016,100,"21,525",0.9,0
+Occ,"Architectural, engineering, and related services ",2016,43,"3,188",2.7,0.1
+,"Management, administrative, and waste services",2016,440,"12,586",6.9,0.2
+Occ,Employment services ,2016,51,"1,812",5.6,0.3
+Occ,Investigation and security services ,2016,43,"1,549",5.4,0.4
+Occ,Services to buildings and dwellings (except landscaping services) ,2016,46,"2,634",3.5,0.2
+Occ,Landscaping services,2016,208,"2,516",16.5,1
+Occ,Waste management and remediation services ,2016,67,"1,041",12.7,1.2
+Ind,Educational and health services,2016,159,"42,451",0.7,0
+Occ,Educational services,2016,42,"7,932",1,0
+,Health care and social assistance,2016,117,"34,519",0.7,0
+Occ,Ambulatory health care services,2016,56,"13,280",0.8,0
+Occ,Nursing and residential care facilities,2016,29,"4,547",1.3,0.1
+Occ,Social assistance,2016,17,"4,867",0.7,0
+Ind,Leisure and hospitality,2016,298,"22,866",2.6,0
+,"Arts, entertainment, and recreation",2016,96,"4,774",3.9,0.2
+Occ,"Performing arts, spectator sports, and related industries",2016,53,"1,381",7.2,0.6
+Occ,"Amusement, gambling, and recreation industries (except bowling centers)  ",2016,38,"3,066",2.5,0.1
+,Accommodation and food services,2016,202,"18,091",2.2,0
+,Accommodation ,2016,37,"2,905",2.5,0.1
+Occ,Traveler accommodation ,2016,30,"2,737",2.2,0.1
+,Food services and drinking places,2016,165,"15,186",2.1,0
+Occ,Restaurants and other food services ,2016,142,"14,803",1.9,0
+Occ,Drinking places (alcoholic beverages),2016,23,383,12,1.7
+Ind,Other services (except public administration),2016,223,"12,877",3.2,0.1
+,Repair and maintenance,2016,146,"3,988",7.3,0.3
+Occ,Automotive repair and maintenance (except car washes),2016,95,"2,420",7.9,0.4
+Occ,Personal and laundry services,2016,33,"4,194",1.6,0.1
+Occ,"Religious, grantmaking, civic, professional, and similar organizations",2016,44,"3,675",1.6,0.1
+Ind,Government,2016,497,"37,965",2.2,0
+Occ,Federal government,2016,107,"7,101",1.2,0
+Occ,State government,2016,97,"12,763",1.5,0
+Occ,Local government,2016,291,"18,101",3,0.1
+, no data,,,,,

@@ -1,0 +1,219 @@
+Label,Characteristic,Year,total_fatal_injuries,total_hours_worked,fatal_injury_rate
+,Total,2009,"4,551","254,771",3.5
+,,2009,,,
+,Employee Status,2009,,,
+,Wage and salary workers4 ,2009,"3,488","237,869",2.8
+,Self-employed5,2009,"1,063","16,578",12.7
+,,2009,,,
+,Gender,2009,,,
+Dem,Men,2009,"4,216","143,301",5.7
+Dem,Women,2009,335,"111,460",0.6
+,,2009,,,
+,Age,2009,,,
+Dem,18 to 19 years,2009,57,"3,886",2.5
+Dem,20 to 24 years,2009,275,"20,792",2.4
+Dem,25 to 34 years,2009,704,"56,382",2.4
+Dem,35 to 44 years,2009,908,"60,320",3.0
+Dem,45 to 54 years,2009,"1,173","64,556",3.6
+Dem,55 to 64 years,2009,853,"38,615",4.3
+Dem,65 years and over,2009,551,"8,923",12.1
+,,2009,,,
+,Race or ethnic origin6,2009,,,
+Dem,White (non-Hispanic),2009,"3,204","175,938",3.5
+Dem,Black or African-American (non-Hispanic),2009,421,"26,541",3.1
+Dem,Hispanic or Latino,2009,713,"35,376",4.0
+,,2009,,,
+,Occupation7,2009,,,
+,Civilian Occupations,2009,,,
+Ind,"Management, professional, and related occupations",2009,798,"99,672",1.6
+,"Management, business, and financial operations occupations",2009,564,"44,160",2.5
+,Management occupations,2009,538,"32,344",3.3
+Occ,Farmers and ranchers,2009,302,"1,521",39.7
+Occ,Construction managers,2009,31,"2,152",2.9
+Occ,Food service managers,2009,25,"2,226",2.2
+Occ,"Property, real estate, and community association managers",2009,26,"1,108",4.7
+Occ,Business and financial operations occupations,2009,26,"11,760",0.4
+,Professional and related occupations,2009,234,"55,542",0.8
+Occ,Architecture and engineering occupations,2009,42,"5,517",1.5
+Occ,Community and social services occupations,2009,32,"4,329",1.4
+Occ,"Education, training, and library occupations",2009,22,"13,926",0.3
+,"Arts, design, entertainment, sports, and media occupations",2009,43,"4,613",1.9
+Occ,"Athletes, coaches, umpires, and related workers",2009,18,393,9.2
+Occ,Healthcare practitioner and technical occupations,2009,56,"14,280",0.7
+Ind,Service occupations,2009,634,"40,422",3.0
+,Protective service occupations,2009,244,"6,265",7.3
+Occ,Fire fighters ,2009,29,771,4.4
+Occ,Police and sheriff's patrol officers,2009,96,"1,470",12.9
+Occ,Security guards and gaming surveillance officers,2009,64,"1,735",7.4
+,Food preparation and serving related occupations,2009,59,"11,645",1.0
+Occ,"First-line supervisors/managers, food preparation and serving workers",2009,15,"1,829",1.6
+,Building and grounds cleaning and maintenance occupations,2009,258,"8,757",5.8
+Occ,"First-line supervisors/managers of landscaping, lawn service, and groundskeeping workers",2009,43,506,17.0
+Occ,Janitors and building cleaners,2009,41,"3,574",2.2
+Occ,Grounds maintenance workers,2009,154,"1,937",15.7
+Occ,Personal care and service occupations,2009,48,"8,128",1.1
+Ind,Sales and office occupations,2009,383,"59,745",1.3
+,Sales and related occupations,2009,290,"28,207",2.0
+Occ,First-line supervisors/managers of retail sales workers,2009,130,"6,913",3.8
+Occ,First-line supervisors/managers of non-retail sales workers,2009,34,"2,736",2.5
+Occ,Cashiers,2009,43,"4,270",2.0
+Occ,Retail salespersons,2009,27,"5,147",1.0
+Occ,Office and administrative support occupations,2009,93,"31,608",0.6
+Ind,"Natural resources, construction, and maintenance occupations",2009,"1,403","24,926",11.1
+,"Farming, fishing, and forestry occupations",2009,239,"1,785",25.8
+Occ,Miscellaneous agricultural workers,2009,124,"1,302",17.7
+Occ,Fishers and related fishing workers,2009,57,56,203.6
+Occ,Logging workers,2009,36,110,65.5
+,Construction and extraction occupations,2009,838,"13,383",12.4
+Occ,First-line supervisors/managers of construction trades and extraction workers,2009,112,"1,450",15.3
+Occ,Carpenters,2009,84,"2,173",7.7
+Occ,Construction laborers,2009,229,"2,410",18.8
+Occ,Operating engineers and other construction equipment operators,2009,41,745,11.0
+Occ,Electricians,2009,84,"1,502",11.2
+Occ,"Painters, construction and maintenance",2009,26,851,6.1
+Occ,"Pipelayers, plumbers, pipefitters, and steamfitters",2009,38,"1,035",7.3
+Occ,Roofers,2009,60,346,34.7
+Occ,Structural iron and steel workers,2009,18,119,30.3
+Occ,Miscellaneous extraction workers,2009,21,81,51.9
+,"Installation, maintenance, and repair occupations",2009,326,"9,775",6.6
+Occ,"First-line supervisors/managers of mechanics, installers, and repairers",2009,21,729,5.8
+Occ,Automotive service technicians and mechanics,2009,43,"1,582",5.4
+Occ,Bus and truck mechanics and diesel engine specialists,2009,24,650,7.4
+Occ,"Heating, air conditioning, and refrigeration mechanics and installers",2009,20,724,5.5
+Occ,"Industrial machinery installation, repair, and maintenance workers",2009,81,"1,841",8.7
+,"Maintenance and repair workers, general",2009,49,794,12.1
+Occ,Electrical power-line installers and repairers,2009,19,258,14.7
+Occ,Telecommunications line installers and repairers,2009,17,364,9.3
+Ind,"Production, transportation, and material moving occupations",2009,"1,256","29,960",8.3
+,Production occupations,2009,197,"14,612",2.7
+Occ,First-line supervisors/managers of production and operating workers,2009,24,"1,537",3.1
+Occ,"Welding, soldering, and brazing workers",2009,40,908,8.8
+,Transportation and material moving occupations,2009,"1,059","15,380",13.6
+Occ,Aircraft pilots and flight engineers,2009,65,217,59.0
+Occ,Driver/sales workers and truck drivers,2009,647,"6,363",20.2
+Occ,Taxi drivers and chauffeurs,2009,55,713,15.4
+Occ,Industrial truck and tractor operators,2009,21,978,4.3
+Occ,"Laborers and freight, stock, and material movers, hand",2009,111,"2,789",7.6
+Occ,Refuse and recyclable material collectors,2009,20,151,26.5
+,,2009,,,
+,Industry8,2009,,,
+,Private industry,2009,"4,090","217,057",3.7
+,Goods producing,2009,"1,827","50,460",7.2
+,Natural resources and mining9,2009,674,"5,726",23.1
+Ind,"Agriculture, forestry, fishing, and hunting",2009,575,"4,147",27.2
+Occ,Crop production  ,2009,297,"1,766",32.7
+Occ,Animal production  ,2009,143,"1,867",15.1
+Occ,Logging ,2009,50,171,58.5
+Occ,"Fishing, hunting, and trapping ",2009,59,83,142.2
+Occ,Support activities for agriculture and forestry ,2009,22,242,17.4
+Ind,"Mining, quarrying, and oil and gas extraction",2009,99,"1,580",12.4
+Occ,Mining (except oil and gas),2009,29,488,11.9
+Occ,Support activities for mining,2009,58,933,12.4
+Ind,Construction,2009,834,"16,685",9.9
+Ind,Manufacturing,2009,319,"28,049",2.3
+,Food manufacturing,2009,48,"3,100",3.1
+Occ,Animal slaughtering and processing ,2009,15,908,3.3
+Occ,Chemical manufacturing,2009,18,"2,511",1.4
+Occ,Plastics and rubber products manufacturing,2009,19,887,4.3
+Occ,Nonmetallic mineral product manufacturing,2009,27,954,5.7
+Occ,"Cement, concrete, lime, and gypsum product manufacturing ",2009,15,366,8.2
+Occ,Primary metal manufacturing,2009,16,921,3.5
+Occ,Fabricated metal product manufacturing,2009,38,"2,103",3.6
+Occ,Machinery manufacturing,2009,22,"2,353",1.9
+Occ,Transportation equipment manufacturing,2009,31,"3,828",1.6
+Occ,Wood product manufacturing,2009,21,784,5.4
+,Service providing,2009,"2,263","166,343",2.7
+,"Trade, transportation, and utilities",2009,"1,146","46,509",4.9
+Ind,Wholesale trade,2009,190,"7,665",5.0
+,"Merchant wholesalers, durable goods",2009,97,"3,652",5.3
+Occ,"Machinery, equipment, and supplies, merchant wholesalers     ",2009,27,796,6.8
+Occ,Recyclable material merchant wholesalers,2009,17,189,18.0
+,"Merchant wholesalers, nondurable goods",2009,85,"3,747",4.5
+Occ,"Groceries and related products, merchant wholesalers ",2009,26,"1,666",3.1
+Ind,Retail trade,2009,307,"27,469",2.2
+,Motor vehicle and parts dealers,2009,55,"3,632",3.0
+Occ,Automobile dealers ,2009,30,"2,436",2.5
+Occ,"Auto parts, accessories, and tire stores  ",2009,21,936,4.5
+Occ,Building material and garden equipment and supplies dealers,2009,31,"2,628",2.4
+,Food and beverage stores,2009,80,"5,080",3.1
+Occ,Grocery stores ,2009,65,"4,417",2.9
+Occ,Gasoline stations ,2009,38,911,8.3
+Occ,Miscellaneous store retailers,2009,31,"1,790",3.5
+Occ,Nonstore retailers,2009,17,982,3.5
+Ind,Transportation and warehousing     ,2009,633,"9,527",13.3
+Occ,Air transportation ,2009,28,928,6.0
+Occ,Water transportation ,2009,16,165,19.4
+Occ,Truck transportation ,2009,389,"3,587",21.6
+,Transit and ground passenger transportation,2009,59,"1,124",10.5
+Occ,Bus service and urban transit ,2009,15,565,5.3
+Occ,Taxi and limousine service ,2009,44,559,15.7
+Occ,Support activities for transportation ,2009,79,"1,237",12.8
+Occ,Couriers and messengers,2009,29,"1,166",5.0
+Occ,Warehousing and storage ,2009,16,624,5.1
+Ind,Utilities,2009,16,"1,849",1.7
+Ind,Information ,2009,33,"5,874",1.1
+Ind,Financial activities,2009,108,"18,075",1.2
+Occ,Finance and insurance,2009,33,"13,063",0.5
+,Real estate and rental and leasing,2009,75,"5,005",3.0
+Occ,Real estate ,2009,52,"4,182",2.4
+Occ,Rental and leasing services,2009,23,832,5.5
+Ind,Professional and business services,2009,422,"27,221",3.1
+,"Professional, scientific, and technical services",2009,85,"17,203",1.0
+Occ,"     Architectural, engineering and related services ",2009,30,"2,792",2.1
+,"Management, administrative, and waste services",2009,337,"10,030",6.7
+Occ,Employment services ,2009,24,"1,314",3.7
+Occ,Investigation and security services ,2009,37,"1,440",5.1
+Occ,Services to buildings and dwellings (except landscaping services) ,2009,37,"2,082",3.6
+Occ,Landscaping services,2009,168,"2,008",16.6
+Occ,Waste management and remediation services ,2009,46,724,12.7
+Ind,Educational and health services,2009,150,"36,879",0.8
+Occ,Educational services,2009,27,"6,676",0.7
+,Health care and social assistance,2009,123,"30,284",0.8
+Occ,Ambulatory health care services,2009,54,"11,323",1.0
+Occ,Hospitals ,2009,30,"10,039",0.5
+Occ,Nursing and residential care facilities,2009,24,"4,344",1.1
+Ind,Leisure and hospitality,2009,231,"19,857",2.2
+,"Arts, entertainment, and recreation",2009,80,"4,248",3.6
+Occ,"Performing arts, spectator sports, and related industries",2009,42,"1,255",6.5
+Occ,"Amusement, gambling, and recreation industries (except bowling centers)  ",2009,36,"2,676",2.5
+,Accommodation and food services,2009,151,"15,634",1.9
+,Accommodation ,2009,32,"2,527",2.5
+Occ,Traveler accommodation ,2009,27,"2,366",2.3
+,Food services and drinking places,2009,119,"13,101",1.8
+Occ,Restaurants and other food services ,2009,87,"12,702",1.3
+Occ,Drinking places (alcoholic beverages),2009,32,401,15.5
+Ind,Other services (except public administration),2009,173,"11,927",2.8
+,Repair and maintenance,2009,112,"3,845",5.8
+Occ,Automotive repair and maintenance (except car washes),2009,77,"2,393",6.4
+Occ,Personal and laundry services,2009,29,"3,718",1.5
+Occ,"Religious, grantmaking, civic, professional, and similar organizations",2009,29,"3,307",1.5
+Ind,Government,2009,461,"37,913",1.9
+Occ,Federal government,2009,122,"6,883",1.4
+Occ,State government,2009,75,"11,214",1.3
+Occ,Local government,2009,260,"19,840",2.4
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,

@@ -1,0 +1,198 @@
+Label,Characteristic,Year,Characteristic_code,total_hours_worked,fatal_injury_rate,margin_of_error
+,Total,2020,,"269,900",3.4,0.01
+,,2020,,,, 
+,Employee status,2020,,,,
+,Wage and salary workers,2020,,"255,400",2.9,0.01
+,Self-employed5,2020,,"14,400",12.3,0.33
+,,2020,,,,
+,Gender,2020,,,,
+Dem,Men,2020,,"151,800",5.6,0.03
+Dem,Women,2020,,"118,100",0.6,0
+,,2020,,,,
+,Age,2020,,,,
+Dem,16 to 17 years,2020,,"1,600",1.4,0.07
+Dem,18 to 19 years,2020,,"3,900",2.7,0.09
+Dem,20 to 24 years,2020,,"20,500",2.3,0.03
+Dem,25 to 34 years,2020,,"62,600",2.6,0.02
+Dem,35 to 44 years,2020,,"60,700",2.9,0.02
+Dem,45 to 54 years,2020,,"58,000",3.3,0.03
+Dem,55 to 64 years,2020,,"47,400",4.4,0.04
+Dem,65 years and over,2020,,"15,300",8.6,0.18
+,,2020,,,,
+,Race or ethnic origin6,2020,,,,
+Dem,White (non-Hispanic),2020,,"169,300",3.3,0.02
+Dem,Black or African-American (non-Hispanic),2020,,"30,400",3.5,0.05
+Dem,Asian (non-Hispanic),2020,,"16,700",1.8,0.03
+Dem,Hispanic or Latino,2020,,"46,700",4.5,0.04
+,,2020,,,,
+,Occupation7,2020,Occupation code7,,,
+,Civilian Occupations,2020,,,,
+Ind,"Management, professional, and related occupations",2020,"11, 13, 15, 17, 19, 21, 23, 25, 27, 29","120,900",0.9,0.01
+,"Management, business, and financial operations occupations",2020,"11, 13","54,500",1.4,0.02
+,Management occupations,2020,11-0000,"37,800",1.9,0.03
+Occ,"Farmers, ranchers, and other agricultural managers",2020,13-Nov,"2,000",20.9,2
+Occ,Construction managers,2020,21-Nov,"2,000",3.4,0.24
+Occ,Food service managers,2020,Nov-51,"2,200",1.1,0.08
+Occ,"Property, real estate, and community association managers",2020,Nov-41,"1,400",2.6,0.2
+Occ,Business and financial operations occupations,2020,13-0000,"16,700",0.3,0.01
+,Professional and related occupations,2020,"15, 17, 19,  21, 23, 25, 27, 29","66,400",0.5,0.01
+Occ,Computer and mathematical occupations,2020,15-0000,"11,000",0.1,0
+Occ,Architecture and engineering occupations,2020,17-0000,"6,400",1,0.04
+Occ,"Life, physical, and social science occupations",2020,19-0000,"3,100",1,0.06
+Occ,Community and social service occupations,2020,21-0000,"5,000",1,0.04
+Occ,Legal occupations,2020,23-0000,"3,700",0.3,0.01
+Occ,Educational instruction and library occupations,2020,25-0000,"14,600",0.2,0
+Occ,"Arts, design, entertainment, sports, and media occupations",2020,27-0000,"5,000",1.4,0.06
+Occ,"Athletes, coaches, umpires, and related workers",2020,27-2020,400,6.2,0.89
+,Healthcare practitioners and technical occupations,2020,29-0000,"17,600",0.6,0.01
+Occ,Registered nurses,2020,29-1141,"5,800",0.4,0.01
+Occ,Emergency medical technicians and paramedics,2020,"29-2042, 29-2043",500,2.8,0.5
+Ind,Service occupations,2020,"31, 33, 35, 37, 39","36,800",3.8,0.06
+Occ,Healthcare support occupations,2020,31-0000,"8,000",1.1,0.04
+,Protective service occupations,2020,33-0000,"6,100",7.1,0.3
+Occ,Police officers,2020,33-3050,"1,600",13.4,1.11
+Occ,Security guards and gambling surveillance officers,2020,33-9030,"1,500",8.3,0.7
+,Food preparation and serving related occupations,2020,35-0000,"9,500",1.7,0.05
+Occ,Supervisors of food preparation and serving workers,2020,35-1010,"1,600",2.8,0.22
+,Building and grounds cleaning and maintenance occupations,2020,37-0000,"8,300",7.2,0.22
+Occ,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",2020,37-1012,500,15.3,2.29
+Occ,Janitors and building cleaners,2020,"37-2011, 37-2019","3,400",2.7,0.13
+Occ,Grounds maintenance workers,2020,37-3010,"2,000",19.4,1.2
+Occ,Personal care and service occupations,2020,39-0000,"5,000",2.3,0.1
+Ind,Sales and office occupations,2020,"41, 43","52,300",1,0.01
+,Sales and related occupations,2020,41-0000,"24,900",1.6,0.03
+Occ,First-line supervisors of retail sales workers,2020,41-1011,"6,100",2,0.09
+Occ,First-line supervisors of non-retail sales workers,2020,41-1012,"2,300",1,0.06
+Occ,Cashiers (including gambling change persons and booth cashiers ),2020,41-2010,"3,500",3,0.13
+Occ,Retail salespersons,2020,41-2031,"4,400",1.6,0.07
+Occ,Office and administrative support occupations,2020,43-0000,"27,400",0.5,0.01
+Ind,"Natural resources, construction, and maintenance occupations",2020,"45, 47, 49","25,500",12.6,0.28
+,"Farming, fishing, and forestry occupations",2020,45-0000,"2,000",25.3,2.94
+Occ,Miscellaneous agricultural workers,2020,45-2090,"1,600",16.6,2.23
+Occ,Fishing and hunting workers,2020,45-3031,100,132.1,42.78
+Occ,Logging workers,2020,45-4020,100,91.7,30.63
+,Construction and extraction occupations,2020,47-0000,"14,400",13.5,0.37
+Occ,First-line supervisors of construction trades and extraction workers,2020,47-1011,"1,500",11.7,0.96
+Occ,Carpenters,2020,47-2031,"2,000",7.8,0.45
+Occ,Construction laborers,2020,47-2061,"3,400",18.1,0.95
+Occ,Construction equipment operators,2020,47-2070,700,17.6,2.1
+Occ,Electricians,2020,47-2111,"1,800",8,0.53
+Occ,Painters and paperhangers,2020,47-2140,900,11.6,1.2
+Occ,"Pipelayers, plumbers, pipefitters, and steamfitters",2020,47-2150,"1,100",5.2,0.43
+Occ,Roofers,2020,47-2181,400,47,8.23
+Occ,Structural iron and steel workers,2020,47-2221,100,32.5,9.58
+Occ,"Helpers, construction trades",2020,47-3010,100,43.3,14.86
+Occ,Underground mining machine operators,2020,47-5040,100,21.6,6.51
+,"Installation, maintenance, and repair occupations",2020,49-0000,"9,100",8.6,0.27
+Occ,"First-line supervisors of mechanics, installers, and repairers",2020,49-1011,500,14.4,1.9
+Occ,Automotive service technicians and mechanics,2020,49-3023,"1,500",7.2,0.55
+Occ,Bus and truck mechanics and diesel engine specialists,2020,49-3031,700,6,0.6
+Occ,"Heating, air conditioning, and refrigeration mechanics and installers",2020,49-9021,900,5.1,0.48
+Occ,"Industrial machinery installation, repair, and maintenance workers",2020,49-9040,"1,000",6.2,0.6
+Occ,Electrical power-line installers and repairers,2020,49-9051,300,18.6,3.04
+Occ,Telecommunications line installers and repairers,2020,49-9052,300,11.6,1.81
+Occ,"Maintenance and repair workers, general",2020,49-9071,"1,100",12.3,0.99
+Ind,"Production, transportation, and material moving occupations",2020,"51, 53","34,200",8.8,0.15
+,Production occupations,2020,51-0000,"14,800",3,0.08
+Occ,First-line supervisors of production and operating workers,2020,51-1011,"1,600",3.2,0.26
+Occ,"Welding, soldering, and brazing workers",2020,51-4120,"1,000",9.2,0.83
+,Transportation and material moving occupations,2020,53-0000,"19,400",13.1,0.28
+Occ,Aircraft pilots and flight engineers,2020,53-2010,300,34.3,6.48
+Occ,Driver/sales workers and truck drivers,2020,53-3030,"6,900",25.8,0.98
+Occ,Industrial truck and tractor operators,2020,53-7051,"1,100",5.9,0.53
+Occ,"Laborers and freight, stock, and material movers, hand",2020,53-7062,"3,500",5,0.24
+Occ,Refuse and recyclable material collectors,2020,53-7081,200,33.1,7.63
+,,2020,,,,
+,Industry8,2020,Industry code8,,,
+,Private industry,2020,,"232,000",3.7,0.02
+,Natural resources and mining9,2020,"11, 21","6,100",18.8,1.22
+Ind,"Agriculture, forestry, fishing and hunting",2020,11,"4,700",21.5,1.78
+Occ,Crop production  ,2020,111000,"2,300",20.8,2.3
+Occ,Animal production and aquaculture,2020,112000,"1,800",12.8,1.53
+Occ,"Fishing, hunting, and trapping ",2020,114000,100,121.1,35.3
+Occ,Support activities for agriculture and forestry ,2020,115000,300,23.8,4.59
+Ind,"Mining, quarrying, and oil and gas extraction",2020,21,"1,500",10.5,1.16
+Occ,Oil and gas extraction ,2020,211000,200,6.9,1.38
+,Mining (except oil and gas),2020,212000,400,17.4,3.89
+Occ,Coal mining ,2020,212100,100,14.5,5.14
+Occ,Metal ore mining,2020,212200,100,12.6,8.23
+Occ,Nonmetallic mineral mining and quarrying,2020,212300,200,21.4,4.84
+Occ,Support activities for mining,2020,213000,900,8.5,1.13
+Ind,Construction,2020,23,"19,600",10.2,0.24
+Ind,Manufacturing,2020,"31, 32, 33","28,900",2.3,0.05
+,Food manufacturing,2020,311000,"3,300",3.3,0.22
+Occ,Animal slaughtering and processing ,2020,311600,"1,000",5,0.87
+Occ,Wood product manufacturing,2020,321000,900,8.1,0.94
+Occ,Chemical manufacturing,2020,325000,"3,000",0.8,0.05
+Occ,Plastics and rubber products manufacturing,2020,326000,"1,100",2.9,0.27
+,Nonmetallic mineral product manufacturing,2020,327000,800,8.8,0.91
+Occ,"Cement, concrete, lime, and gypsum product manufacturing ",2020,"3273, 3274",300,18.7,3.14
+Occ,Primary metal manufacturing,2020,331000,900,3.5,0.38
+Occ,Fabricated metal product manufacturing,2020,332000,"2,300",4.7,0.29
+Occ,Machinery manufacturing,2020,333000,900,6.1,0.6
+Occ,Transportation equipment manufacturing,2020,336000,"4,500",1.1,0.06
+,"Trade, transportation, and utilities",2020,"42, 44, 45, 48, 49, 22","47,600",5.2,0.07
+Ind,Wholesale trade,2020,42,"6,700",4.6,0.19
+,"Merchant wholesalers, durable goods",2020,423000,"3,000",5.3,0.31
+Occ,"Machinery, equipment, and supplies merchant wholesalers     ",2020,423800,700,6.3,0.7
+Occ,Recyclable material merchant wholesalers,2020,423930,200,15.1,3.3
+,"Merchant wholesalers, nondurable goods",2020,424000,"3,400",4.2,0.23
+Occ,Grocery and related products merchant wholesalers ,2020,424400,"1,700",2.5,0.21
+Ind,Retail trade,2020,"44, 45","26,800",2,0.04
+,Motor vehicle and parts dealers,2020,441000,"3,600",2.8,0.14
+Occ,Automobile dealers ,2020,441100,"2,400",2.2,0.14
+Occ,"Automotive parts, accessories, and tire stores  ",2020,441300,900,4.5,0.43
+Occ,Building material and garden equipment and supplies dealers,2020,444000,"2,900",1.6,0.09
+,Food and beverage stores,2020,445000,"5,000",2.8,0.12
+Occ,Grocery stores ,2020,445100,"4,400",2.4,0.11
+Occ,Gasoline stations ,2020,447000,900,9.2,0.87
+Occ,Miscellaneous store retailers,2020,453000,"1,600",3.1,0.22
+Occ,Nonstore retailers,2020,454000,"1,900",1.9,0.13
+Ind,Transportation and warehousing     ,2020,"48, 49","11,900",13.4,0.44
+Occ,Air transportation ,2020,481000,"1,000",4.3,0.38
+Occ,Water transportation ,2020,483000,100,24.3,6.82
+Occ,Truck transportation ,2020,484000,"4,200",26.3,1.37
+,Transit and ground passenger transportation,2020,485000,"1,100",6.6,0.59
+Occ,Bus service and urban transit ,2020,485000 except 485300,400,5.5,0.76
+Occ,Taxi and limousine service ,2020,485300,700,7,0.81
+Occ,Support activities for transportation ,2020,488000,"1,400",14.2,1.29
+Occ,Couriers and messengers,2020,492000,"2,000",3.5,0.25
+Occ,Warehousing and storage ,2020,493000,"1,500",2.6,0.22
+Ind,Utilities,2020,22,"2,200",1.8,0.12
+Ind,Information ,2020,51,"4,600",1.3,0.07
+,Publishing industries (except internet),2020,511000,700,1.6,0.18
+Occ,Newspaper publishers,2020,511110,200,4.2,0.89
+Ind,Financial activities,2020,"52, 53","20,200",0.9,0.02
+Occ,Finance and insurance,2020,52,"14,900",0.3,0.01
+,Real estate and rental and leasing,2020,53,"5,300",2.8,0.11
+Occ,Real estate ,2020,531000,"4,700",2.3,0.1
+,"Professional, scientific, and technical services",2020,54,"23,800",0.5,0.01
+Occ,"Architectural, engineering, and related services ",2020,541300,"3,400",1.5,0.08
+Occ,Employment services ,2020,561300,"1,400",4.2,0.32
+Occ,Investigation and security services ,2020,561600,"1,400",6.7,0.59
+Occ,Services to buildings and dwellings (except landscaping services) ,2020,"561700, except 561730","2,600",4,0.23
+Occ,Landscaping services,2020,561730,"2,300",17.9,1.16
+Occ,Waste management and remediation services ,2020,562000,800,15,1.65
+Ind,Educational and health services,2020,"61, 62","42,400",0.7,0.01
+Occ,Educational services,2020,61,"8,000",0.6,0.02
+,Health care and social assistance,2020,62,"34,400",0.7,0.01
+Occ,Ambulatory health care services,2020,621000,"13,600",0.8,0.02
+Occ,Hospitals ,2020,622000,"12,200",0.4,0.01
+Occ,Nursing and residential care facilities,2020,623000,"4,200",1.2,0.05
+Ind,Leisure and hospitality,2020,"71, 72","17,100",2.5,0.06
+,"Arts, entertainment, and recreation",2020,71,"3,600",3.2,0.15
+Occ,"Performing arts, spectator sports, and related industries",2020,711000,"1,100",4.4,0.41
+Occ,"Amusement, gambling, and recreation industries (except bowling centers)  ",2020,"713000, except 713950","2,200",3.1,0.18
+,Accommodation and food services,2020,72,"13,600",2.4,0.06
+,Food services and drinking places,2020,722000,"11,900",2.1,0.06
+Occ,Restaurants and other food services ,2020,"722000, except 722400","11,700",1.9,0.05
+Occ,Drinking places (alcoholic beverages),2020,722400,200,15.2,2.89
+Ind,"Other services, except public administration",2020,81,"11,100",3.3,0.1
+,Repair and maintenance,2020,811000,"3,500",6.9,0.35
+Occ,Automotive repair and maintenance (except car washes),2020,"811100, except 811192","2,300",7.2,0.44
+Occ,Personal and laundry services,2020,812000,"3,100",2.2,0.11
+Occ,"Religious, grantmaking, civic, professional, and similar organizations",2020,813000,"3,500",1.1,0.06
+Ind,Government,2020,,"37,900",1.8,0.03
+Occ,Federal government,2020,,"7,500",0.9,0.04
+Occ,State government,2020,,"12,700",1.1,0.03
+Occ,Local government,2020,,"17,700",2.7,0.07

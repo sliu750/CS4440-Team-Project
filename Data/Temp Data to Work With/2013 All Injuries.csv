@@ -1,0 +1,197 @@
+Label,Characteristic,Year,total_fatal_injuries,total_hours_worked,fatal_injury_rate
+,Total,2013,"4,585","268,127",3.3
+,,2013,,,
+,Employee Status,2013,,,
+,Wage and salary workers4 ,2013,"3,635","251,637",2.8
+,Self-employed5,2013,950,"16,025",11.8
+,,2013,,,
+,Gender,2013,,,
+Dem,Men,2013,"4,265","151,645",5.4
+Dem,Women,2013,319,"116,591",0.5
+,,2013,,,
+,Age,2013,,,
+Dem,18 to 19 years,2013,57,"3,806",2.6
+Dem,20 to 24 years,2013,279,"22,561",2.2
+Dem,25 to 34 years,2013,777,"59,946",2.5
+Dem,35 to 44 years,2013,853,"60,055",2.8
+Dem,45 to 54 years,2013,"1,115","63,905",3.4
+Dem,55 to 64 years,2013,933,"44,912",4.1
+Dem,65 years and over,2013,557,"11,764",9.2
+,,2013,,,
+,Race or ethnic origin6,2013,,,
+Dem,White (non-Hispanic),2013,"3,125","177,818",3.4
+Dem,Black or African-American (non-Hispanic),2013,439,"28,021",3.1
+Dem,Asian (non-Hispanic),2013,125,"15,114",1.6
+Dem,Hispanic or Latino,2013,817,"41,457",3.9
+,,2013,,,
+,Occupation7,2013,,,
+,Civilian Occupations,2013,,,
+Ind,"Management, professional, and related occupations",2013,671,"106,269",1.2
+,"Management, business, and financial operations occupations",2013,429,"47,297",1.8
+,Management occupations,2013,408,"33,992",2.4
+Occ,"Farmers, ranchers, and other agricultural managers",2013,231,"2,004",22.9
+Occ,Construction managers,2013,15,"1,709",1.8
+Occ,Food service managers,2013,36,"2,394",3
+Occ,"Property, real estate, and community association managers",2013,20,"1,178",3.4
+Occ,Business and financial operations occupations,2013,21,"13,276",0.3
+,Professional and related occupations,2013,242,"59,084",0.8
+Occ,Architecture and engineering occupations,2013,37,"5,761",1.3
+Occ,"Life, physical, and social science occupations",2013,25,"2,521",2
+Occ,Community and social service occupations,2013,20,"4,378",0.8
+Occ,Legal occupations,2013,16,"3,695",0.9
+Occ,"Education, training, and library occupations",2013,20,"14,371",0.3
+,"Arts, design, entertainment, sports, and media occupations",2013,52,"4,943",2
+Occ,"Athletes, coaches, umpires, and related workers",2013,20,425,8.9
+,Healthcare practitioners and technical occupations,2013,60,"15,404",0.8
+Occ,      Registered nurses,2013,15,"5,187",0.6
+Ind,Service occupations,2013,632,"43,329",2.7
+Occ,Healthcare support occupations,2013,18,"6,007",0.6
+,Protective service occupations,2013,249,"6,225",6.9
+Occ,Fire fighters,2013,53,806,8.2
+Occ,Police and sheriff's patrol officers,2013,79,"1,457",10.6
+Occ,Security guards and gaming surveillance officers,2013,58,"1,575",7.1
+,Food preparation and serving related occupations,2013,68,"12,717",1
+Occ,First-line supervisors of food preparation and serving workers,2013,23,"1,981",2.2
+,Building and grounds cleaning and maintenance occupations,2013,249,"9,497",5.1
+Occ,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",2013,39,502,15.5
+Occ,Janitors and building cleaners,2013,45,"3,837",2.2
+Occ,Grounds maintenance workers,2013,151,"2,264",13.1
+Occ,Personal care and service occupations,2013,48,"8,851",1
+Ind,Sales and office occupations,2013,295,"59,770",1
+,Sales and related occupations,2013,220,"28,102",1.6
+Occ,First-line supervisors of retail sales workers,2013,84,"6,729",2.5
+Occ,First-line supervisors of non-retail sales workers,2013,20,"2,557",1.6
+Occ,Cashiers,2013,34,"4,653",1.5
+Occ,Retail salespersons,2013,32,"5,307",1.2
+Occ,Office and administrative support occupations,2013,75,"31,695",0.5
+Ind,"Natural resources, construction, and maintenance occupations",2013,"1,447","25,679",11.1
+,"Farming, fishing, and forestry occupations",2013,232,"1,886",23.9
+Occ,Miscellaneous agricultural workers,2013,125,"1,335",17.8
+Occ,Fishers and related fishing workers,2013,27,72,75
+Occ,Logging workers,2013,59,127,91.3
+,Construction and extraction occupations,2013,845,"13,706",12.2
+Occ,First-line supervisors of construction trades and extraction workers,2013,122,"1,345",17.8
+Occ,Carpenters,2013,77,"2,150",7
+Occ,Construction laborers,2013,220,"2,753",15.8
+Occ,Operating engineers and other construction equipment operators,2013,25,726,6.9
+Occ,Electricians,2013,64,"1,487",8.6
+Occ,"Painters, construction and maintenance",2013,40,922,8.7
+Occ,"Pipelayers, plumbers, pipefitters, and steamfitters",2013,38,"1,102",6.9
+Occ,Roofers,2013,72,360,38.9
+Occ,Mining machine operators,2013,16,148,21.6
+Occ,Other extraction workers,2013,19,228,16.7
+,"Installation, maintenance, and repair occupations",2013,370,"10,078",7.2
+Occ,"First-line supervisors of mechanics, installers, and repairers",2013,32,583,11
+Occ,Automotive service technicians and mechanics,2013,32,"1,742",3.6
+Occ,Bus and truck mechanics and diesel engine specialists,2013,28,653,8.6
+Occ,"Heating, air conditioning, and refrigeration mechanics and installers",2013,29,762,7.6
+Occ,"Industrial machinery installation, repair, and maintenance workers",2013,27,"1,153",4.7
+Occ,"Maintenance and repairs workers, general",2013,71,915,15.3
+Occ,Electrical power-line installers and repairers,2013,27,251,21.5
+Occ,Telecommunications line installers and repairers,2013,15,381,7.9
+Ind,"Production, transportation, and material moving occupations",2013,"1,468","33,122",8.8
+,Production occupations,2013,213,"16,406",2.6
+Occ,First-line supervisors of production and operating workers,2013,27,"1,558",3.5
+Occ,"Welding, soldering, and brazing workers",2013,47,"1,208",7.8
+,Transportation and material moving occupations,2013,"1,255","16,669",14.9
+Occ,Aircraft pilots and flight engineers,2013,64,241,50.6
+Occ,Driver/sales workers and truck drivers,2013,806,"6,805",23.6
+Occ,Taxi drivers and chauffeurs,2013,61,650,17.8
+Occ,Industrial truck and tractor operators,2013,29,"1,127",5.1
+Occ,"Laborers and freight, stock, and material movers, hand",2013,95,"3,104",6.1
+Occ,Refuse and recyclable material collectors,2013,33,200,33
+,,2013,,,
+,Industry8,2013,,,
+,Private industry,2013,"4,101","231,220",3.5
+,Goods producing,2013,"1,795","53,929",6.6
+,Natural resources and mining9,2013,655,"6,746",19.2
+Ind,"Agriculture, forestry, fishing and hunting",2013,500,"4,238",23.2
+Occ,Crop production  ,2013,224,"1,898",22.9
+Occ,Animal production  ,2013,136,"1,715",15.6
+Occ,Logging ,2013,77,178,86.5
+Occ,"Fishing, hunting, and trapping ",2013,26,82,63.4
+Occ,Support activities for agriculture and forestry ,2013,29,337,17.2
+Ind,"Mining, quarrying, and oil and gas extraction",2013,155,"2,508",12.4
+,Mining (except oil and gas),2013,40,530,15.1
+Occ,Coal mining ,2013,20,192,20.8
+Occ,Nonmetallic mineral mining and quarrying,2013,17,234,14.5
+Occ,Support activities for mining,2013,103,"1,695",12.2
+Ind,Construction,2013,828,"16,972",9.7
+Ind,Manufacturing,2013,312,"30,211",2.1
+Occ,Food manufacturing,2013,49,"3,388",2.9
+Occ,Wood product manufacturing,2013,29,810,7.2
+Occ,Chemical manufacturing,2013,18,"2,589",1.4
+,Nonmetallic mineral product manufacturing,2013,32,846,7.6
+Occ,"Cement, concrete, lime, and gypsum product manufacturing ",2013,24,282,17
+Occ,Primary metal manufacturing,2013,17,"1,062",3.2
+Occ,Fabricated metal product manufacturing,2013,47,"2,229",4.2
+Occ,Machinery manufacturing,2013,26,"2,536",2.1
+Occ,Transportation equipment manufacturing,2013,20,"4,599",0.9
+,Service providing,2013,"2,306","177,003",2.6
+,"Trade, transportation, and utilities",2013,"1,221","47,699",5.1
+Ind,Wholesale trade,2013,201,"7,484",5.3
+,"Merchant wholesalers, durable goods",2013,111,"3,587",6.1
+Occ,"Machinery, equipment, and supplies, merchant wholesalers     ",2013,18,814,4.2
+Occ,Recyclable material merchant wholesalers,2013,20,223,17.9
+,"Merchant wholesalers, nondurable goods",2013,87,"3,624",4.8
+Occ,"Groceries and related products, merchant wholesalers ",2013,23,"1,746",2.6
+Ind,Retail trade,2013,263,"27,936",1.9
+,Motor vehicle and parts dealers,2013,44,"3,961",2.2
+Occ,Automobile dealers ,2013,26,"2,699",1.9
+Occ,"Automotive parts, accessories, and tire stores  ",2013,15,"1,029",2.9
+Occ,Building material and garden equipment and supplies dealers,2013,24,"2,641",1.8
+,Food and beverage stores,2013,45,"5,326",1.7
+Occ,Grocery stores ,2013,41,"4,649",1.8
+Occ,Gasoline stations ,2013,34,913,7.4
+Occ,Miscellaneous store retailers,2013,29,"1,829",3.1
+Occ,Nonstore retailers,2013,24,999,4.8
+Ind,Transportation and warehousing     ,2013,733,"10,477",14
+Occ,Air transportation ,2013,24,"1,013",4.7
+Occ,Truck transportation ,2013,493,"3,827",25.7
+,Transit and ground passenger transportation,2013,66,"1,120",11.8
+Occ,Bus service and urban transit ,2013,15,587,5.1
+Occ,Taxi and limousine service ,2013,51,533,19.1
+Occ,Support activities for transportation ,2013,69,"1,523",9.1
+Occ,Couriers and messengers,2013,29,"1,325",4.4
+Occ,Warehousing and storage ,2013,17,852,4
+Ind,Utilities,2013,24,"1,802",2.6
+Ind,Information ,2013,40,"5,489",1.5
+Ind,Financial activities,2013,87,"18,889",0.9
+Occ,Finance and insurance,2013,21,"13,707",0.3
+,Real estate and rental and leasing,2013,66,"5,188",2.5
+Occ,Real estate ,2013,48,"4,462",2.2
+Occ,Rental and leasing services,2013,18,728,4.9
+Ind,Professional and business services,2013,430,"31,046",2.8
+,"Professional, scientific, and technical services",2013,87,"19,358",0.9
+Occ,"Architectural, engineering, and related services ",2013,33,"2,913",2.3
+,"Management, administrative, and waste services",2013,343,"11,694",5.8
+Occ,Employment services ,2013,44,"1,779",4.9
+Occ,Investigation and security services ,2013,36,"1,427",5
+Occ,Services to buildings and dwellings (except landscaping services) ,2013,34,"2,418",2.8
+Occ,Landscaping services,2013,158,"2,370",13.2
+Occ,Waste management and remediation services ,2013,51,913,11.2
+Ind,Educational and health services,2013,135,"39,936",0.7
+Occ,Educational services,2013,32,"7,551",0.8
+,Health care and social assistance,2013,103,"32,413",0.6
+Occ,Ambulatory health care services,2013,42,"13,221",0.6
+Occ,Hospitals ,2013,26,"10,301",0.5
+Occ,Social assistance,2013,21,"4,448",0.9
+Ind,Leisure and hospitality,2013,207,"21,514",1.9
+,"Arts, entertainment, and recreation",2013,69,"4,592",2.8
+Occ,"Performing arts, spectator sports, and related industries",2013,35,"1,380",4.9
+Occ,"Amusement, gambling, and recreation industries (except bowling centers)  ",2013,28,"2,925",1.8
+,Accommodation and food services,2013,138,"16,924",1.6
+,Accommodation ,2013,24,"2,669",1.8
+Occ,Traveler accommodation ,2013,16,"2,502",1.3
+,Food services and drinking places,2013,114,"14,278",1.6
+Occ,Restaurants and other food services ,2013,82,"13,893",1.2
+Occ,Drinking places (alcoholic beverages),2013,32,378,16.4
+Ind,Other services (except public administration),2013,186,"12,429",2.7
+,Repair and maintenance,2013,111,"4,094",5.3
+Occ,Automotive repair and maintenance (except car washes),2013,62,"2,495",4.9
+Occ,Personal and laundry services,2013,33,"4,056",1.6
+Occ,"Religious, grantmaking, civic, professional, and similar organizations",2013,40,"3,258",1.4
+Ind,Government,2013,484,"37,194",2
+Occ,Federal government,2013,129,"6,781",1.7
+Occ,State government,2013,72,"11,510",1.3
+Occ,Local government,2013,282,"18,940",2.6

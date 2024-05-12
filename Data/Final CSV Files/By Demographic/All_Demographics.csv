@@ -1,0 +1,199 @@
+Label,Characteristic,Year,fatal_injury_rate
+Dem,16 to 17 years,2006,1.7
+Dem,16 to 17 years,2007,1.9
+Dem,16 to 17 years,2008,2.5
+Dem,16 to 17 years,2010,3
+Dem,16 to 17 years,2016,2.1
+Dem,16 to 17 years,2017,0.8
+Dem,16 to 17 years,2018,1
+Dem,16 to 17 years,2019,2.2
+Dem,16 to 17 years,2020,1.4
+Dem,18 to 19 years,2006,4
+Dem,18 to 19 years,2007,3.5
+Dem,18 to 19 years,2008,2.4
+Dem,18 to 19 years,2009,2.5
+Dem,18 to 19 years,2010,2.8
+Dem,18 to 19 years,2011,3
+Dem,18 to 19 years,2012,2.9
+Dem,18 to 19 years,2013,2.6
+Dem,18 to 19 years,2014,2
+Dem,18 to 19 years,2015,2.1
+Dem,18 to 19 years,2016,1.9
+Dem,18 to 19 years,2017,2.6
+Dem,18 to 19 years,2018,2.3
+Dem,18 to 19 years,2019,2.1
+Dem,18 to 19 years,2020,2.7
+Dem,20 to 24 years,2006,3.1
+Dem,20 to 24 years,2007,3.4
+Dem,20 to 24 years,2008,2.8
+Dem,20 to 24 years,2009,2.4
+Dem,20 to 24 years,2010,2.2
+Dem,20 to 24 years,2011,2.5
+Dem,20 to 24 years,2012,2.4
+Dem,20 to 24 years,2013,2.2
+Dem,20 to 24 years,2014,2.3
+Dem,20 to 24 years,2015,2.7
+Dem,20 to 24 years,2016,2.4
+Dem,20 to 24 years,2017,2.2
+Dem,20 to 24 years,2018,2.1
+Dem,20 to 24 years,2019,2.5
+Dem,20 to 24 years,2020,2.3
+Dem,25 to 34 years,2006,3.3
+Dem,25 to 34 years,2007,3.1
+Dem,25 to 34 years,2008,2.8
+Dem,25 to 34 years,2009,2.4
+Dem,25 to 34 years,2010,2.7
+Dem,25 to 34 years,2011,2.4
+Dem,25 to 34 years,2012,2.4
+Dem,25 to 34 years,2013,2.5
+Dem,25 to 34 years,2014,2.4
+Dem,25 to 34 years,2015,2.3
+Dem,25 to 34 years,2016,2.5
+Dem,25 to 34 years,2017,2.5
+Dem,25 to 34 years,2018,2.7
+Dem,25 to 34 years,2019,2.4
+Dem,25 to 34 years,2020,2.6
+Dem,35 to 44 years,2006,3.7
+Dem,35 to 44 years,2007,3.4
+Dem,35 to 44 years,2008,3.3
+Dem,35 to 44 years,2009,3
+Dem,35 to 44 years,2010,2.9
+Dem,35 to 44 years,2011,2.9
+Dem,35 to 44 years,2012,2.7
+Dem,35 to 44 years,2013,2.8
+Dem,35 to 44 years,2014,2.8
+Dem,35 to 44 years,2015,2.7
+Dem,35 to 44 years,2016,3.1
+Dem,35 to 44 years,2017,2.9
+Dem,35 to 44 years,2018,2.9
+Dem,35 to 44 years,2019,2.9
+Dem,35 to 44 years,2020,2.9
+Dem,45 to 54 years,2006,4.2
+Dem,45 to 54 years,2007,4.1
+Dem,45 to 54 years,2008,3.8
+Dem,45 to 54 years,2009,3.6
+Dem,45 to 54 years,2010,3.6
+Dem,45 to 54 years,2011,3.8
+Dem,45 to 54 years,2012,3.5
+Dem,45 to 54 years,2013,3.4
+Dem,45 to 54 years,2014,3.6
+Dem,45 to 54 years,2015,3.5
+Dem,45 to 54 years,2016,3.5
+Dem,45 to 54 years,2017,3.3
+Dem,45 to 54 years,2018,3.4
+Dem,45 to 54 years,2019,3.4
+Dem,45 to 54 years,2020,3.3
+Dem,55 to 64 years,2006,5.2
+Dem,55 to 64 years,2007,4.9
+Dem,55 to 64 years,2008,4.7
+Dem,55 to 64 years,2009,4.3
+Dem,55 to 64 years,2010,4.7
+Dem,55 to 64 years,2011,4.4
+Dem,55 to 64 years,2012,4.2
+Dem,55 to 64 years,2013,4.1
+Dem,55 to 64 years,2014,4.3
+Dem,55 to 64 years,2015,4.3
+Dem,55 to 64 years,2016,4.7
+Dem,55 to 64 years,2017,4.6
+Dem,55 to 64 years,2018,4.3
+Dem,55 to 64 years,2019,4.6
+Dem,55 to 64 years,2020,4.4
+Dem,65 years and over,2006,14.9
+Dem,65 years and over,2007,13.5
+Dem,65 years and over,2008,12.7
+Dem,65 years and over,2009,12.1
+Dem,65 years and over,2010,11.9
+Dem,65 years and over,2011,11
+Dem,65 years and over,2012,10.3
+Dem,65 years and over,2013,9.2
+Dem,65 years and over,2014,10.7
+Dem,65 years and over,2015,9.4
+Dem,65 years and over,2016,9.6
+Dem,65 years and over,2017,10.3
+Dem,65 years and over,2018,9.6
+Dem,65 years and over,2019,9.4
+Dem,65 years and over,2020,8.6
+Dem,Asian (non-Hispanic),2012,2
+Dem,Asian (non-Hispanic),2013,1.6
+Dem,Asian (non-Hispanic),2014,1.8
+Dem,Asian (non-Hispanic),2015,1.4
+Dem,Asian (non-Hispanic),2016,1.8
+Dem,Asian (non-Hispanic),2017,1.6
+Dem,Asian (non-Hispanic),2018,1.7
+Dem,Asian (non-Hispanic),2019,1.9
+Dem,Asian (non-Hispanic),2020,1.8
+Dem,Black or African-American (non-Hispanic),2006,3.9
+Dem,Black or African-American (non-Hispanic),2007,4.2
+Dem,Black or African-American (non-Hispanic),2008,3.7
+Dem,Black or African-American (non-Hispanic),2009,3.1
+Dem,Black or African-American (non-Hispanic),2010,3
+Dem,Black or African-American (non-Hispanic),2011,3.3
+Dem,Black or African-American (non-Hispanic),2012,3.5
+Dem,Black or African-American (non-Hispanic),2013,3.1
+Dem,Black or African-American (non-Hispanic),2014,3.2
+Dem,Black or African-American (non-Hispanic),2015,3.2
+Dem,Black or African-American (non-Hispanic),2016,3.6
+Dem,Black or African-American (non-Hispanic),2017,3.2
+Dem,Black or African-American (non-Hispanic),2018,3.6
+Dem,Black or African-American (non-Hispanic),2019,3.6
+Dem,Black or African-American (non-Hispanic),2020,3.5
+Dem,Women,2006,0.7
+Dem,Women,2007,0.7
+Dem,Women,2008,0.6
+Dem,Women,2009,0.6
+Dem,Women,2010,0.6
+Dem,Women,2011,0.7
+Dem,Women,2012,0.6
+Dem,Women,2013,0.5
+Dem,Women,2014,0.6
+Dem,Women,2015,0.6
+Dem,Women,2016,0.6
+Dem,Women,2017,0.6
+Dem,Women,2018,0.6
+Dem,Women,2019,0.7
+Dem,Women,2020,0.6
+Dem,Hispanic or Latino,2006,5.3
+Dem,Hispanic or Latino,2007,4.8
+Dem,Hispanic or Latino,2008,4.2
+Dem,Hispanic or Latino,2009,4
+Dem,Hispanic or Latino,2010,3.9
+Dem,Hispanic or Latino,2011,4
+Dem,Hispanic or Latino,2012,3.7
+Dem,Hispanic or Latino,2013,3.9
+Dem,Hispanic or Latino,2014,3.7
+Dem,Hispanic or Latino,2015,4
+Dem,Hispanic or Latino,2016,3.7
+Dem,Hispanic or Latino,2017,3.7
+Dem,Hispanic or Latino,2018,3.7
+Dem,Hispanic or Latino,2019,4.2
+Dem,Hispanic or Latino,2020,4.5
+Dem,Men,2006,6.7
+Dem,Men,2007,6.4
+Dem,Men,2008,6.1
+Dem,Men,2009,5.7
+Dem,Men,2010,5.8
+Dem,Men,2011,5.7
+Dem,Men,2012,5.5
+Dem,Men,2013,5.4
+Dem,Men,2014,5.6
+Dem,Men,2015,5.5
+Dem,Men,2016,5.8
+Dem,Men,2017,5.7
+Dem,Men,2018,5.7
+Dem,Men,2019,5.7
+Dem,Men,2020,5.6
+Dem,White (non-Hispanic),2006,4.1
+Dem,White (non-Hispanic),2007,3.9
+Dem,White (non-Hispanic),2008,3.8
+Dem,White (non-Hispanic),2009,3.5
+Dem,White (non-Hispanic),2010,3.7
+Dem,White (non-Hispanic),2011,3.6
+Dem,White (non-Hispanic),2012,3.5
+Dem,White (non-Hispanic),2013,3.4
+Dem,White (non-Hispanic),2014,3.6
+Dem,White (non-Hispanic),2015,3.5
+Dem,White (non-Hispanic),2016,3.7
+Dem,White (non-Hispanic),2017,3.6
+Dem,White (non-Hispanic),2018,3.6
+Dem,White (non-Hispanic),2019,3.5
+Dem,White (non-Hispanic),2020,3.3
