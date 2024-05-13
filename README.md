@@ -1,3 +1,5 @@
+# CS4440-Team-Project
+
 Group project for CS 4440: Emerging Database Technologies
 
 The goal of this project is to analyze and visualize workplace injury trends over the years- such information would help people understand the risks of certain jobs and industries, and provide insight to those who work in the safety industry (e.g. health and safety administrators, safety equipment manufacturers).
