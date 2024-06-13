@@ -15,7 +15,7 @@ This project analyzes and visualizes workplace injury trends over the years to p
 
   - Utilized Tableau to showcase and compare injury rates by year and by demographic, industry, and occupation
   - Publisehed results to a front-end dashboard webpage
-  - Note: To see our dashboard, please go to Webpage folder, and open page.html
+  - Note: To see our interactive dashboard, please go to Webpage folder, and open page.html
 
 **Key Findings**:
 
