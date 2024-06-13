@@ -1,6 +1,6 @@
 # Analysis and Visualization of Workplace Injuries
 
-This project aims to analyze and visualize workplace injury trends over the years to provide insights into job and industry-related risks. Our goal is to support professionals in the safety industry, such as health and safety administrators and safety equipment manufacturers, as well as everyday people considering career choices.
+This project analyzes and visualizes workplace injury trends over the years to provide insights into job and industry-related risks. Our goal is to support professionals in the safety industry, such as health and safety administrators and safety equipment manufacturers, as well as everyday people considering career choices.
 
 **Data Sourcing and Preprocessing**:
 
