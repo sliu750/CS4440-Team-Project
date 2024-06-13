@@ -20,7 +20,7 @@ This project analyzes and visualizes workplace injury trends over the years to p
 **Key Findings**:
 
   - Not surprisingly, the agriculture, mining, warehousing, and construction industries by far have the highest injury rates.
-  - These insights can inform safety protocols and influence occupational health policies, ultimately helping to reduce workplace injuries.
+  - These insights can inform safety protocols and influence occupational safety policies, ultimately helping to reduce workplace injuries.
 
 
 
